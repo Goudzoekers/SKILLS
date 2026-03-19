@@ -1,0 +1,62 @@
+---
+name: shared-kernel
+description: >
+  Het fundament van het Winstarchitect skill-ecosysteem. Single Source of Truth voor gedeelde
+  frameworks en protocollen. Bevat ook het Orchestratie Protocol. Trigger bij: complete acquisitie,
+  onboard klant, volledige funnel, welke skill, routing, orchestratie, client brief, intake voor
+  klant, start nieuw klantproject. Ook laden wanneer een content-skill gedeelde kennis nodig heeft.
+---
+
+# Shared Kernel — Single Source of Truth
+
+Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nergens anders.
+
+## Reference Files
+
+| Bestand | Inhoud | Laden wanneer |
+|---------|--------|---------------|
+| `references/pig-method.md` | P.I.G. Method: Deep Empathy, Action Beat Map, Crossroads Close | Emotionele copy, hooks, sales pages, webinars |
+| `references/copywriting-principes.md` | 30 conversie-principes | ALTIJD bij copy schrijven |
+| `references/niche-adaptaties.md` | B2C coaches, therapeuten, dienstverleners, e-com, SaaS | Eerste output voor een klant |
+| `references/tov-kalibratie.md` | 10-parameter ToV-profiel, kalibratie-vragen | Onboarding nieuwe klant |
+| `references/schrijfregels-nl.md` | Mobile-first, bullets, "zonder/zodat" | ALTIJD bij NL copy |
+| `references/quality-gate.md` | 3-laags QA systeem | NA elke module, VOOR presentatie |
+| `references/universal-client-brief.md` | Intake template + routing logic | Start nieuw klantproject |
+| `references/golden-examples.md` | 6/10 vs 10/10 per module-type | VOOR elke module |
+| `references/output-heuristieken.md` | 23 scherptests | NA eerste concept |
+| `references/iteratie-protocol-universeel.md` | Feedback loop: data → diagnose → fix per module | NA launch, maandelijks |
+| `references/batch-processing-protocol.md` | Meerdere klanten parallel, lifecycle, prioritering | Bij > 5 klanten actief |
+| `references/lead-nurture-framework.md` | 4 Pilaren: Beschikbaarheid, Snelheid, Personalisatie, Volume. Show rate optimalisatie. | Bij funnel diagnose, lead nurture advies, show-up problemen |
+
+## Orchestratie Protocol
+
+**Dependency Graph:**
+```
+Stap 0: Universal Client Brief (1x per klant)
+Stap 1: ToV Kalibratie (1x per klant)
+Stap 2: core-story-webinar → Perceptie Blueprint
+Stap 3 (parallel): funnel-pages + goated-ads + funnel-scripts
+Stap 4: Quality Gate op ALLE output
+Stap 5: Launch → Analytics → Iteratie (doorlopend)
+```
+
+**Routing:**
+
+| Vraag | Route |
+|---|---|
+| Complete acquisitie | Brief → ToV → Blueprint → Pages + Ads + Scripts |
+| Ads maken | Check Brief → goated-ads |
+| Webinar schrijven | Check Brief → core-story-webinar |
+| Pagina maken | Check Blueprint → funnel-pages |
+| Script schrijven | Check funnel → funnel-scripts |
+| Ad performance | analytics-feedback |
+| Feature bouwen | winst-os |
+| Show rate / lead nurture / no-shows | shared-kernel → `references/lead-nurture-framework.md` + analytics-feedback |
+| Meerdere klanten | Lees batch-processing-protocol.md |
+
+## De Vier Wetten (universeel)
+
+1. Systeem beslist nooit — het informeert
+2. Stabiliteit > features
+3. SSOT = één bron, geen duplicatie
+4. Fix de bron, niet de output
