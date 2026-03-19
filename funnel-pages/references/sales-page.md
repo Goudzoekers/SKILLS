@@ -51,7 +51,7 @@ Module 2: [Naam] — [Wat het oplevert] (waarde: €[X])
 Module 3: [Naam] — [Wat het oplevert] (waarde: €[X])
 ...
 ```
-Per module: naam + resultaat + zonder/zodat. Max 7 modules.
+Per module: naam + resultaat + zonder/zodat-regel (zie `shared-kernel/references/schrijfregels-nl.md`). Max 7 modules.
 
 ### 7. Bonussen
 ```

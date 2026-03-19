@@ -21,7 +21,7 @@ Komt NA stap 9 van het webinar script (bridge). Dit is waar je het aanbod presen
 "Dit is [NAAM PROGRAMMA]. In [TIJDLIJN] ga je van [HUIDIGE SITUATIE] naar [GEWENSTE SITUATIE]."
 
 **5. Wat je krijgt — module voor module**
-Per module: naam + wat het oplevert + "zonder [angst]" of "zodat [verlangen]"
+Per module: naam + wat het oplevert + zonder/zodat-regel (zie `shared-kernel/references/schrijfregels-nl.md`)
 - [SLIDE:] per module een eigen slide
 - Max 5-7 modules. Meer = overweldigend.
 
@@ -59,17 +59,8 @@ Herhaal voor het derde grote bezwaar.
 Nooit nep-schaarste. Het vernietigt vertrouwen.
 
 **14. Crossroads Close**
-```
-OPTIE A (niets doen):
-- [Concreet gevolg van inactie]
-- Over 6 maanden: [waar sta je]
-- Je blijft: [huidige identiteit]
-
-OPTIE B (actie nemen):
-- [Concreet resultaat]
-- Over 6 maanden: [waar sta je]
-- Je wordt: [nieuwe identiteit]
-```
+> **SSOT:** Zie `shared-kernel/references/pig-method.md` → sectie Crossroads Close.
+> Pas het framework toe met de specifieke situatie van deze klant/partner.
 
 **15. CTA — Glashelder**
 "Klik op de knop die nu op je scherm verschijnt. Je komt op een pagina waar je [EXACT PROCES]. Dat is alles."

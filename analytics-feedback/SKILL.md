@@ -23,7 +23,7 @@ Sluit de cirkel: ads draaien → data → diagnose → kaleidoscoop → betere a
 | Kaleidoscoop-technieken | `goated-ads/references/creative-flywheel-methode.md` | Bij variaties op winners |
 | Benchmarks per niche | `references/benchmarks.md` | Elke analyse |
 | Diagnose-frameworks | `references/diagnose-matrix.md` | Elke analyse |
-| Golden examples ads | `references/golden-examples-ads.md` | Bij creative review |
+| Golden examples ads | `references/golden-examples-analytics.md` | Bij creative review |
 
 ## "ANALYSEER MIJN ADS"
 
@@ -61,6 +61,17 @@ Metrics per stap: Ad→Click (CTR >1.5%) → Registratie (CR >25%) → Show-up (
 
 80/20 budget: 80% winners, 20% testing. Max 20-30% verhoging per 3 dagen. Kill na 5 dagen + 1000 impressies onder benchmark. Creative refresh elke 2-4 weken.
 
+## Cross-Skill Connecties
+
+| Diagnose uitkomst | Actie | Delegeer naar |
+|---|---|---|
+| Hook faalt | Nieuwe hooks schrijven | goated-ads |
+| Body/CTA zwak | Body herschrijven | goated-ads |
+| Landing page faalt | Pagina optimaliseren | funnel-pages |
+| Show-up laag | Reminder-reeks + incentives | core-story-webinar (pre-webinar-mails) |
+| Pitch faalt | Script herschrijven | core-story-webinar (pitch-opbouw) |
+| Winner gevonden | Kaleidoscoop variaties | goated-ads (creative-flywheel-methode) |
+
 ## Quality Gate
 
-Data-gebaseerd, niet aannames. Min. 1000 impressies per ad. Niche-specifieke benchmarks. Concreet actieplan (welke skill, welke actie). Schaal-advies incrementeel.
+Data-gebaseerd, niet aannames. Min. 1000 impressies per ad. Niche-specifieke benchmarks (zie `references/benchmarks.md`). Concreet actieplan (welke skill, welke actie). Schaal-advies incrementeel.

@@ -54,6 +54,54 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Show rate / lead nurture / no-shows | shared-kernel → `references/lead-nurture-framework.md` + analytics-feedback |
 | Meerdere klanten | Lees batch-processing-protocol.md |
 
+## Skill Connectie-Kaart
+
+Elke skill heeft een duidelijke grens. Geen overlap.
+
+```
+                    shared-kernel
+                   (fundament: P.I.G., ToV, schrijfregels, QA)
+                         │
+                         ▼
+               core-story-webinar
+              (strategie: Blueprint, webinar script, pitch, mails)
+                    │         │
+          ┌─────────┤         ├──────────┐
+          ▼         ▼         ▼          ▼
+     funnel-pages  goated-ads  funnel-scripts
+     (pagina copy) (ads <100w) (video scripts)
+          │         │          │
+          └────┬────┘          │
+               ▼               │
+        analytics-feedback ◄───┘
+        (data → diagnose → fix routing terug naar juiste skill)
+```
+
+### Eigenaarschap per Content-Type
+
+| Content | Eigenaar | NIET in |
+|---|---|---|
+| Ad hooks, body, CTA (<100 woorden) | goated-ads | funnel-scripts |
+| Video scripts (>100 woorden) | funnel-scripts | goated-ads |
+| Pagina copy + wireframe | funnel-pages | core-story-webinar |
+| Webinar presentatie-script | core-story-webinar | funnel-scripts |
+| E-mail sequences | core-story-webinar | funnel-pages |
+| Performance analyse | analytics-feedback | goated-ads |
+| Kaleidoscoop op winners | goated-ads (maakt) + analytics-feedback (triggert) | — |
+| Benchmarks & metrics | analytics-feedback | shared-kernel |
+| Crossroads Close | shared-kernel (pig-method) | core-story-webinar |
+
+### SSOT Referenties (geen duplicatie)
+
+| Onderwerp | Leeft in (SSOT) | Andere skills verwijzen, kopiëren NIET |
+|---|---|---|
+| P.I.G. Method + Crossroads Close | shared-kernel/references/pig-method.md | Alle skills |
+| Zonder/zodat-regel | shared-kernel/references/schrijfregels-nl.md | Alle skills |
+| Verboden woorden + AI-blacklist | shared-kernel/references/tov-kalibratie.md | Alle skills |
+| Alle benchmarks | analytics-feedback/references/benchmarks.md | core-story-webinar, shared-kernel |
+| Registratiepagina template | funnel-pages/references/registration-page.md | core-story-webinar |
+| Quality Gate (3-laags QA) | shared-kernel/references/quality-gate.md | Alle skills |
+
 ## De Vier Wetten (universeel)
 
 1. Systeem beslist nooit — het informeert

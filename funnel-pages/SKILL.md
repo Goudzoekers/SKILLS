@@ -53,6 +53,17 @@ B2C coaches: Config A of C. Therapeuten: Config E of D.
 
 Vraag ALTIJD: headline, subtekst, of paginalengte? Schrijf twee versies waarbij ALLEEN dat element verschilt.
 
+## Cross-Skill Connecties
+
+| Nodig van andere skill | Bron |
+|---|---|
+| Headline + belofte voor registratiepagina | core-story-webinar → Perceptie Blueprint |
+| Video scripts voor pagina-secties | funnel-scripts → schrijft het script, dit levert de briefing |
+| Ad-belofte voor congruence check | goated-ads → winnende ad hook |
+| Benchmarks voor pagina-conversie | analytics-feedback/references/benchmarks.md |
+| Zonder/zodat-regel | shared-kernel/references/schrijfregels-nl.md |
+| P.I.G. voor sales pages | shared-kernel/references/pig-method.md |
+
 ## Quality Gate
 
-Doorloop `shared-kernel/references/quality-gate.md`. Aanvullend: mobile-first check, geen verbindingstekens, max 3 zinnen per alinea, "zonder/zodat" gebruikt, bullets max 8 woorden, CTA 3x herhaald, prijsanker correct, P.I.G. bij sales pages.
+Doorloop `shared-kernel/references/quality-gate.md`. Aanvullend: mobile-first check, geen verbindingstekens, max 3 zinnen per alinea, zonder/zodat-regel toegepast (zie schrijfregels-nl.md), bullets max 8 woorden, CTA 3x herhaald, prijsanker correct, P.I.G. bij sales pages.

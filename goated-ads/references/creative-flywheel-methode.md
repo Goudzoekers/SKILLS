@@ -89,6 +89,9 @@ Zoek hooks op deze plekken (in volgorde van betrouwbaarheid):
 
 ## CTA-Framework
 
+> **Algemene CTA-regels:** Zie `shared-kernel/references/schrijfregels-nl.md` → CTA-Formules NL.
+> Hieronder de ads-specifieke 5-elementen structuur (Hormozi GOATed Ads methode):
+
 Een goede CTA bevat 5 elementen:
 
 ```

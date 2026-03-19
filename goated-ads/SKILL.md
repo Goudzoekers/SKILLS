@@ -60,6 +60,18 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 - 10 b-roll voorstellen + 10 story-stijl voorstellen
 - Per hook: awareness-niveau (1-5) + hookcategorie + ⭐ als top-10
 
+## Cross-Skill Connecties
+
+| Nodig van andere skill | Bron |
+|---|---|
+| Kernboodschap + perceptie shifts | core-story-webinar → Perceptie Blueprint |
+| Landing page URL + headline (congruence) | funnel-pages → registration-page |
+| Performance data voor kaleidoscoop | analytics-feedback → diagnose-matrix |
+| Video scripts >100 woorden | funnel-scripts (delegeer, niet zelf schrijven) |
+| Zonder/zodat, verboden woorden | shared-kernel/references/schrijfregels-nl.md |
+
+**Delegatie-grens:** goated-ads schrijft ads tot 100 woorden (hooks, body's, CTAs, talking head scripts). Langere video scripts → funnel-scripts. Pagina copy → funnel-pages. Webinar scripts → core-story-webinar.
+
 ## Quality Gate
 
 Doorloop `shared-kernel/references/quality-gate.md`. Check: blindtest, scroll-stop, eerste 5 woorden, hook→body overgang, 3x ja, bewijs, geen oplossing weggegeven, CTA glashelder, max woorden, geen verboden woorden, ritme-check.

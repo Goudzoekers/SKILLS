@@ -26,7 +26,13 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 | Golden Examples | `shared-kernel/references/golden-examples.md` | VOOR elke module |
 | Output-heuristieken | `shared-kernel/references/output-heuristieken.md` | NA eerste concept |
 
-**Eigen references:** `core-story-vragen.md`, `webinar-script-opbouw.md`, `pitch-opbouw.md`, `aanbod-webinar-proof.md`, `opt-in-page.md`, `thank-you-page-survey.md`, `pre-webinar-mails.md`, `post-webinar-mails.md`, `e-mail-formules.md`, `iteratie-protocol.md`
+**Eigen references:** `core-story-vragen.md`, `webinar-script-opbouw.md`, `pitch-opbouw.md`, `aanbod-webinar-proof.md`, `opt-in-page.md` (→ pointer naar funnel-pages), `thank-you-page-survey.md`, `pre-webinar-mails.md`, `post-webinar-mails.md`, `e-mail-formules.md`, `iteratie-protocol.md` (→ benchmarks via analytics-feedback)
+
+**Cross-skill connecties:**
+- Registratiepagina copy → `funnel-pages/references/registration-page.md`
+- Benchmarks & metrics → `analytics-feedback/references/benchmarks.md`
+- Crossroads Close → `shared-kernel/references/pig-method.md`
+- Video scripts voor pagina's → delegeer naar funnel-scripts
 
 ## De 5 Modules
 

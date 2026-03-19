@@ -54,6 +54,18 @@ Pre-event VSL: 1-2 min | Thank you: 2-4 min | Upsell: 3-6 min | Hoofdaanbod VSL:
 - Productie-notities (camera, pacing, b-roll, overlays, muziek)
 - Script <600 woorden → chat. Langer → .docx
 
+## Cross-Skill Connecties
+
+| Input van andere skill | Bron |
+|---|---|
+| Video-briefing (welke pagina, welk type) | funnel-pages/references/video-guidelines.md |
+| Perceptie Blueprint (kernboodschap) | core-story-webinar → Blueprint output |
+| Proof/cases voor in scripts | core-story-webinar/references/aanbod-webinar-proof.md |
+| Ad hooks om in scripts te verwerken | goated-ads → winnende hooks |
+| Zonder/zodat-regel | shared-kernel/references/schrijfregels-nl.md |
+
+**Delegatie-grens:** funnel-scripts schrijft het SCRIPT (woord-voor-woord). funnel-pages schrijft de BRIEFING (specs). goated-ads schrijft ads <100 woorden. core-story-webinar schrijft het webinar presentatie-script.
+
 ## Quality Gate
 
 Doorloop `shared-kernel/references/quality-gate.md`. Check: spreektest, ToV-match, specifiek vs. vaag, emotionele flow, CTA duidelijk, bezwaren geadresseerd, funnel-consistentie, AI-detectie, ademruimte.

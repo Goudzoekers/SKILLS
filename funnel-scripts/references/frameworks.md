@@ -52,7 +52,7 @@ Doel: hoofdaanbod verkopen. Kan standalone of post-webinar.
 [VIJAND:] Waarom het probleem blijft — het is niet hun schuld (2 min)
 [SHIFT:] Het onverwachte inzicht (2 min)
 [OPLOSSING:] Introductie methode/programma (1 min)
-[WAT JE KRIJGT:] Module voor module — met zonder/zodat (3 min)
+[WAT JE KRIJGT:] Module voor module — met zonder/zodat-regel (3 min)
 [BEWIJS:] 3 case studies (3 min)
 [PRIJS:] Waarde stack → investering (1 min)
 [GARANTIE:] Risico wegnemen (30 sec)

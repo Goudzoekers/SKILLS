@@ -13,37 +13,19 @@ Maand 2+: Maandelijkse review → optimalisatie
 
 ## Per Module: Wat Meet Je?
 
-### Ads (goated-ads)
-| Metric | Benchmark | Actie bij underperformance |
-|---|---|---|
-| Hook rate (3s views/impressies) | >25% | Nieuwe hooks schrijven |
-| CTR (link clicks/impressies) | >1.5% | Body/CTA herzien |
-| CPL | Niche-afhankelijk | Zie diagnose-matrix |
-| Frequency | <3 | Creative refresh |
-| Ad leeftijd | <4 weken actief | Kaleidoscoop op winners |
+### Benchmarks per Module
 
-### Funnel Pages
-| Metric | Benchmark | Actie bij underperformance |
-|---|---|---|
-| Registratie CR | >25% | Headline, social proof, formulier |
-| Upsell CR | >10% | Aanbod, urgentie, prijsanker |
-| Bounce rate | <60% | Laadtijd, above-the-fold content |
-| Tijd op pagina | >45 sec | Content engagement |
+> **SSOT:** Alle niche-specifieke benchmarks staan in `analytics-feedback/references/benchmarks.md`.
+> Raadpleeg dat bestand voor concrete drempelwaarden per metric.
 
-### Webinar
-| Metric | Benchmark | Actie bij underperformance |
-|---|---|---|
-| Show-up rate | >30% | Pre-mails, reminders, incentives |
-| Blijf-rate (einde) | >40% | Content kwaliteit, pacing |
-| Pitch conversie | >5% | Pitch structuur, bezwaar-handling |
-| Replay views | Tracking | Replay mails, urgentie |
+### Fix-Routing per Module
 
-### E-mails
-| Metric | Benchmark | Actie bij underperformance |
+| Module | Bij underperformance | Skill |
 |---|---|---|
-| Open rate | >25% | Onderwerpregels |
-| Click rate | >3% | Body copy, CTA |
-| Unsubscribe | <0.5% | Frequentie, relevantie |
+| Ads (CTR, hook rate, CPL) | Nieuwe hooks/creative | goated-ads |
+| Funnel Pages (registratie CR, bounce) | Headline, formulier, laadtijd | funnel-pages |
+| Webinar (show-up, retentie, pitch) | Pre-mails, content, pitch | core-story-webinar |
+| E-mails (open rate, click rate) | Onderwerpregels, body, CTA | core-story-webinar |
 
 ## Diagnose-Framework
 
