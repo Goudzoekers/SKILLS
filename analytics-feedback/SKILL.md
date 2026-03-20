@@ -51,7 +51,7 @@ Identificeer het werkende element → pas 7 kaleidoscoop-technieken toe → 7 va
 
 Metrics per stap: Ad→Click (CTR >1.5%) → Registratie (CR >25%) → Show-up (>30%) → Aankoop (>5-15%). Bottleneck = grootste gap vs. benchmark. Fix van boven naar beneden (waterval-regel).
 
-**Show-up bottleneck?** → Laad `shared-kernel/references/lead-nurture-framework.md`. Diagnose via de 4 Pilaren:
+**Show-up bottleneck?** → Laad `shared-kernel/references/lead-nurture-protocol.md`. Diagnose via de 4 Pilaren:
 1. Beschikbaarheid: genoeg slots? 7 dagen? Flexibele tijden?
 2. Snelheid: <5 min first contact? Max 72h vooruit inplannen?
 3. Personalisatie: kwalificatie? Segmentatie? Incentives? Proof?

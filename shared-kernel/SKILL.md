@@ -28,7 +28,7 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/batch-processing-protocol.md` | Meerdere klanten parallel, lifecycle, prioritering | Bij > 5 klanten actief |
 | `references/lead-nurture-protocol.md` | 4 Pijlers (Availability, Speed, Personalization, Volume), ALAN data, follow-up cadans, BAMFAM | Bij lead nurture, show-up optimalisatie, follow-up sequences |
 | `references/hormozi-source-map.md` | Concept → bron traceerbaarheid (GOATed Ads, Hooks, Lead Nurture) | Bij audit, verdieping, bronverificatie |
-| `references/lead-nurture-framework.md` | 4 Pilaren: Beschikbaarheid, Snelheid, Personalisatie, Volume. Show rate optimalisatie. | Bij funnel diagnose, lead nurture advies, show-up problemen |
+| `references/lead-nurture-protocol.md` | 4 Pilaren: Beschikbaarheid, Snelheid, Personalisatie, Volume. Show rate optimalisatie. | Bij funnel diagnose, lead nurture advies, show-up problemen |
 
 ## Orchestratie Protocol
 
@@ -53,7 +53,7 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Script schrijven | Check funnel → funnel-scripts |
 | Ad performance | analytics-feedback |
 | Feature bouwen | winst-os |
-| Show rate / lead nurture / no-shows | shared-kernel → `references/lead-nurture-framework.md` + analytics-feedback |
+| Show rate / lead nurture / no-shows | shared-kernel → `references/lead-nurture-protocol.md` + analytics-feedback |
 | Meerdere klanten | Lees batch-processing-protocol.md |
 
 ## Skill Connectie-Kaart

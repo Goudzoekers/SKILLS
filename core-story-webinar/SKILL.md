@@ -62,6 +62,20 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 
 **Fase 5 — Sluitsequentie:** 2 paden. Sla op als .docx.
 
+## Cross-Skill Connecties
+
+| Input/output | Bron/bestemming |
+|---|---|
+| Registratiepagina copy | → `funnel-pages/references/registration-page.md` (SSOT) |
+| Video scripts voor webinar-pagina's | → `funnel-scripts` (delegeer) |
+| Ad hooks vanuit Blueprint | → `goated-ads` (Blueprint voedt hook-inspiratie) |
+| Benchmarks & funnel metrics | → `analytics-feedback/references/benchmarks.md` (SSOT) |
+| Crossroads Close framework | → `shared-kernel/references/pig-method.md` (SSOT) |
+| Lead nurture / show-up optimalisatie | → `shared-kernel/references/lead-nurture-protocol.md` |
+| Proof matching per segment | → `shared-kernel/references/niche-adaptaties.md` |
+
+**Delegatie-grens:** core-story-webinar schrijft het webinar presentatie-script, de pitch, en de e-mail sequences. Pagina copy → funnel-pages. Video scripts → funnel-scripts. Ads → goated-ads. Performance analyse → analytics-feedback.
+
 ## Kernprincipes
 
 - B2C = transformatie verkopen, NIET informatie
