@@ -120,3 +120,11 @@ Welk concept komt uit welke bron. Voor verantwoording en verdieping.
 | Transformatie Framework | `core-story-webinar/references/transformatie-framework.md` | Winstarchitect |
 | 4 Wetten (systeem beslist nooit, stabiliteit>features, SSOT, fix de bron) | `shared-kernel/SKILL.md` | Winstarchitect |
 | Winst OS (tech platform) | `winst-os/` | Winstarchitect eigen product |
+| Campaign Plays (5 Revenue Play architecturen) | `shared-kernel/references/campaign-plays.md` | Winstarchitect eigen frameworks |
+| Lazy Last-Minute Lead Generator (Lunch & Learn) | `shared-kernel/references/campaign-plays.md` | Winstarchitect — Play 1 |
+| Betaalde Workshops (Low-Ticket Live Workshop) | `shared-kernel/references/campaign-plays.md` | Winstarchitect — Play 2 |
+| Top 1% Promotie (Most-Aware Segment) | `shared-kernel/references/campaign-plays.md` | Winstarchitect — Play 3 |
+| Back-end Profit VSL (Video Sales Letter) | `shared-kernel/references/campaign-plays.md` | Winstarchitect — Play 4 |
+| Quick-Profit Promoreeks (48-72h E-mail Promotie) | `shared-kernel/references/campaign-plays.md` | Winstarchitect — Play 5 |
+| Teach & Tease Principe | `shared-kernel/references/campaign-plays.md` | Winstarchitect — cross-play patroon |
+| Evergreening Patronen (5 hergebruik-strategieën) | `shared-kernel/references/campaign-plays.md` | Winstarchitect — cross-play patroon |

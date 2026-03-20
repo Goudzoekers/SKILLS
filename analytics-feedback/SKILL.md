@@ -77,6 +77,7 @@ Metrics per stap: Ad→Click (CTR >1.5%) → Registratie (CR >25%) → Show-up (
 | Stage II underperforms (upsell take rate) | Upsell/Downsell herzien | shared-kernel/references/money-model-framework.md → Upsell + Downsell Patronen |
 | Stage III underperforms (churn, LTV) | Continuity Offer herzien | shared-kernel/references/money-model-framework.md → 3 Continuity Patronen |
 | Brand metrics dalen (Influence/Direction) | Brand-consistentie audit | shared-kernel/references/branding-framework.md → Boeket check |
+| Campagne-type performance evalueren | Meet per play-type (L&L→leads, Workshop→ticket+upsell, Top1%→high-ticket CR, VSL→view rate+CR, Promo→email CR) | shared-kernel/references/campaign-plays.md |
 
 ## Quality Gate
 

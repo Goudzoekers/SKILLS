@@ -28,6 +28,7 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/batch-processing-protocol.md` | Meerdere klanten parallel, lifecycle, prioritering | Bij > 5 klanten actief |
 | `references/lead-nurture-protocol.md` | 4 Pijlers (Availability, Speed, Personalization, Volume), ALAN data, follow-up cadans, BAMFAM | Bij lead nurture, show-up optimalisatie, follow-up sequences |
 | `references/hormozi-source-map.md` | Concept → bron traceerbaarheid (GOATed Ads, Hooks, Lead Nurture, Branding, Money Models) | Bij audit, verdieping, bronverificatie |
+| `references/campaign-plays.md` | 5 Revenue Play architecturen (L&L, Workshop, Top 1%, VSL, Promoreeks), Teach&Tease, evergreening, routing | Bij campagne kiezen, revenue play plannen, lijst monetiseren, quick-profit |
 | `references/branding-framework.md` | Branding = pairing, 3 metrics (Reach/Influence/Direction), Branding Cycle, Boeket, 5 marktrichtingen | Bij positionering, brand-consistentie check, content-strategie |
 | `references/money-model-framework.md` | 4 Offer Types, 3 Stages, Attraction/Upsell/Downsell/Continuity patronen, aanbod-sequentie design | Bij funnel-architectuur, aanbod-strategie, pricing, upsell/downsell ontwerp |
 
@@ -59,6 +60,7 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Positionering / branding / merkstrategie | shared-kernel → `references/branding-framework.md` + relevante content-skill |
 | Aanbod-structuur / upsell / downsell / pricing | shared-kernel → `references/money-model-framework.md` + funnel-pages + core-story-webinar |
 | Funnel-architectuur / offer-sequentie | shared-kernel → `references/money-model-framework.md` + `funnel-pages/references/funnel-flow-map.md` |
+| Campagne / revenue play / lijst monetiseren | shared-kernel → `references/campaign-plays.md` → routing naar juiste skills |
 
 ## Skill Connectie-Kaart
 
@@ -109,6 +111,7 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Quality Gate (3-laags QA) | shared-kernel/references/quality-gate.md | Alle skills |
 | Branding Framework (associatie-architectuur) | shared-kernel/references/branding-framework.md | Alle content-skills |
 | Money Model Framework (aanbod-sequentie) | shared-kernel/references/money-model-framework.md | funnel-pages, core-story-webinar, funnel-scripts, goated-ads |
+| Campaign Plays (5 revenue plays) | shared-kernel/references/campaign-plays.md | Alle content-skills |
 
 ## De Vier Wetten (universeel)
 

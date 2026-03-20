@@ -74,6 +74,7 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 | Zonder/zodat, verboden woorden | shared-kernel/references/schrijfregels-nl.md |
 | Ads = Attraction Offer promotie | shared-kernel/references/money-model-framework.md (welke offer promoot deze ad?) |
 | Elke ad = merk-associatie (boeket) | shared-kernel/references/branding-framework.md (is deze ad consistent met het gewenste merk?) |
+| Campagne-type bepaalt ad-strategie (Workshop ads, VSL promotie, L&L awareness) | shared-kernel/references/campaign-plays.md (awareness-mapping per play) |
 
 **Delegatie-grens:** goated-ads schrijft ads tot 100 woorden (hooks, body's, CTAs, talking head scripts). Langere video scripts → funnel-scripts. Pagina copy → funnel-pages. Webinar scripts → core-story-webinar.
 

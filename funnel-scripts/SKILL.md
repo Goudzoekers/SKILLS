@@ -67,6 +67,7 @@ Pre-event VSL: 1-2 min | Thank you: 2-4 min | Upsell: 3-6 min | Hoofdaanbod VSL:
 | Zonder/zodat-regel | shared-kernel/references/schrijfregels-nl.md |
 | Script-type = offer-type (VSL=attraction, upsell=upsell) | shared-kernel/references/money-model-framework.md |
 | Script = hoe de klant het merk HOORT | shared-kernel/references/branding-framework.md |
+| Campagne-type bepaalt scripttype (VSL=Play 4, Workshop intro=Play 2, L&L=Play 1) | shared-kernel/references/campaign-plays.md |
 
 **Delegatie-grens:** funnel-scripts schrijft het SCRIPT (woord-voor-woord). funnel-pages schrijft de BRIEFING (specs). goated-ads schrijft ads <100 woorden. core-story-webinar schrijft het webinar presentatie-script.
 

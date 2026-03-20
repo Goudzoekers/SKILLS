@@ -67,6 +67,7 @@ Vraag ALTIJD: headline, subtekst, of paginalengte? Schrijf twee versies waarbij 
 | P.I.G. voor sales pages | shared-kernel/references/pig-method.md |
 | Offer-type per pagina (Attraction/Upsell/Downsell) | shared-kernel/references/money-model-framework.md |
 | Brand-consistentie (pagina = merk-ervaring) | shared-kernel/references/branding-framework.md |
+| Campagne-type bepaalt paginatype (L&L=registratie, Workshop=mini-salespage, VSL=video-page) | shared-kernel/references/campaign-plays.md |
 
 ## Quality Gate
 

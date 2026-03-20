@@ -24,6 +24,7 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 | ToV-kalibratie | `shared-kernel/references/tov-kalibratie.md` | Fase 0 |
 | Money Model Framework | `shared-kernel/references/money-model-framework.md` | Bij pitch-ontwerp, upsell/downsell in post-mails, aanbod-sequentie |
 | Branding Framework | `shared-kernel/references/branding-framework.md` | Webinar = Level 1+2+3 branding tegelijk. Brand-consistentie door hele funnel. |
+| Campaign Plays | `shared-kernel/references/campaign-plays.md` | Bij campagne-keuze: L&L, Workshop, Top 1%, VSL. Teach&Tease vastleggen VOOR contentcreatie. |
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke module |
 | Golden Examples | `shared-kernel/references/golden-examples.md` | VOOR elke module |
 | Output-heuristieken | `shared-kernel/references/output-heuristieken.md` | NA eerste concept |
@@ -78,6 +79,7 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 | Pitch = Stage II Money Model (upsell) | → `shared-kernel/references/money-model-framework.md` (offer-sequentie) |
 | Post-mails bevatten downsell-patronen | → `shared-kernel/references/money-model-framework.md` (3 Downsell Patronen) |
 | Webinar = brand-building op alle 3 niveaus | → `shared-kernel/references/branding-framework.md` (Branding Cycle) |
+| Campagne-type keuze en Teach&Tease strategie | → `shared-kernel/references/campaign-plays.md` (5 plays + routing) |
 
 **Delegatie-grens:** core-story-webinar schrijft het webinar presentatie-script, de pitch, en de e-mail sequences. Pagina copy → funnel-pages. Video scripts → funnel-scripts. Ads → goated-ads. Performance analyse → analytics-feedback.
 
