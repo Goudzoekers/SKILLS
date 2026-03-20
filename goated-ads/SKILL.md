@@ -21,6 +21,8 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 | Conversie-principes | `shared-kernel/references/copywriting-principes.md` | Elke batch |
 | Schrijfregels NL | `shared-kernel/references/schrijfregels-nl.md` | Elke batch |
 | Niche-aanpassingen | `shared-kernel/references/niche-adaptaties.md` | Eerste batch per klant |
+| Branding Framework | `shared-kernel/references/branding-framework.md` | Ads ZIJN branding. Check boeket-consistentie. Elke hook is een merk-associatie. |
+| Money Model Framework | `shared-kernel/references/money-model-framework.md` | Ads promoten primair de Attraction Offer. Retargeting = upsell-promotie. |
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke batch |
 | Awareness, kaleidoscoop, swipe | `references/creative-flywheel-methode.md` | ALTIJD |
 | 6/10 vs 10/10 ads | `references/golden-examples-ads.md` | VOOR elke batch |
@@ -70,6 +72,8 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 | Performance data voor kaleidoscoop | analytics-feedback → diagnose-matrix |
 | Video scripts >100 woorden | funnel-scripts (delegeer, niet zelf schrijven) |
 | Zonder/zodat, verboden woorden | shared-kernel/references/schrijfregels-nl.md |
+| Ads = Attraction Offer promotie | shared-kernel/references/money-model-framework.md (welke offer promoot deze ad?) |
+| Elke ad = merk-associatie (boeket) | shared-kernel/references/branding-framework.md (is deze ad consistent met het gewenste merk?) |
 
 **Delegatie-grens:** goated-ads schrijft ads tot 100 woorden (hooks, body's, CTAs, talking head scripts). Langere video scripts → funnel-scripts. Pagina copy → funnel-pages. Webinar scripts → core-story-webinar.
 

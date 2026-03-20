@@ -21,6 +21,8 @@ Copy + wireframe structuur voor funnel-pagina's. Primair B2C coaches/therapeuten
 | Conversie-principes | `shared-kernel/references/copywriting-principes.md` | Elke pagina |
 | Niche-aanpassingen | `shared-kernel/references/niche-adaptaties.md` | Elke pagina |
 | P.I.G. storytelling | `shared-kernel/references/pig-method.md` | Sales pages, origin stories |
+| Money Model Framework | `shared-kernel/references/money-model-framework.md` | Bij funnel-architectuur, offer-sequentie, upsell/downsell pagina's |
+| Branding Framework | `shared-kernel/references/branding-framework.md` | Bij brand-consistentie check, pagina-ontwerp dat merkbelofte bevestigt |
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke pagina |
 
 **Eigen references per paginatype:** `references/registration-page.md`, `references/upsell-page.md`, `references/thankyou-page.md`, `references/downsell-page.md`, `references/sales-page.md`, `references/funnel-flow-map.md`, `references/video-guidelines.md`
@@ -63,6 +65,8 @@ Vraag ALTIJD: headline, subtekst, of paginalengte? Schrijf twee versies waarbij 
 | Benchmarks voor pagina-conversie | analytics-feedback/references/benchmarks.md |
 | Zonder/zodat-regel | shared-kernel/references/schrijfregels-nl.md |
 | P.I.G. voor sales pages | shared-kernel/references/pig-method.md |
+| Offer-type per pagina (Attraction/Upsell/Downsell) | shared-kernel/references/money-model-framework.md |
+| Brand-consistentie (pagina = merk-ervaring) | shared-kernel/references/branding-framework.md |
 
 ## Quality Gate
 

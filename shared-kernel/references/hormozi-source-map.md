@@ -67,6 +67,46 @@ Welk concept komt uit welke bron. Voor verantwoording en verdieping.
 | Show rate + close rate + lead-to-close ranking | `shared-kernel/references/lead-nurture-protocol.md` | Cultuur |
 | Lead nurture benchmarks (ALAN data) | `analytics-feedback/references/benchmarks.md` | Lead Nurture Benchmarks |
 
+## $100M Branding Playbook
+
+| Concept | Verwerkt in | Sectie |
+|---|---|---|
+| Branding = pairing (associatie) | `shared-kernel/references/branding-framework.md` | Kerndefinitie |
+| 3 Brand Metrics: Reach, Influence, Direction | `shared-kernel/references/branding-framework.md` | 3 Meetbare Variabelen |
+| Branding Cycle (What We Say → Others Say → They Experience) | `shared-kernel/references/branding-framework.md` | Branding Cycle |
+| Brand = Bouquet metafoor | `shared-kernel/references/branding-framework.md` | Boeket Metafoor |
+| 4-staps brand building (Wie → Wat ze waarderen → Associeer → Optimaliseer) | `shared-kernel/references/branding-framework.md` | 4-Staps Protocol |
+| 5 marktrichtingen (up/down/adjacent/broader/narrower) | `shared-kernel/references/branding-framework.md` | 5 Marktrichtingen |
+| Net Positive Regel bij brand pivots | `shared-kernel/references/branding-framework.md` | 5 Marktrichtingen |
+| Advertising vs. Branding onderscheid | `shared-kernel/references/branding-framework.md` | Advertising vs. Branding |
+| Good beats bad, bad beats none | `shared-kernel/references/branding-framework.md` | Kerndefinitie (impliciet) |
+| Brand goes both ways (merk → product, product → merk) | `shared-kernel/references/branding-framework.md` | Beloftes Maken en Houden |
+| Premium pricing power door brand | `shared-kernel/references/branding-framework.md` | Kerndefinitie + Toepassing |
+
+## $100M Money Models Playbook
+
+| Concept | Verwerkt in | Sectie |
+|---|---|---|
+| Money Model = bewuste sequentie van offers | `shared-kernel/references/money-model-framework.md` | Kerndefinitie |
+| 4 Offer Types (Attraction, Upsell, Downsell, Continuity) | `shared-kernel/references/money-model-framework.md` | De 4 Aanbiedingstypen |
+| 3 Stages (Get Cash, Get More Cash, Get The Most Cash) | `shared-kernel/references/money-model-framework.md` | De 3 Stages |
+| Win Your Money Back Offer | `shared-kernel/references/money-model-framework.md` | 5 Attraction Offer Patronen |
+| Giveaway Offer | `shared-kernel/references/money-model-framework.md` | 5 Attraction Offer Patronen |
+| Decoy Offer (gratis vs. premium) | `shared-kernel/references/money-model-framework.md` | 5 Attraction Offer Patronen |
+| Buy X Get Y Free | `shared-kernel/references/money-model-framework.md` | 5 Attraction Offer Patronen |
+| Pay Less Now or Pay More Later | `shared-kernel/references/money-model-framework.md` | 5 Attraction Offer Patronen |
+| Classic Upsell | `shared-kernel/references/money-model-framework.md` | 4 Upsell Offer Patronen |
+| Menu Upsell | `shared-kernel/references/money-model-framework.md` | 4 Upsell Offer Patronen |
+| Anchor Upsell | `shared-kernel/references/money-model-framework.md` | 4 Upsell Offer Patronen |
+| Rollover Upsell (credit eerdere aankopen) | `shared-kernel/references/money-model-framework.md` | 4 Upsell Offer Patronen |
+| Payment Plan Downsell + Seesaw | `shared-kernel/references/money-model-framework.md` | 3 Downsell Offer Patronen |
+| Trial With Penalty | `shared-kernel/references/money-model-framework.md` | 3 Downsell Offer Patronen |
+| Feature Downsell | `shared-kernel/references/money-model-framework.md` | 3 Downsell Offer Patronen |
+| Continuity Bonus / Discount / Waived Fee | `shared-kernel/references/money-model-framework.md` | 3 Continuity Offer Patronen |
+| Simple scales, fancy fails | `shared-kernel/references/money-model-framework.md` | Operationele Principes |
+| Affiliate-producten vullen Money Model gaten | `shared-kernel/references/money-model-framework.md` | Operationele Principes |
+| Stage-voor-stage bouwvolgorde | `shared-kernel/references/money-model-framework.md` | De 3 Stages |
+
 ## Interne Winstarchitect Frameworks
 
 | Concept | Verwerkt in | Oorsprong |

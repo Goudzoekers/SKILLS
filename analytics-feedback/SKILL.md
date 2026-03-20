@@ -24,6 +24,8 @@ Sluit de cirkel: ads draaien → data → diagnose → kaleidoscoop → betere a
 | Benchmarks per niche | `references/benchmarks.md` | Elke analyse |
 | Diagnose-frameworks | `references/diagnose-matrix.md` | Elke analyse |
 | Golden examples ads | `references/golden-examples-analytics.md` | Bij creative review |
+| Money Model Framework | `shared-kernel/references/money-model-framework.md` | Bij funnel-diagnose: meet per Money Model stage (Stage I=CPL+CR, II=upsell take rate, III=LTV+churn) |
+| Branding Framework | `shared-kernel/references/branding-framework.md` | Meet Reach (impressies), Influence (CTR, CR), Direction (sentiment, herhaalaankopen) |
 
 ## "ANALYSEER MIJN ADS"
 
@@ -71,6 +73,10 @@ Metrics per stap: Ad→Click (CTR >1.5%) → Registratie (CR >25%) → Show-up (
 | Show-up laag | Reminder-reeks + incentives | core-story-webinar (pre-webinar-mails) |
 | Pitch faalt | Script herschrijven | core-story-webinar (pitch-opbouw) |
 | Winner gevonden | Kaleidoscoop variaties | goated-ads (creative-flywheel-methode) |
+| Stage I underperforms (CPL, CR) | Attraction Offer herzien | shared-kernel/references/money-model-framework.md → 5 Attraction Patronen |
+| Stage II underperforms (upsell take rate) | Upsell/Downsell herzien | shared-kernel/references/money-model-framework.md → Upsell + Downsell Patronen |
+| Stage III underperforms (churn, LTV) | Continuity Offer herzien | shared-kernel/references/money-model-framework.md → 3 Continuity Patronen |
+| Brand metrics dalen (Influence/Direction) | Brand-consistentie audit | shared-kernel/references/branding-framework.md → Boeket check |
 
 ## Quality Gate
 

@@ -22,6 +22,8 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 | Conversie-principes | `shared-kernel/references/copywriting-principes.md` | VOOR elke fase |
 | Niche B2C | `shared-kernel/references/niche-adaptaties.md` | Na intake |
 | ToV-kalibratie | `shared-kernel/references/tov-kalibratie.md` | Fase 0 |
+| Money Model Framework | `shared-kernel/references/money-model-framework.md` | Bij pitch-ontwerp, upsell/downsell in post-mails, aanbod-sequentie |
+| Branding Framework | `shared-kernel/references/branding-framework.md` | Webinar = Level 1+2+3 branding tegelijk. Brand-consistentie door hele funnel. |
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke module |
 | Golden Examples | `shared-kernel/references/golden-examples.md` | VOOR elke module |
 | Output-heuristieken | `shared-kernel/references/output-heuristieken.md` | NA eerste concept |
@@ -73,6 +75,9 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 | Crossroads Close framework | → `shared-kernel/references/pig-method.md` (SSOT) |
 | Lead nurture / show-up optimalisatie | → `shared-kernel/references/lead-nurture-protocol.md` |
 | Proof matching per segment | → `shared-kernel/references/niche-adaptaties.md` |
+| Pitch = Stage II Money Model (upsell) | → `shared-kernel/references/money-model-framework.md` (offer-sequentie) |
+| Post-mails bevatten downsell-patronen | → `shared-kernel/references/money-model-framework.md` (3 Downsell Patronen) |
+| Webinar = brand-building op alle 3 niveaus | → `shared-kernel/references/branding-framework.md` (Branding Cycle) |
 
 **Delegatie-grens:** core-story-webinar schrijft het webinar presentatie-script, de pitch, en de e-mail sequences. Pagina copy → funnel-pages. Video scripts → funnel-scripts. Ads → goated-ads. Performance analyse → analytics-feedback.
 

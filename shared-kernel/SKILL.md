@@ -27,7 +27,9 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/iteratie-protocol-universeel.md` | Feedback loop: data → diagnose → fix per module | NA launch, maandelijks |
 | `references/batch-processing-protocol.md` | Meerdere klanten parallel, lifecycle, prioritering | Bij > 5 klanten actief |
 | `references/lead-nurture-protocol.md` | 4 Pijlers (Availability, Speed, Personalization, Volume), ALAN data, follow-up cadans, BAMFAM | Bij lead nurture, show-up optimalisatie, follow-up sequences |
-| `references/hormozi-source-map.md` | Concept → bron traceerbaarheid (GOATed Ads, Hooks, Lead Nurture) | Bij audit, verdieping, bronverificatie |
+| `references/hormozi-source-map.md` | Concept → bron traceerbaarheid (GOATed Ads, Hooks, Lead Nurture, Branding, Money Models) | Bij audit, verdieping, bronverificatie |
+| `references/branding-framework.md` | Branding = pairing, 3 metrics (Reach/Influence/Direction), Branding Cycle, Boeket, 5 marktrichtingen | Bij positionering, brand-consistentie check, content-strategie |
+| `references/money-model-framework.md` | 4 Offer Types, 3 Stages, Attraction/Upsell/Downsell/Continuity patronen, aanbod-sequentie design | Bij funnel-architectuur, aanbod-strategie, pricing, upsell/downsell ontwerp |
 
 ## Orchestratie Protocol
 
@@ -54,6 +56,9 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Feature bouwen | winst-os |
 | Show rate / lead nurture / no-shows | shared-kernel → `references/lead-nurture-protocol.md` + analytics-feedback |
 | Meerdere klanten | Lees batch-processing-protocol.md |
+| Positionering / branding / merkstrategie | shared-kernel → `references/branding-framework.md` + relevante content-skill |
+| Aanbod-structuur / upsell / downsell / pricing | shared-kernel → `references/money-model-framework.md` + funnel-pages + core-story-webinar |
+| Funnel-architectuur / offer-sequentie | shared-kernel → `references/money-model-framework.md` + `funnel-pages/references/funnel-flow-map.md` |
 
 ## Skill Connectie-Kaart
 
@@ -102,6 +107,8 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Alle benchmarks | analytics-feedback/references/benchmarks.md | core-story-webinar, shared-kernel |
 | Registratiepagina template | funnel-pages/references/registration-page.md | core-story-webinar |
 | Quality Gate (3-laags QA) | shared-kernel/references/quality-gate.md | Alle skills |
+| Branding Framework (associatie-architectuur) | shared-kernel/references/branding-framework.md | Alle content-skills |
+| Money Model Framework (aanbod-sequentie) | shared-kernel/references/money-model-framework.md | funnel-pages, core-story-webinar, funnel-scripts, goated-ads |
 
 ## De Vier Wetten (universeel)
 

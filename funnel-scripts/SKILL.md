@@ -20,6 +20,8 @@ Scripts die converteren, natuurlijk klinken bij inspreken, en volledig in de ToV
 | P.I.G. Method | `shared-kernel/references/pig-method.md` | VSL en sales video |
 | Conversie-principes | `shared-kernel/references/copywriting-principes.md` | Elk script |
 | Schrijfregels NL | `shared-kernel/references/schrijfregels-nl.md` | Elk NL script |
+| Money Model Framework | `shared-kernel/references/money-model-framework.md` | Elk script correspondeert met een offer-type: VSL=attraction, upsell video=upsell, etc. |
+| Branding Framework | `shared-kernel/references/branding-framework.md` | Scripts bepalen hoe de klant het merk HOORT. ToV-consistentie = brand-consistentie. |
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elk script |
 | Golden Examples | `shared-kernel/references/golden-examples.md` | VOOR schrijven |
 | Frameworks per scripttype | `references/frameworks.md` | ALTIJD |
@@ -63,6 +65,8 @@ Pre-event VSL: 1-2 min | Thank you: 2-4 min | Upsell: 3-6 min | Hoofdaanbod VSL:
 | Proof/cases voor in scripts | core-story-webinar/references/aanbod-webinar-proof.md |
 | Ad hooks om in scripts te verwerken | goated-ads → winnende hooks |
 | Zonder/zodat-regel | shared-kernel/references/schrijfregels-nl.md |
+| Script-type = offer-type (VSL=attraction, upsell=upsell) | shared-kernel/references/money-model-framework.md |
+| Script = hoe de klant het merk HOORT | shared-kernel/references/branding-framework.md |
 
 **Delegatie-grens:** funnel-scripts schrijft het SCRIPT (woord-voor-woord). funnel-pages schrijft de BRIEFING (specs). goated-ads schrijft ads <100 woorden. core-story-webinar schrijft het webinar presentatie-script.
 
