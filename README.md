@@ -1,6 +1,6 @@
 # Winstarchitect Skills Repository
 
-Het complete skill-ecosysteem voor Winstarchitect. 7 skills, 38 reference files, 1 geïntegreerd acquisitiesysteem.
+Het complete skill-ecosysteem voor Winstarchitect. 7 skills, 41 reference files, 1 geïntegreerd acquisitiesysteem.
 
 ## Architectuur
 
@@ -32,7 +32,7 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 
 ## Inhoudsopgave
 
-### shared-kernel/ (11 references)
+### shared-kernel/ (13 references)
 Het fundament. Gedeelde frameworks en protocollen.
 
 | Bestand | Inhoud |
@@ -49,8 +49,10 @@ Het fundament. Gedeelde frameworks en protocollen.
 | `references/output-heuristieken.md` | 23 scherptests voor output review |
 | `references/iteratie-protocol-universeel.md` | Data → diagnose → fix cyclus |
 | `references/batch-processing-protocol.md` | Meerdere klanten parallel beheren |
+| `references/lead-nurture-protocol.md` | 4 Pijlers: Availability, Speed, Personalization, Volume + ALAN data + BAMFAM |
+| `references/hormozi-source-map.md` | Concept → bron traceerbaarheid (welke Hormozi playbook, welk framework) |
 
-### goated-ads/ (2 references)
+### goated-ads/ (3 references)
 Hoogconverterende META/social ads.
 
 | Bestand | Inhoud |
@@ -58,8 +60,9 @@ Hoogconverterende META/social ads.
 | `SKILL.md` | Ad assembly process, schrijfregels, formats, delivery |
 | `references/creative-flywheel-methode.md` | 5 awareness-niveaus, 7 hook-types, 5 meat-formats, CTA-framework, kaleidoscoop |
 | `references/golden-examples-ads.md` | 6/10 vs 10/10 voor hooks, body, CTAs, talking head, b-roll |
+| `references/hook-library.md` | 8 hook-categorieën, awareness-mapping, nonverbale hooks, swipe file structuur, 70-20-10, hook checklist |
 
-### core-story-webinar/ (10 references)
+### core-story-webinar/ (11 references)
 Het brein van het ecosysteem. Webinar strategie + content.
 
 | Bestand | Inhoud |
@@ -75,6 +78,7 @@ Het brein van het ecosysteem. Webinar strategie + content.
 | `references/post-webinar-mails.md` | 8 mails aanwezig + 4 mails afwezig |
 | `references/e-mail-formules.md` | Onderwerpregels, body-frameworks (PAS, BAB, Story, Value-First) |
 | `references/iteratie-protocol.md` | Webinar-specifieke metrics, diagnose, waterval-regel |
+| `references/transformatie-framework.md` | Alternatief webinar-model: 5 klantverhalen + filmprincipe + emotionele boog |
 
 ### funnel-pages/ (7 references)
 Copy + wireframe voor funnel-pagina's.

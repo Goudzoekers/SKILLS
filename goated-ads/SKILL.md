@@ -24,6 +24,7 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke batch |
 | Awareness, kaleidoscoop, swipe | `references/creative-flywheel-methode.md` | ALTIJD |
 | 6/10 vs 10/10 ads | `references/golden-examples-ads.md` | VOOR elke batch |
+| Hook library + swipe file | `references/hook-library.md` | Bij hook-schrijven, 70-20-10 toepassen, categorie-verdeling |
 
 **Hormozi Playbook Bronnen (verwerkt in bovenstaande references):**
 - $100M GOATed Ads Playbook → Ad Assembly Process, 5 Ad Meat Formats, CTA Framework, Kaleidoscoop, Schaalprincipes

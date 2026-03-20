@@ -2,132 +2,203 @@
 
 Primair doel: maximale show-up rate. Secundair: opwarmen voor het aanbod.
 
+> **Lead Nurture context:** Deze reeks past de 4 pijlers toe uit `shared-kernel/references/lead-nurture-protocol.md` — snelheid (direct na registratie), personalisatie (survey-data), volume (11 touchpoints).
+
 ## Overzicht
 
-| # | Wanneer | Type | Onderwerp-stijl |
+| # | Wanneer | Type | Doel |
 |---|---|---|---|
-| 1 | Direct na registratie | Bevestiging | "Je plek is bevestigd — lees dit even" |
-| 2 | 30 min na registratie | Verwachting zetten | "Dit gaat er gebeuren op [datum]" |
-| 3 | Dag 1 na registratie | Waarde + connectie | "[Voornaam], dit vond ik in je antwoorden" |
-| 4 | Dag 2 | Case study | "[Naam klant] zat in dezelfde situatie als jij" |
-| 5 | Dag 3 | Inzicht teasen | "Het #1 inzicht dat alles veranderde" |
-| 6 | Dag voor webinar | Reminder + excitement | "Morgen om [tijd] — dit moet je weten" |
-| 7 | Ochtend van webinar | Reminder | "Vandaag is de dag — [tijd]" |
-| 8 | 3 uur voor webinar | Reminder | "Over 3 uur gaan we live" |
-| 9 | 1 uur voor webinar | Laatste reminder | "Over 1 uur — hier is je link" |
-| 10 | 15 min voor webinar | Go-time | "We beginnen zo — klik hier om in te loggen" |
-| 11 | Bij start webinar | Live nu | "We zijn LIVE — kom erbij" |
+| 1 | Direct na registratie | Bevestiging | Verwachtingen + agenda |
+| 2 | 30 min later | Verwachting zetten | Excitement |
+| 3 | Dag 1 | Connectie + survey-data | Personalisatie |
+| 4 | Dag 2 | Case study | Bewijs |
+| 5 | Dag 3 | Inzicht teasen | Open loop |
+| 6 | Dag voor webinar | Reminder + waarde | Heractiveren |
+| 7 | Ochtend van webinar | Ochtend-reminder | Dag-bewustzijn |
+| 8 | 3 uur voor | Countdown | Urgentie |
+| 9 | 1 uur voor | Link + instructie | Praktisch |
+| 10 | 15 min voor | Go-time | Laatste push |
+| 11 | Bij start | Live nu | FOMO |
 
-## Mail Templates
-
-### Mail 1: Bevestiging (direct)
+## Mail 1: Bevestiging (direct)
 ```
 Onderwerp: Je plek is bevestigd — lees dit even
 
 Hey [voornaam],
 
-Top! Je staat op de lijst voor [NAAM MASTERCLASS] op [DATUM] om [TIJD].
+Top! Je staat op de lijst voor [NAAM] op [DATUM] om [TIJD].
 
-Drie dingen die je moet weten:
-
+Drie dingen:
 1. Je link komt 1 uur voor de start in je inbox
-2. Zet [DATUM + TIJD] nu in je agenda (link: .ics bijlage)
-3. Check je spam — soms belanden mijn mails daar
+2. Zet het nu in je agenda → [.ics LINK]
+3. Check je spam — soms beland ik daar
 
 Tot [dag]!
-
 [Naam]
 
-P.S. Heb je de korte vragenlijst al ingevuld? [LINK] — kost 30 seconden en helpt me om de masterclass relevant te maken voor JOU.
+P.S. Nog 30 seconden? Vul dit in zodat ik de masterclass relevanter maak voor JOU → [SURVEY LINK]
 ```
 
-### Mail 2: Verwachting zetten (30 min later)
+## Mail 2: Verwachting zetten (30 min later)
 ```
-Onderwerp: Dit gaat er gebeuren op [datum]
+Onderwerp: Dit gaat er gebeuren op [dag]
 
 Hey [voornaam],
 
-Ik wil even delen wat je kunt verwachten:
-
-In [X] minuten laat ik je zien:
+Even kort wat je kunt verwachten. In [X] minuten laat ik je zien:
 → [Belofte 1]
 → [Belofte 2]
 → [Belofte 3]
 
-Dit is geen verkooppraatje. Dit is een echte training waar je mee aan de slag kunt — of je daarna met me werkt of niet.
+Dit is geen verkooppraatje. Dit is een echte training.
 
-Zet het in je agenda. [DATUM] om [TIJD].
-
+[Datum] om [Tijd]. Staat het in je agenda?
 [Naam]
 ```
 
-### Mail 3: Waarde + connectie (dag 1)
+## Mail 3: Connectie + survey-data (dag 1)
 ```
 Onderwerp: [Voornaam], dit viel me op
 
 Hey [voornaam],
 
-Ik heb gekeken naar de antwoorden van iedereen die zich heeft aangemeld.
+Ik heb de antwoorden bekeken van iedereen die zich aanmeldde.
 
-Weet je wat het meest genoemde probleem was? [INSERT SURVEY-DATA]
+Weet je wat het meest genoemde probleem was? [INSERT #1 SURVEY-ANTWOORD]
 
-Als jij dit ook herkent — dan wordt [dag] een eye-opener voor je.
+Als jij dit ook herkent — dan wordt [dag] een eye-opener.
 
-Ik ga namelijk precies laten zien WAAROM dit probleem blijft bestaan en wat je eraan kunt doen.
+Ik ga precies laten zien WAAROM dit blijft bestaan. En wat je eraan kunt doen.
 
 Tot [dag]!
-
 [Naam]
 ```
 
-### Mail 4: Case study (dag 2)
+## Mail 4: Case study (dag 2)
 ```
 Onderwerp: [Klantnaam] zat exact waar jij nu zit
 
 Hey [voornaam],
 
-[Klantnaam] kwam bij me met precies hetzelfde probleem.
+[Klantnaam] kwam bij me met hetzelfde verhaal dat ik van zoveel [avatar] hoor.
 
-[2-3 zinnen over de situatie VOOR]
-[1 zin over wat er veranderde]
-[2-3 zinnen over het resultaat NA — specifiek]
+[2-3 zinnen situatie VOOR — specifiek, herkenbaar]
 
-Op [dag] laat ik je het inzicht zien dat ook bij [klantnaam] het verschil maakte.
+Wat er veranderde? Eén inzicht. Eén verschuiving.
 
+[2-3 zinnen resultaat NA — concreet]
+
+Op [dag] deel ik datzelfde inzicht met jou.
 [Naam]
+
+P.S. [Klantnaam] zei achteraf: "[Quote — max 1 zin]"
 ```
 
-### Mail 5: Inzicht teasen (dag 3)
+## Mail 5: Inzicht teasen (dag 3)
 ```
-Onderwerp: Het #1 inzicht dat alles veranderde
+Onderwerp: Het inzicht dat alles veranderde
 
 Hey [voornaam],
 
-Er is één ding dat ik ontdekte dat ALLES veranderde in hoe ik [onderwerp] aanpak.
+Er is één ding dat ik ontdekte waardoor ALLES verschoof.
 
-Het is niet wat de meeste [experts/coaches/boeken] je vertellen.
-Het is eigenlijk het tegenovergestelde.
+Het is niet wat de meeste [experts/coaches] je vertellen. Eigenlijk het tegenovergestelde.
 
-Op [dag] deel ik het — inclusief het bewijs.
+Op [dag] deel ik het. Inclusief het bewijs.
 
-Dit wordt goed. Zorg dat je erbij bent.
-
+Dit wordt goed.
 [Naam]
 ```
 
-### Mail 6-11: Reminders (korter, urgenter)
+## Mail 6: Dag voor webinar
+```
+Onderwerp: Morgen om [tijd] — bereid je voor
 
-**Format voor reminders:**
-- Kort (3-5 zinnen max)
-- Herinner aan waarde, niet aan datum
-- Elke mail bevat de directe link
-- Laatste 3 mails: alleen link + 1-2 zinnen
+Hey [voornaam],
+
+Morgen is het zover. [NAAM] om [TIJD].
+
+Eén tip: neem pen en papier. Serieus. Mensen die meeschrijven halen er 3x zoveel uit.
+
+Morgen om [tijd]. Je link komt 1 uur van tevoren.
+[Naam]
+
+P.S. Staat het in je agenda? [.ics LINK]
+```
+
+## Mail 7: Ochtend van webinar
+```
+Onderwerp: Vandaag is de dag
+
+Hey [voornaam],
+
+Vandaag om [TIJD] gaan we live.
+
+Je link komt over [X] uur. Houd je inbox in de gaten.
+
+Tot straks.
+[Naam]
+```
+
+## Mail 8: 3 uur voor
+```
+Onderwerp: Over 3 uur gaan we live
+
+[voornaam], om [TIJD] starten we.
+
+Pen en papier klaarleggen. Link komt over 2 uur.
+
+Tot zo!
+[Naam]
+```
+
+## Mail 9: 1 uur voor — Link
+```
+Onderwerp: Hier is je link — over 1 uur live
+
+Hey [voornaam],
+
+Hier is je link: → [WEBINAR LINK]
+
+Klik 5 minuten van tevoren. Tot zo!
+[Naam]
+```
+
+## Mail 10: 15 min voor
+```
+Onderwerp: We beginnen zo
+
+[voornaam], over 15 minuten.
+
+→ [WEBINAR LINK]
+
+Klik nu en zorg dat je klaar zit.
+[Naam]
+```
+
+## Mail 11: Bij start
+```
+Onderwerp: We zijn LIVE
+
+[voornaam], we zijn begonnen!
+
+→ [WEBINAR LINK]
+
+Kom erbij.
+[Naam]
+```
+
+## SMS Varianten (mail 7, 9, 11)
+
+**SMS mail 9:** "Hey [voornaam]! Over 1 uur starten we. Hier je link: [URL] — [Naam]"
+**SMS mail 11:** "We zijn LIVE! Kom erbij: [URL]"
 
 ## Kernprincipes
 
-1. **Elke mail verkoopt de VOLGENDE mail** — open loops
-2. **Show-up is het doel** — niet verkopen in pre-mails
-3. **Personaliseer met survey-data** waar mogelijk
-4. **Kort > lang** — niemand leest lange e-mails van iemand die ze niet kennen
-5. **Agenda-integratie** — .ics bijlage in mail 1
-6. **SMS/WhatsApp** — stuur reminder 7, 9 en 11 ook via SMS als je het nummer hebt
+1. Elke mail verkoopt de VOLGENDE mail — open loops
+2. Show-up is het doel — niet verkopen
+3. Personaliseer met survey-data (mail 3)
+4. Kort > lang
+5. .ics bijlage in mail 1 en 6
+6. Multi-channel: mail + SMS voor mail 7, 9, 11
+7. Afzender = persoonsnaam, niet bedrijfsnaam

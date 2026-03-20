@@ -50,7 +50,11 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 
 **NA BLUEPRINT GOEDKEURING:** Informeer de gebruiker: "De Blueprint voedt nu funnel-pages, goated-ads en funnel-scripts. Doorgaan met Conversie Protocol, of eerst andere modules?"
 
-**Fase 2 — Conversie Protocol:** 10-staps opbouw + 16-staps pitch. Woord-voor-woord, [SLIDE:], [INTERACTIE:]. Sla op als .docx.
+**Keuze webinar-model:**
+- 1 kernprobleem + 1 methode → Core Story (stap 2a hieronder)
+- Multi-module aanbod + breed publiek → Transformatie Framework (zie `references/transformatie-framework.md`)
+
+**Fase 2a — Conversie Protocol (Core Story model):** 10-staps opbouw + 16-staps pitch. Woord-voor-woord, [SLIDE:], [INTERACTIE:]. Sla op als .docx.
 
 **Fase 3 — Toegangslaag:** Opt-in + thank you + survey. Sla op als .docx.
 
