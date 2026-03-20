@@ -40,7 +40,9 @@ Stap 3: Fix van BOVEN naar BENEDEN (waterval-regel)
 
 **Waterval-regel:** Het heeft geen zin om een webinar te optimaliseren als er geen leads binnenkomen. Fix altijd de bovenste bottleneck eerst.
 
-## Fix-Routing
+## Fix-Routing (universeel — welke skill voor welke bottleneck)
+
+> **Scope:** Dit is de HIGH-LEVEL router. Voor ad-specifieke diagnose zie `analytics-feedback/references/diagnose-matrix.md`. Voor webinar-specifieke diagnose zie `core-story-webinar/references/iteratie-protocol.md`.
 
 | Bottleneck | Primaire skill | Secundaire skill |
 |---|---|---|

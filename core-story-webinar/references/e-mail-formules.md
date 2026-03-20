@@ -60,23 +60,11 @@ Herbruikbare frameworks voor alle e-mail types in de funnel.
 
 ## Lead Nurture: Show-Up Maximalisatie
 
-Geïnspireerd door het 4-pilaren model (Availability, Speed, Personalization, Volume):
-
-**Snelheid:** Eerste mail <5 min na opt-in. Bevestiging + verwachting zetten.
-
-**Personalisatie:** Gebruik survey-data in mails. Naam, situatie, #1 uitdaging.
-
-**Volume reminder-cadans:**
-- Direct: bevestiging
-- 30 min: verwachting
-- 24 uur voor: herinnering + waarde
-- 3 uur voor: link
-- 15 min voor: "we beginnen zo"
-- Bij start: "we zijn live"
-
-**Incentive-technieken:**
-- Push: stuur iets waardevols VOOR het webinar (template, checklist, mini-training)
-- Pull: "Wie live aanwezig is krijgt [bonus]"
+> **SSOT:** Zie `shared-kernel/references/lead-nurture-protocol.md` voor het volledige 4-pijlermodel (Beschikbaarheid, Snelheid, Personalisatie, Volume), follow-up cadansen, incentive-technieken en BAMFAM.
+> 
+> Zie `pre-webinar-mails.md` voor de concrete 11-mail show-up reeks.
+> 
+> Dit bestand bevat alleen de e-mail FORMULES en FRAMEWORKS — niet de cadans of nurture-strategie.
 
 ## Technische Regels
 

@@ -28,7 +28,6 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/batch-processing-protocol.md` | Meerdere klanten parallel, lifecycle, prioritering | Bij > 5 klanten actief |
 | `references/lead-nurture-protocol.md` | 4 Pijlers (Availability, Speed, Personalization, Volume), ALAN data, follow-up cadans, BAMFAM | Bij lead nurture, show-up optimalisatie, follow-up sequences |
 | `references/hormozi-source-map.md` | Concept → bron traceerbaarheid (GOATed Ads, Hooks, Lead Nurture) | Bij audit, verdieping, bronverificatie |
-| `references/lead-nurture-protocol.md` | 4 Pilaren: Beschikbaarheid, Snelheid, Personalisatie, Volume. Show rate optimalisatie. | Bij funnel diagnose, lead nurture advies, show-up problemen |
 
 ## Orchestratie Protocol
 
