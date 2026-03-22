@@ -54,6 +54,7 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Pagina maken | Check Blueprint → funnel-pages |
 | Script schrijven | Check funnel → funnel-scripts |
 | Ad performance | analytics-feedback |
+| Ad namen / naamconventie / hernoemen | ad-naamconventie |
 | Feature bouwen | winst-os |
 | Show rate / lead nurture / no-shows | shared-kernel → `references/lead-nurture-protocol.md` + analytics-feedback |
 | Meerdere klanten | Lees batch-processing-protocol.md |
