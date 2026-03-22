@@ -9,11 +9,13 @@
 | Code | Voluit | Wanneer gebruiken | Flywheel OS format_tag |
 |---|---|---|---|
 | `TH` | Talking Head | Persoon spreekt naar camera | TALKING_HEAD |
-| `UGC` | User Generated Content | Klant/gebruiker maakt de content | TESTIMONIAL |
+| `UGC` | User Generated Content | Klant/gebruiker maakt de content | TESTIMONIAL* |
 | `Static` | Statische afbeelding | Enkele afbeelding met tekst | STATIC |
 | `Carousel` | Carousel | Meerdere slides/swipe | CAROUSEL |
 | `Demo` | Demonstratie | Product in actie, voor/na | DEMONSTRATION |
-| `Testi` | Testimonial | Review, quote, getuigenis | TESTIMONIAL |
+| `Testi` | Testimonial | Review, quote, getuigenis | TESTIMONIAL* |
+
+*\*UGC en Testi delen dezelfde `TESTIMONIAL` format_tag in Flywheel OS. Het verschil zit in de ad-naam voor menselijke herkenning, niet op database-niveau.*
 | `Story` | Storytelling | Narratief, "hoe ik van X naar Y" | STORY |
 | `Faceless` | Faceless | Geen gezicht: voice-over, tekst, memes, B-roll | FACELESS |
 | `Edu` | Educatief | How-to, uitleg, whiteboard | EDUCATIONAL |
@@ -152,6 +154,23 @@ Faceless - Tickets live - Urgentie - v1
 
 ---
 
+## Creative Category
+
+Elke ad krijgt naast de naam ook een **Creative Category** in het Execution Board. Dit staat niet in de ad-naam maar beïnvloedt de iteratie-strategie en het Pack-systeem.
+
+| Category | Code | % Doel | Wanneer kiezen |
+|---|---|---|---|
+| Winner Reuse | `WINNER_REUSE` | 70% | Bewezen concept hergebruikt. Gebaseerd op een winner uit de Vault. |
+| Winner Adjacent | `WINNER_ADJACENT` | 20% | Winnend patroon uit andere niche/campagne aangepast. Bijv. Pain-hook van food festival → muziekfestival. |
+| Wild Card | `WILD_CARD` | 10% | Experiment zonder referentie. Nieuw concept om de Intelligence te voeden. |
+
+**Impact op iteraties:**
+- `WINNER_REUSE` v2/v3: swap-varianten op bewezen winners → laag risico
+- `WINNER_ADJACENT`: cross-niche transplantaties → middel risico, potentieel nieuwe winnaars
+- `WILD_CARD` v1: geen parent → als het Patroon A scoort, wordt het de basis voor toekomstige WINNER_REUSE
+
+---
+
 ## Iteratie-regels
 
 ### Variant-nummering
@@ -165,6 +184,8 @@ Faceless - Tickets live - Urgentie - v1
 
 ### Swap-dimensies en naamwijzigingen
 
+Het systeem kent 6 swap-dimensies: `HOOK`, `MODEL`, `PRODUCT`, `FRAMING`, `BODY_CTA`, `VISUAL_STYLE`.
+
 | Swap | Verandert de naam? | Voorbeeld |
 |---|---|---|
 | HOOK (andere opening) | JA — hook segment verandert | `TH - Pijn opener - FOMO - v1` → `TH - Altijd uitverkocht - FOMO - v2` |
@@ -173,13 +194,13 @@ Faceless - Tickets live - Urgentie - v1
 | FRAMING (ander camerastandpunt) | NEE — alleen variant++ | `TH - Pijn opener - FOMO - v1` → `TH - Pijn opener - FOMO - v2` |
 | BODY_CTA (andere body/CTA) | NEE — alleen variant++ | `TH - Pijn opener - FOMO - v1` → `TH - Pijn opener - FOMO - v2` |
 | VISUAL_STYLE (andere editing) | NEE — alleen variant++ | `TH - Pijn opener - FOMO - v1` → `TH - Pijn opener - FOMO - v2` |
-| FORMAT (ander format) | JA — format segment verandert | `TH - Pijn opener - FOMO - v1` → `UGC - Pijn opener - FOMO - v1` |
-| ANGLE (ander angle) | JA — angle segment verandert | `TH - Pijn opener - FOMO - v1` → `TH - Pijn opener - Pijn - v1` |
+
+**Niet in het swap-systeem:** Een ander format (TH→UGC) of een ander angle (FOMO→Pijn) is geen iteratie — het is een nieuw concept. Maak een nieuwe ad met `v1` en zonder `parent_creative_id`. Het systeem trackt alleen de 6 swap-dimensies hierboven als iteratie op een parent.
 
 ### Wanneer begint variant opnieuw bij v1?
 
-Wanneer het Format OF de Hook OF de Angle verandert → nieuw concept → `v1`.
-Wanneer alleen Model, Framing, Body/CTA of Visual Style verandert → zelfde concept → variant++.
+Wanneer het Format OF de Hook OF de Angle verandert → nieuw concept → `v1`, geen parent, geen swap-tracking.
+Wanneer alleen Model, Framing, Body/CTA of Visual Style verandert → zelfde concept → variant++, met parent en swap-tracking.
 
 ---
 

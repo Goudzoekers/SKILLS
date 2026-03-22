@@ -35,11 +35,13 @@ Separator: ` - ` (spatie-streepje-spatie). Altijd 4 segmenten. Altijd dezelfde v
 | Code | Betekenis | Flywheel OS `format_tag` |
 |---|---|---|
 | `TH` | Talking Head | TALKING_HEAD |
-| `UGC` | User Generated Content | TESTIMONIAL |
+| `UGC` | User Generated Content | TESTIMONIAL* |
 | `Static` | Statische afbeelding | STATIC |
 | `Carousel` | Carousel (meerdere slides) | CAROUSEL |
 | `Demo` | Product demonstratie | DEMONSTRATION |
-| `Testi` | Testimonial / review | TESTIMONIAL |
+| `Testi` | Testimonial / review | TESTIMONIAL* |
+
+*\*UGC en Testi delen dezelfde `TESTIMONIAL` format_tag in Flywheel OS. Het systeem onderscheidt ze niet op database-niveau — het verschil zit in de ad-naam voor menselijke herkenning.*
 | `Story` | Storytelling / narratief | STORY |
 | `Faceless` | Geen gezicht, voice-over/tekst | FACELESS |
 | `Edu` | Educatief / how-to | EDUCATIONAL |
@@ -82,6 +84,23 @@ De overtuigingsstrategie of emotionele driver.
 | `v1` | Eerste versie |
 | `v2`, `v3`... | Iteratie (andere edit/copy/visual) |
 | `A`, `B` | A/B test variant |
+
+## Creative Category (verplicht bij aanmaak in Execution Board)
+
+Elke ad krijgt naast Format, Hook en Angle ook een **Creative Category** die bepaalt hoe het Pack-systeem en de Scorecard de creative behandelen.
+
+| Category | Code | Percentage doel | Wanneer kiezen |
+|---|---|---|---|
+| **Winner Reuse** | `WINNER_REUSE` | 70% van je ads | Bewezen hook/format hergebruikt. De ad is gebaseerd op een winner uit de Winner Vault — zelfde concept, kleine aanpassingen. |
+| **Winner Adjacent** | `WINNER_ADJACENT` | 20% van je ads | Winnend patroon uit een andere niche of campagne aangepast. Bijv. een Pain-hook die werkte voor een food festival, vertaald naar jouw muziekfestival. Zelfde emotionele trigger, ander publiek. |
+| **Wild Card** | `WILD_CARD` | 10% van je ads | Experiment. Nieuw concept zonder referentie. Puur om nieuwe combinaties te ontdekken die de Intelligence kan leren. |
+
+**Hoe het de iteratie-strategie beïnvloedt:**
+- `WINNER_REUSE` iteraties (v2, v3) zijn swap-varianten op bewezen winners → laag risico, verwachte performance
+- `WINNER_ADJACENT` zijn cross-niche transplantaties → middel risico, potentieel nieuwe winnaars
+- `WILD_CARD` heeft geen parent → als het Patroon A scoort, wordt het de basis voor toekomstige WINNER_REUSE ads
+
+**In de ad-naam:** de category staat niet in de naam. Het wordt apart getagd in het Execution Board bij het aanmaken van de creative.
 
 ## Operaties
 
@@ -154,7 +173,7 @@ Output: nieuwe naam met verhoogd variant-nummer + `iteration_swaps` metadata.
   iteration_swaps:  [MODEL, VISUAL_STYLE]
   ```
 
-Let op: als alleen MODEL of VISUAL_STYLE is geswapped (niet de hook of angle), blijft de naam gelijk behalve het variant-nummer. De swap wordt gelogd in de metadata, niet in de naam.
+Let op: als alleen MODEL of VISUAL_STYLE is geswapped (niet de hook), blijft de naam gelijk behalve het variant-nummer. De swap wordt gelogd in de metadata, niet in de naam. Een ander format of angle is geen iteratie maar een nieuw concept (→ v1 zonder parent).
 
 ### 5. Pack-namen genereren
 
