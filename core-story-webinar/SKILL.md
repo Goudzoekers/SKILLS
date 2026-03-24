@@ -6,7 +6,8 @@ description: >
   pitch, pre/post webinar mails, webinar opt-in, survey. Dit is de STRATEGIE-ENGINE — de
   Blueprint voedt alle andere skills. Trigger bij: webinar, masterclass, core story,
   kernboodschap, perceptie blueprint, conversie protocol, acquisitie systeem, webinar script,
-  webinar funnel, webinar e-mails, webinar pitch. NIET triggeren bij: losse ads (goated-ads),
+  webinar funnel, webinar e-mails, webinar pitch, webinar deal, onweerstaanbaar aanbod,
+  value stack, webinar evaluatie, dry webinar. NIET triggeren bij: losse ads (goated-ads),
   losse pagina's buiten webinar (funnel-pages), losse video scripts (funnel-scripts).
 ---
 
@@ -29,7 +30,7 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 | Golden Examples | `shared-kernel/references/golden-examples.md` | VOOR elke module |
 | Output-heuristieken | `shared-kernel/references/output-heuristieken.md` | NA eerste concept |
 
-**Eigen references:** `core-story-vragen.md`, `webinar-script-opbouw.md`, `pitch-opbouw.md`, `aanbod-webinar-proof.md`, `opt-in-page.md` (→ pointer naar funnel-pages), `thank-you-page-survey.md`, `pre-webinar-mails.md`, `post-webinar-mails.md`, `e-mail-formules.md`, `iteratie-protocol.md` (→ benchmarks via analytics-feedback)
+**Eigen references:** `core-story-vragen.md`, `webinar-script-opbouw.md`, `pitch-opbouw.md`, `webinar-deal-architectuur.md`, `webinar-evaluatie-protocol.md`, `aanbod-webinar-proof.md`, `opt-in-page.md` (→ pointer naar funnel-pages), `thank-you-page-survey.md`, `pre-webinar-mails.md`, `post-webinar-mails.md`, `e-mail-formules.md`, `iteratie-protocol.md` (→ benchmarks via analytics-feedback)
 
 **Cross-skill connecties:**
 - Registratiepagina copy → `funnel-pages/references/registration-page.md`
@@ -49,9 +50,11 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 
 **Fase 0 — Intake:** Check Client Brief → Aanbod check → ToV kalibratie (10 parameters, 3 testfragmenten, goedkeuring).
 
-**Fase 1 — Blueprint:** Lees `core-story-vragen.md` + `pig-method.md`. Graaf naar PRIMAL drijfveer, VIJAND, MOMENT VAN CRISIS. Werk uit: kern probleem → kern oplossing → kern aanbod.
+**Fase 1 — Blueprint:** Lees `core-story-vragen.md` (incl. Blok 8: Hero Journey) + `pig-method.md`. Graaf naar PRIMAL drijfveer, VIJAND, MOMENT VAN CRISIS, HERO STORY. Werk uit: kern probleem → kern oplossing → kern aanbod. Categoriseer perceptie-shifts als vehicle/internal/external beliefs.
 
-**NA BLUEPRINT GOEDKEURING:** Informeer de gebruiker: "De Blueprint voedt nu funnel-pages, goated-ads en funnel-scripts. Doorgaan met Conversie Protocol, of eerst andere modules?"
+**NA BLUEPRINT GOEDKEURING:** Informeer de gebruiker: "De Blueprint voedt nu funnel-pages, goated-ads en funnel-scripts. Doorgaan met Webinar Deal, of eerst andere modules?"
+
+**Fase 1b — Webinar Deal:** Lees `webinar-deal-architectuur.md`. Bepaal scenario (1/2/3). Architectuur: online cursus → begeleiding → bonussen → snelle beslissersbonus → actieprijs → garantie → price anchor. Stel Value Stack samen. Deal moet staan VOOR het script.
 
 **Keuze webinar-model:**
 - 1 kernprobleem + 1 methode → Core Story (stap 2a hieronder)
@@ -65,10 +68,13 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 
 **Fase 5 — Sluitsequentie:** 2 paden. Sla op als .docx.
 
+**Fase 6 — Evaluatie (na Dry/Live Webinar):** Gebruik `webinar-evaluatie-protocol.md` voor gestructureerde analyse op 20 criteria. Snelle scan (10 checkboxes) of volledige analyse met transcript.
+
 ## Cross-Skill Connecties
 
 | Input/output | Bron/bestemming |
 |---|---|
+| Webinar Deal architectuur | → `core-story-webinar/references/webinar-deal-architectuur.md` (SSOT voor aanbodstructuur) |
 | Registratiepagina copy | → `funnel-pages/references/registration-page.md` (SSOT) |
 | Video scripts voor webinar-pagina's | → `funnel-scripts` (delegeer) |
 | Ad hooks vanuit Blueprint | → `goated-ads` (Blueprint voedt hook-inspiratie) |
@@ -86,9 +92,11 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 ## Kernprincipes
 
 - B2C = transformatie verkopen, NIET informatie
+- Een webinar is GEEN les — het is een mindset shift, een bewustzijnsverschuiving
 - Waarde = perspectief-shift, NIET tips (motivatie > activatie)
 - Gebruik de WOORDEN van de doelgroep
 - Wacht ALTIJD op goedkeuring per fase
+- Webinar Deal moet staan VOOR het script (zie `webinar-deal-architectuur.md`)
 
 ## Quality Gate
 
