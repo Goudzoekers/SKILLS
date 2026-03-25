@@ -130,13 +130,17 @@ Jouw investering vandaag: €[ACTIEPRIJS]
 
 ## Pitch-Timing
 
-| Fase | Duur |
+| Fase | Richtlijn |
 |---|---|
-| A: Bridge | 2-3 min |
-| B: Aanbod + If All + Investering | 6-9 min |
-| C: Risico wegnemen | 3-4 min |
-| D: Urgentie, CTA & FAQ | 3-5 min |
-| **Totaal** | **14-21 min** |
+| A: Bridge | 1-2 min |
+| B: Aanbod + If All + Investering | 4-6 min |
+| C: Risico wegnemen | 2-3 min |
+| D: Urgentie, CTA & FAQ | 2-3 min |
+| **Pitch totaal** | **~10 min** |
+
+De pitch valt binnen de ~60 minuten inhoud van het webinar. Na de pitch volgt het Q&A-blok (~15 minuten). Zie `webinar-script-opbouw.md` → Timing-Doctrine voor het totaaloverzicht.
+
+**Let op:** Een pitch die te lang duurt vreet van de kern-inhoud. Een pitch die te kort duurt mist overtuigingskracht. ~10 minuten is de sweetspot. De 16 stappen hoeven niet allemaal even lang te zijn — sommige zijn 1 slide, andere 2-3.
 
 ## Dry Webinar Checklist
 

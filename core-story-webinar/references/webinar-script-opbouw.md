@@ -107,16 +107,47 @@ Stap 10:   ACTIE — "Ik ga dit doen"
 
 ## Timing
 
-| Onderdeel | Duur | Cumulatief |
+| Onderdeel | Richtlijn | Cumulatief |
 |---|---|---|
-| Opening + Credibility + Bezwaar | 5-7 min | 7 min |
-| Belofte + Big Domino | 2-3 min | 10 min |
-| Probleem | 5-8 min | 18 min |
-| Shift + Framework | 15-23 min | 41 min |
-| Bewijs | 5-8 min | 49 min |
-| Bridge + Pitch | 12-18 min | 67 min |
+| Stap 1: Opening & Herkenning | 3-4 min | 4 min |
+| Stap 2: Credibility | 2-3 min | 7 min |
+| Stap 3: Start-bezwaar + Hint + Diskwalificatie | 2-3 min | 10 min |
+| Stap 4: Belofte + Big Domino | 2-3 min | 13 min |
+| Stap 5: Probleem Verdiepen | 6-9 min | 22 min |
+| Stap 6: De Shift — Kern-Inzicht | 6-9 min | 31 min |
+| Stap 7: Framework — Jouw Methode | 10-14 min | 45 min |
+| Stap 8: Bewijs — Parade of Proof | 5-7 min | 52 min |
+| Stap 9: Samenvatting & Bridge | 2-3 min | 55 min |
+| Stap 10: De Pitch (zie pitch-opbouw.md) | 8-12 min | ~63 min |
+| **Inhoud totaal** | **~60 min** | |
+| Q&A | ~15 min | ~75 min |
 
-**Totaal: 55-70 minuten.** Langer = afhakers. Korter = te weinig overtuiging.
+## Timing-Doctrine
+
+**Richtlijn, geen stopwatch:** De sessie richt zich op ~60 minuten inhoud + ~15 minuten Q&A. Een kleine over- of onderschrijding is prima, maar waak er sterk voor dat het geheel te kort uitvalt. Een te kort webinar betekent te weinig overtuigingskracht, te weinig ruimte voor proof, en een pitch die uit het niets lijkt te komen.
+
+**Per-onderdeel spreektijd:** Geef bij elk onderdeel in het script een geschatte spreektijd aan (bijv. `[~4 min]`). Dit maakt de tijdsverdeling zichtbaar en voorkomt dat secties onbedoeld te dun worden.
+
+**Tijdoverzicht aan het einde:** Sluit elk script af met een totaaloverzicht van de tijdsverdeling per stap, inclusief het Q&A-blok. Format:
+
+```
+TIJDSVERDELING
+Stap 1: Opening & Herkenning          ~X min
+Stap 2: Credibility                   ~X min
+...
+Stap 10: Pitch                        ~X min
+─────────────────────────────────────────────
+Inhoud totaal                          ~XX min
+Q&A                                    ~15 min
+Sessie totaal                          ~XX min
+```
+
+**Te kort dreigt? Vul inhoudelijk aan:**
+- Voeg verdieping toe in stap 5-7 (extra voorbeeld, extra metafoor, case uitwerken)
+- Breid de Parade of Proof uit (extra case study, meer detail per case)
+- Geef meer ruimte aan het framework (extra pijler toelichten, een mini-oefening)
+- Laat een poll of interactiemoment iets langer ademen
+- Voeg GEEN opvulling toe — alles moet de kwaliteit en overtuigingskracht ten goede komen
 
 ## Concept Outline Format
 

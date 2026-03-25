@@ -97,6 +97,7 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 - Gebruik de WOORDEN van de doelgroep
 - Wacht ALTIJD op goedkeuring per fase
 - Webinar Deal moet staan VOOR het script (zie `webinar-deal-architectuur.md`)
+- Richt op ~60 min inhoud + ~15 min Q&A. Te kort = te weinig overtuigingskracht. Geef per onderdeel geschatte spreektijd en sluit af met totaaloverzicht (zie `webinar-script-opbouw.md` → Timing-Doctrine)
 
 ## Quality Gate
 
