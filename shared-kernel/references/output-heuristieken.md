@@ -1,4 +1,4 @@
-# Output-Heuristieken — 23 Scherptests
+# Output-Heuristieken — 30 Scherptests
 
 Doorlopen NA eerste concept, VOOR Quality Gate. Elk "nee" = herschrijf dat element.
 
@@ -37,6 +37,16 @@ Doorlopen NA eerste concept, VOOR Quality Gate. Elk "nee" = herschrijf dat eleme
 22. **De Doelgroep-Test** — Zou de IDEALE klant dit herkennen als "voor mij"? Of trekt het de verkeerde mensen aan?
 23. **De Concurrent-Test** — Zou een concurrent dit ook kunnen zeggen? Ja → unique mechanism sterker neerzetten
 
+## Test 24-30: Nieuwe Frameworks
+
+24. **De Picture-Words-Test (Intensification)** — Lees elke zin in de dromen/toekomst-sectie: kan je het ZIEN? Roept het een visueel beeld op? Nee → herschrijf met picture words
+25. **De 7-Zondes-Test** — Raakt de copy minstens 1 stiekem verlangen dat de doelgroep nooit hardop zegt? (Trots/jaloezie/gemakzucht zijn de 3 meest voorkomende in B2C) Nee → voeg een angle toe
+26. **De Belief-Test** — Zijn de top-3 foute overtuigingen van deze doelgroep expliciet geadresseerd en omgedraaid? Nee → voeg Gradualization-stap toe
+27. **De Sophistication-Test** — Past de claim-intensiteit bij de marktfase? Fase 3-4 = uniek mechanisme + "zonder [bezwaar]". Fase 5 = identiteitsverkoop. Niet matchen → herformuleer
+28. **De Kryptonite-Test** — Is er minstens 1 schijnbare zwakte omgedraaid als kracht? Nee → zoek de zwakte en doe de Uno Reverse
+29. **De Rol-Test (Identification)** — Weet de lezer na het lezen welke ROL ze krijgen door dit product? (Niet wat ze KRIJGEN, maar wie ze WORDEN) Nee → voeg rolverkoop toe
+30. **De Camouflage-Test** — Voelt dit als een verkoopstuk of als een verhaal/artikel/les? Als het voelt als verkoop → vermom het beter
+
 ## Snelle Workflow
 
 ```
@@ -49,6 +59,8 @@ Doorloop tests 9-15 (overtuiging)
 Doorloop tests 16-20 (structuur)
     ↓ fix
 Doorloop tests 21-23 (strategie)
+    ↓ fix
+Doorloop tests 24-30 (frameworks: Schwartz, Mind Mining, Positionering)
     ↓ fix
 → Quality Gate (3 lagen)
     ↓ pass

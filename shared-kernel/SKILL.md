@@ -23,7 +23,7 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/quality-gate.md` | 3-laags QA systeem | NA elke module, VOOR presentatie |
 | `references/universal-client-brief.md` | Intake template + routing logic | Start nieuw klantproject |
 | `references/golden-examples.md` | 6/10 vs 10/10 per module-type | VOOR elke module |
-| `references/output-heuristieken.md` | 23 scherptests | NA eerste concept |
+| `references/output-heuristieken.md` | 30 scherptests (incl. Intensification, 7 Zondes, Belief, Sophistication, Kryptonite, Identification, Camouflage) | NA eerste concept |
 | `references/iteratie-protocol-universeel.md` | Feedback loop: data → diagnose → fix per module | NA launch, maandelijks |
 | `references/batch-processing-protocol.md` | Meerdere klanten parallel, lifecycle, prioritering | Bij > 5 klanten actief |
 | `references/lead-nurture-protocol.md` | 4 Pijlers (Availability, Speed, Personalization, Volume), ALAN data, follow-up cadans, BAMFAM | Bij lead nurture, show-up optimalisatie, follow-up sequences |

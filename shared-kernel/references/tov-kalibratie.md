@@ -19,6 +19,50 @@ Elk parameter wordt gescoord op een schaal. Samen vormen ze een unieke "stem."
 | 9 | Jargon | Lekenttaal ←→ Vaktaal | "Je lichaam raakt uit balans" | "Je HPA-as is ontregeld" |
 | 10 | Provocatie | Veilig ←→ Contrarian | Mainstream standpunten | "Alles wat je geleerd hebt is fout" |
 
+## 9 Stemtypes (Blackman/Woodcock)
+
+Kies 1-2 stemtypes als fundament. Je kunt per context wisselen (bijv. "Vriend aan de Bar" rond je persoon, "Rebel" rond een specifiek onderwerp).
+
+### Voices of Authority
+Positioneer als expert die meer weet dan de klant.
+
+| Type | Kenmerken | Zinsbouw | Past bij |
+|---|---|---|---|
+| **Vertaler** | Complexe materie simpel maken. Geen jargon. Korte zinnen. | "In normaal Nederlands: [simpele uitleg]" | IT, finance, technische niches |
+| **Bezorgde Ouder** | Empathisch, beschermend. Wil klant behoeden voor fouten. Gemiddelde zinnen. | "Ik weet precies hoe je je nu voelt — want zo voelde ik mij ook" | Gezondheid, relaties, geld |
+| **Guru** | Zelfverzekerd, uitdagend. Moeilijkere woorden. Dwingt respect af. | "Keihard cashen met je copy? Dat is niet voor iedereen, maar wel voor mij." | Autoriteitspositionering |
+
+### Voices of Outlook
+Persoonlijke mening en visie doorschemeren.
+
+| Type | Kenmerken | Zinsbouw | Past bij |
+|---|---|---|---|
+| **Optimist** | Enthousiast, hoog tempo, aanmoedigend. Korte zinnen. | "Je kan het! Laten we er gewoon voor gaan!" | Motivatie, coaching, startups |
+| **Rebel** | Tegen de status quo. Wil verandering, NU. Samen tegen de vijand. | "Tuurlijk niet. Je moet juist [tegenovergestelde doen]." | Controversiële positionering |
+| **Underdog** | Nederig, vecht VOOR de klant. Niet voor zichzelf. | "Ik heb geen uitgebreid CV. Dat is precies waarom ik harder werk." | Zorg, startende ondernemers |
+
+### Voices of Accessibility
+Laagdrempelig, menselijk, benaderbaar.
+
+| Type | Kenmerken | Zinsbouw | Past bij |
+|---|---|---|---|
+| **Vriend aan de Bar** | Gewone-mensen-taal. Alledaags met een tikje humor. | "Kolere nog 's aan toe — maar gelukkig ben ik er voor je." | Universeel, altijd veilig |
+| **Doener** | Nieuwsgierig, probeert dingen. Neemt de lezer mee op reis. | "Welke het best past weet ik nog niet — maar daar komen we achter." | Experimentele niches |
+| **Yogi** | Kalm, reflectief, spiritueel. Langere zinnen, contemplatief. | "Als je even stilstaat bij wat je lichaam je probeert te vertellen..." | Spiritueel, gezondheid, mindfulness |
+
+## Alter Ego Elementen (aanvullend op stemtype)
+
+Na het kiezen van het stemtype, definieer ook:
+
+| Element | Vraag | Voorbeeld |
+|---|---|---|
+| **Rol** | Leraar, leider, vriend, guru, superheld, gelijke? | "Strenge maar eerlijke coach" |
+| **Eigen taal** | Eigen woordjes, emoji's, buitenlandse termen? | "veul", "heul", "kolere", 🤓, "aber natürlich" |
+| **Contentparafen** | Herkenbare kenmerken die alleen jij consistent gebruikt? | Altijd openen met ‼️, afsluiten met "— Rick" |
+| **Perspectief** | Optimist, pessimist, realist, idealist? | "Realist met een droge humor" |
+| **Dominante emotie** | Welke emotie wil je primair overbrengen? | "Eerlijke confrontatie met een warm randje" |
+| **Geslacht-match** | Mannelijk of vrouwelijk schrijven? Match met doelgroep? | "Mannelijk, voor vrouwelijke doelgroep → beschermend" |
+
 ## Kalibratie-Proces
 
 ### Stap 1: Bronmateriaal verzamelen
