@@ -28,8 +28,7 @@ Scripts die converteren, natuurlijk klinken bij inspreken, en volledig in de ToV
 | ToV-analyse methode | `references/tone-guide.md` | Als geen ToV-profiel |
 | Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | VSL/sales video: 7 Zondes voor emotionele resonantie, Rogue Gallery voor pijnpunt-opening |
 | Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | VSL/sales video: status dripping in verhaalvorm, Kryptonite Marketing bij bezwaarentkrachting |
-| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | VSL: Intensification (visueel taalgebruik), Identification (rolverkoop), Mechanization (HOE uitleggen). Upsell: Redefinition (prijs herkaderen). |
-| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | VSL/sales video: Intensification (visueel taalgebruik), Identification (rol-toekenning), Mechanization (HOE uitleggen), Camouflage (video voelt als les/verhaal, niet als pitch) |
+| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | VSL: Intensification (visueel taalgebruik), Identification (rolverkoop), Mechanization (HOE uitleggen), Camouflage (video voelt als les/verhaal). Upsell: Redefinition (prijs herkaderen). |
 
 **Check eerst:** Client Brief + Blueprint aanwezig? Ja → gebruik als basis. Nee → verzamel briefing.
 

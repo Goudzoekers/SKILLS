@@ -31,8 +31,7 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 | Output-heuristieken | `shared-kernel/references/output-heuristieken.md` | NA eerste concept |
 | Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Fase 1: 7 Zondes als angle-bron voor kern-drijfveer, Rogue Gallery voor emotionele content, Blair Warren voor overtuigingsstructuur, Belief Mapping voor perceptie-shifts |
 | Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Fase 2a: Infotainment ratio, Status dripping, Kryptonite Marketing bij bezwaren |
-| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Fase 1: Gradualization als structuurprincipe voor belief-bridging. Fase 2a: Intensification (picture words in toekomstvisie), Identification (rolverkoop in pitch), Mechanization (HOE-reveal), Camouflage (webinar voelt als les, niet als pitch) |
-| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Fase 2a: Gradualization = 10-staps opbouw, Intensification bij dromen/toekomst, Identification bij pitch (rolverkoop), Mechanization bij HOE-reveal, Redefinition bij bezwaarentkrachting |
+| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Gradualization = 10-staps opbouw (overtuigingstrap), Intensification bij dromen/toekomst (picture words), Identification bij pitch (rolverkoop), Mechanization bij HOE-reveal (reason-why), Redefinition bij bezwaarentkrachting, Camouflage (webinar voelt als les, niet als pitch) |
 
 **Eigen references:** `core-story-vragen.md`, `webinar-script-opbouw.md`, `pitch-opbouw.md`, `webinar-deal-architectuur.md`, `webinar-evaluatie-protocol.md`, `aanbod-webinar-proof.md`, `opt-in-page.md` (→ pointer naar funnel-pages), `thank-you-page-survey.md`, `pre-webinar-mails.md`, `post-webinar-mails.md`, `e-mail-formules.md`, `iteratie-protocol.md` (→ benchmarks via analytics-feedback)
 
@@ -72,9 +71,7 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 
 **Infotainment Ratio:** 60-70% vermaak/verhalen/persoonlijkheid, 30-40% inhoudelijke waarde. Een webinar is een SHOW met een host, geen les.
 
-**Gradualization als structuurprincipe:** De 10-staps opbouw IS een Gradualization (Schwartz): begin bij een geaccepteerde overtuiging, bouw stap voor stap naar de conclusie die de koop onvermijdelijk maakt. Elke stap moet logisch en onvermijdelijk voelen. Gebruik `breakthrough-advertising.md` → Gradualization + Belief Mapping voor de exacte sequentie.
-
-**Schwartz Persuasion Mapping:** De 10-staps opbouw IS Gradualization (overtuigingstrap). Het HOE-onderdeel = Mechanization (reason-why copy). Dromen/toekomst-pacing = Intensification (picture words). Pitch = Identification (rolverkoop) + Redefinition (bezwaar-herkadering).
+**Schwartz Persuasion Mapping:** De 10-staps opbouw IS Gradualization: begin bij een geaccepteerde overtuiging, bouw stap voor stap naar de koop als onvermijdelijke conclusie. Het HOE-onderdeel = Mechanization (reason-why copy). Dromen/toekomst-pacing = Intensification (picture words). Pitch = Identification (rolverkoop) + Redefinition (bezwaar-herkadering). Camouflage = het hele webinar voelt als een les, niet als een pitch.
 
 **Status Dripping:** Verwerk subtiel in het script: klantresultaten, associaties, credentials, onbereikbaarheid. Camoufleer in verhalen — nooit expliciet opscheppen. Gebruik Kryptonite Marketing bij het benoemen van eigen "zwaktes" (hoge prijs, strenge selectie, lange wachttijd).
 
