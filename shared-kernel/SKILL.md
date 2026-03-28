@@ -18,7 +18,7 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/pig-method.md` | P.I.G. Method: Deep Empathy, Action Beat Map, Crossroads Close | Emotionele copy, hooks, sales pages, webinars |
 | `references/copywriting-principes.md` | 30 conversie-principes | ALTIJD bij copy schrijven |
 | `references/niche-adaptaties.md` | B2C coaches, therapeuten, dienstverleners, e-com, SaaS | Eerste output voor een klant |
-| `references/tov-kalibratie.md` | 10-parameter ToV-profiel, kalibratie-vragen | Onboarding nieuwe klant |
+| `references/tov-kalibratie.md` | 10-parameter ToV-profiel, kalibratie-vragen, 9 stemtypes (Blackman/Woodcock) | Onboarding nieuwe klant |
 | `references/schrijfregels-nl.md` | Mobile-first, bullets, "zonder/zodat" | ALTIJD bij NL copy |
 | `references/quality-gate.md` | 3-laags QA systeem | NA elke module, VOOR presentatie |
 | `references/universal-client-brief.md` | Intake template + routing logic | Start nieuw klantproject |
@@ -31,17 +31,22 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/campaign-plays.md` | 5 Revenue Play architecturen (L&L, Workshop, Top 1%, VSL, Promoreeks), Teach&Tease, evergreening, routing | Bij campagne kiezen, revenue play plannen, lijst monetiseren, quick-profit |
 | `references/branding-framework.md` | Branding = pairing, 3 metrics (Reach/Influence/Direction), Branding Cycle, Boeket, 5 marktrichtingen | Bij positionering, brand-consistentie check, content-strategie |
 | `references/money-model-framework.md` | 4 Offer Types, 3 Stages, Attraction/Upsell/Downsell/Continuity patronen, aanbod-sequentie design | Bij funnel-architectuur, aanbod-strategie, pricing, upsell/downsell ontwerp |
+| `references/doelgroep-mind-mining.md` | 7 Zondes (verborgen verlangens), Rogue Gallery (7 emotiecategorieën), Blair Warren (5 overtuigingsframes), Market Awareness (5 niveaus), Market Sophistication (5 fasen), Belief Mapping | Bij intake, hook-generatie, angle-mining, headline-keuze, webinar blueprint, elke content-skill |
+| `references/positionering-frameworks.md` | Alter Ego (3 thema's), Kryptonite Marketing, Defy the Norms, Status & Autoriteit (10 tactieken), Thought Leadership, Filosofie-manifest, Infotainment Formula, 9 Stemtypes | Bij personal brand, ToV, webinar positionering, sales page "Over Jou", content-strategie |
 
 ## Orchestratie Protocol
 
 **Dependency Graph:**
 ```
 Stap 0: Universal Client Brief (1x per klant)
+  └→ Incl. Doelgroep Mind Mining: 7 Zondes, Rogue Gallery, awareness/sophistication, belief mapping
 Stap 1: ToV Kalibratie (1x per klant)
+  └→ Incl. 9 stemtypes + alter ego profiel + positionering
 Stap 2: core-story-webinar → Perceptie Blueprint
 Stap 3 (parallel): funnel-pages + goated-ads + funnel-scripts
 Stap 4: Quality Gate op ALLE output
 Stap 5: Launch → Analytics → Iteratie (doorlopend)
+  └→ FEEDBACKLOOP: analytics-feedback → verrijk Mind Mining profiel → hervalideer Blueprint
 ```
 
 **Routing:**
@@ -62,6 +67,9 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Aanbod-structuur / upsell / downsell / pricing | shared-kernel → `references/money-model-framework.md` + funnel-pages + core-story-webinar |
 | Funnel-architectuur / offer-sequentie | shared-kernel → `references/money-model-framework.md` + `funnel-pages/references/funnel-flow-map.md` |
 | Campagne / revenue play / lijst monetiseren | shared-kernel → `references/campaign-plays.md` → routing naar juiste skills |
+| Hook-angles / emotionele triggers | shared-kernel → `references/doelgroep-mind-mining.md` → 7 Zondes + Rogue Gallery |
+| Positionering / personal brand / alter ego | shared-kernel → `references/positionering-frameworks.md` + `references/branding-framework.md` |
+| Market awareness / sophistication bepalen | shared-kernel → `references/doelgroep-mind-mining.md` → awareness + sophistication matrix |
 
 ## Skill Connectie-Kaart
 
@@ -113,10 +121,13 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Branding Framework (associatie-architectuur) | shared-kernel/references/branding-framework.md | Alle content-skills |
 | Money Model Framework (aanbod-sequentie) | shared-kernel/references/money-model-framework.md | funnel-pages, core-story-webinar, funnel-scripts, goated-ads |
 | Campaign Plays (5 revenue plays) | shared-kernel/references/campaign-plays.md | Alle content-skills |
+| Doelgroep Mind Mining (7 Zondes, Rogue Gallery, Blair Warren, awareness/sophistication, beliefs) | shared-kernel/references/doelgroep-mind-mining.md | Alle content-skills |
+| Positionering Frameworks (Alter Ego, Kryptonite, Status, Infotainment, 9 Stemtypes) | shared-kernel/references/positionering-frameworks.md | Alle content-skills |
 
-## De Vier Wetten (universeel)
+## De Vijf Wetten (universeel)
 
 1. Systeem beslist nooit — het informeert
 2. Stabiliteit > features
 3. SSOT = één bron, geen duplicatie
 4. Fix de bron, niet de output
+5. Geen output zonder feedbackloop — elke module meet, elke meting verrijkt het klantprofiel

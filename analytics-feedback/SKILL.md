@@ -26,6 +26,7 @@ Sluit de cirkel: ads draaien → data → diagnose → kaleidoscoop → betere a
 | Golden examples ads | `references/golden-examples-analytics.md` | Bij creative review |
 | Money Model Framework | `shared-kernel/references/money-model-framework.md` | Bij funnel-diagnose: meet per Money Model stage (Stage I=CPL+CR, II=upsell take rate, III=LTV+churn) |
 | Branding Framework | `shared-kernel/references/branding-framework.md` | Meet Reach (impressies), Influence (CTR, CR), Direction (sentiment, herhaalaankopen) |
+| Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Bij Stap 5: verrijk klantprofiel op basis van wat converteert |
 
 ## "ANALYSEER MIJN ADS"
 
@@ -44,6 +45,19 @@ Sluit de cirkel: ads draaien → data → diagnose → kaleidoscoop → betere a
 **Stap 3 — Classificeer:** 🏆 Winners (top 20% → schalen), 📊 Potentials (fix 1 element), ❌ Kill (bottom 20% → uitzetten).
 
 **Stap 4 — Rapport:** Samenvatting → Winners → Potentials → Kill → Actieplan → Kaleidoscoop-suggesties.
+
+**Stap 5 — Doelgroep Enrichment (FEEDBACKLOOP):**
+Analyseer winners en vertaal terug naar het klantprofiel (zie `doelgroep-mind-mining.md`):
+
+| Wat converteert? | Verrijkt welk profiel-element? |
+|---|---|
+| Welke hook-angles winnen? | → Welke pijnpunten/verlangens zijn het sterkst (Rogue Gallery update) |
+| Welke 7 Zondes-hooks presteren? | → Welke stiekeme drijfveer is dominant (7 Zondes ranking) |
+| Welk awareness-niveau converteert best? | → Waar zit het gros van de doelgroep (awareness-distributie) |
+| Welke sophistication-claims pakken? | → In welke fase zit de markt nu (sophistication tracking) |
+| Welke emotie in body's wint? | → Welk Blair Warren-frame resoneert (dromen/falen/angst/vermoeden/vijand) |
+
+**Output:** Naast het performance-rapport, lever een "Profiel Update" sectie: welke aannames over de doelgroep zijn bevestigd/ontkracht, en wat dit betekent voor de volgende batch hooks, het webinar script, en de sales page copy.
 
 ## "MAAK VARIATIES OP WINNERS"
 
@@ -78,7 +92,8 @@ Metrics per stap: Ad→Click (CTR >1.5%) → Registratie (CR >25%) → Show-up (
 | Stage III underperforms (churn, LTV) | Continuity Offer herzien | shared-kernel/references/money-model-framework.md → 3 Continuity Patronen |
 | Brand metrics dalen (Influence/Direction) | Brand-consistentie audit | shared-kernel/references/branding-framework.md → Boeket check |
 | Campagne-type performance evalueren | Meet per play-type (L&L→leads, Workshop→ticket+upsell, Top1%→high-ticket CR, VSL→view rate+CR, Promo→email CR) | shared-kernel/references/campaign-plays.md |
+| Doelgroep profiel verrijken | Stap 5 output → update awareness/sophistication/7 Zondes/Rogue Gallery | shared-kernel/references/doelgroep-mind-mining.md |
 
 ## Quality Gate
 
-Data-gebaseerd, niet aannames. Min. 1000 impressies per ad. Niche-specifieke benchmarks (zie `references/benchmarks.md`). Concreet actieplan (welke skill, welke actie). Schaal-advies incrementeel.
+Data-gebaseerd, niet aannames. Min. 1000 impressies per ad. Niche-specifieke benchmarks (zie `references/benchmarks.md`). Concreet actieplan (welke skill, welke actie). Schaal-advies incrementeel. Profiel Update sectie aanwezig met concrete verrijkingen.

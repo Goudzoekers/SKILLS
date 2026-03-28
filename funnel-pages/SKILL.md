@@ -23,6 +23,8 @@ Copy + wireframe structuur voor funnel-pagina's. Primair B2C coaches/therapeuten
 | P.I.G. storytelling | `shared-kernel/references/pig-method.md` | Sales pages, origin stories |
 | Money Model Framework | `shared-kernel/references/money-model-framework.md` | Bij funnel-architectuur, offer-sequentie, upsell/downsell pagina's |
 | Branding Framework | `shared-kernel/references/branding-framework.md` | Bij brand-consistentie check, pagina-ontwerp dat merkbelofte bevestigt |
+| Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Headline (awareness/sophistication), Probleem-sectie (Rogue Gallery), Dromen-sectie (7 Zondes), Belief Installation Check |
+| Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Over Jou (status dripping), Uniek Mechanisme (Defy the Norms), Consequenties (Kryptonite Marketing) |
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke pagina |
 
 **Eigen references per paginatype:** `references/registration-page.md`, `references/upsell-page.md`, `references/thankyou-page.md`, `references/downsell-page.md`, `references/sales-page.md`, `references/funnel-flow-map.md`, `references/video-guidelines.md`
@@ -68,6 +70,23 @@ Vraag ALTIJD: headline, subtekst, of paginalengte? Schrijf twee versies waarbij 
 | Offer-type per pagina (Attraction/Upsell/Downsell) | shared-kernel/references/money-model-framework.md |
 | Brand-consistentie (pagina = merk-ervaring) | shared-kernel/references/branding-framework.md |
 | Campagne-type bepaalt paginatype (L&L=registratie, Workshop=mini-salespage, VSL=video-page) | shared-kernel/references/campaign-plays.md |
+
+## Sales Page Enrichment (bij sales-page.md)
+
+**Headline Alignment op Market Awareness + Sophistication** (zie `doelgroep-mind-mining.md`):
+- Probleembewust → headline raakt het probleem, laat pijn voelen
+- Oplossingsbewust → headline toont verlangen + differentieert
+- Productbewust → uniek mechanisme + "zonder [bezwaar]"
+- Compleet bewust → de deal (prijs, urgentie, exclusiviteit)
+- Sophistication fase 5 → identiteit verkopen
+
+**Sectie-specifieke verrijkingen:**
+- Probleem-sectie: gebruik Rogue Gallery angles (angst, boosheid, frustratie, onzekerheid)
+- Over Jou: status dripping + Kryptonite Marketing (zwakte→kracht)
+- Uniek Mechanisme: Defy the Norms (positioneer tegen marktnorm)
+- Dromen-sectie: 7 Zondes als extra lens (welk stiekem verlangen drijft de aankoop?)
+
+**Belief Installation Check:** Loop NA het schrijven alle secties na: welke foute overtuigingen zijn geadresseerd? Welke ontbreken? Vul aan.
 
 ## Quality Gate
 

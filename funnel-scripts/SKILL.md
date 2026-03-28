@@ -26,6 +26,8 @@ Scripts die converteren, natuurlijk klinken bij inspreken, en volledig in de ToV
 | Golden Examples | `shared-kernel/references/golden-examples.md` | VOOR schrijven |
 | Frameworks per scripttype | `references/frameworks.md` | ALTIJD |
 | ToV-analyse methode | `references/tone-guide.md` | Als geen ToV-profiel |
+| Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | VSL/sales video: 7 Zondes voor emotionele resonantie, Rogue Gallery voor pijnpunt-opening |
+| Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | VSL/sales video: status dripping in verhaalvorm, Kryptonite Marketing bij bezwaarentkrachting |
 
 **Check eerst:** Client Brief + Blueprint aanwezig? Ja → gebruik als basis. Nee → verzamel briefing.
 
@@ -42,8 +44,10 @@ Aanbevolen: ToV referentie, unique mechanism, resultaten/bewijs, bezwaren, funne
 2. Specifiek > vaag — echte namen, cijfers. Ontbrekend: [INVULLEN: ...]
 3. Eén emotie per sectie — wissel bewust af
 4. Kijker = held — HUN transformatie
-5. Bezwaren hardop benoemen en neutraliseren
+5. Bezwaren hardop benoemen en neutraliseren — gebruik Kryptonite Marketing: zwakte → kracht (zie `positionering-frameworks.md`)
 6. Eén glasheldere CTA
+7. Infotainment ratio: 60-70% vermaak/verhaal/persoonlijkheid, 30-40% inhoud — ook in video scripts
+8. Status dripping in VSL/sales video: credentials, resultaten, associaties subtiel in verhaalvorm — nooit een los "over mij"-blok
 
 ## Lengte-richtlijnen
 

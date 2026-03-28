@@ -27,6 +27,8 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 | Awareness, kaleidoscoop, swipe | `references/creative-flywheel-methode.md` | ALTIJD |
 | 6/10 vs 10/10 ads | `references/golden-examples-ads.md` | VOOR elke batch |
 | Hook library + swipe file | `references/hook-library.md` | Bij hook-schrijven, 70-20-10 toepassen, categorie-verdeling |
+| Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Bij hook-generatie: 7 Zondes als angle-bron, Rogue Gallery voor emotie-angles, sophistication voor claim-intensiteit |
+| Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Bij status-hooks, Kryptonite-angles, Defy the Norms stellingen |
 
 **Hormozi Playbook Bronnen (verwerkt in bovenstaande references):**
 - $100M GOATed Ads Playbook → Ad Assembly Process, 5 Ad Meat Formats, CTA Framework, Kaleidoscoop, Schaalprincipes
@@ -43,7 +45,17 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 
 ## Structuur: Hook → Body → CTA
 
-**Hook (1-2 zinnen):** Scroll-stop. Eerste 5 woorden = triggerwoord. 4 patronen: call-out, stelling, triggerende vraag, P.I.G. Line.
+**Hook (1-2 zinnen):** Scroll-stop. Eerste 5 woorden = triggerwoord. 4 patronen: call-out, stelling, triggerende vraag, P.I.G. Line. 8 hook-categorieën in `references/hook-library.md`.
+
+**Angle-mining via 7 Zondes:** Gebruik trots/hebzucht/lust/jaloezie/vraatzucht/woede/gemakzucht als extra lens. Spreek het stiekeme verlangen aan dat de doelgroep nooit hardop zegt. Combineer met hook-categorieën uit de library.
+
+**Angle-mining via Rogue Gallery:** Genereer hooks vanuit 7 emotiecategorieën: angst, boosheid, frustratie, onzekerheid, fysieke pijn, emotionele pijn, eenzaamheid.
+
+**Market Sophistication Alignment:** Match claim-intensiteit aan de fase van de doelgroep:
+- Fase 1-2: directe belofte + concreet resultaat
+- Fase 3: uniek mechanisme benoemen
+- Fase 4: mechanisme versterken + "zonder [bezwaar]"
+- Fase 5: identiteit verkopen — gebruik 7 Zondes als primaire angle-bron
 
 **Body (4-6 zinnen):** 5 functies: 3x ja, bewijs, autoriteit, inactie>actie, nieuwsgierigheid. Types: emotioneel of bewijs-gedreven. Introduceer masterclass aan het einde.
 
@@ -61,7 +73,7 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 - 5 body's (mix emotioneel/bewijs)
 - 3 CTAs
 - 10 b-roll voorstellen + 10 story-stijl voorstellen
-- Per hook: awareness-niveau (1-5) + hookcategorie + ⭐ als top-10
+- Per hook: awareness-niveau (1-5) + sophistication-fase (1-5) + hookcategorie + ⭐ als top-10
 
 ## Cross-Skill Connecties
 
@@ -80,4 +92,4 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 
 ## Quality Gate
 
-Doorloop `shared-kernel/references/quality-gate.md`. Check: blindtest, scroll-stop, eerste 5 woorden, hook→body overgang, 3x ja, bewijs, geen oplossing weggegeven, CTA glashelder, max woorden, geen verboden woorden, ritme-check.
+Doorloop `shared-kernel/references/quality-gate.md`. Check: blindtest, scroll-stop, eerste 5 woorden, hook→body overgang, 3x ja, bewijs, geen oplossing weggegeven, CTA glashelder, max woorden, geen verboden woorden, ritme-check, sophistication-match.

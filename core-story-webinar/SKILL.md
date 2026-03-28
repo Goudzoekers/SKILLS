@@ -29,6 +29,8 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke module |
 | Golden Examples | `shared-kernel/references/golden-examples.md` | VOOR elke module |
 | Output-heuristieken | `shared-kernel/references/output-heuristieken.md` | NA eerste concept |
+| Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Fase 1: 7 Zondes als angle-bron voor kern-drijfveer, Rogue Gallery voor emotionele content, Blair Warren voor overtuigingsstructuur, Belief Mapping voor perceptie-shifts |
+| Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Fase 2a: Infotainment ratio, Status dripping, Kryptonite Marketing bij bezwaren |
 
 **Eigen references:** `core-story-vragen.md`, `webinar-script-opbouw.md`, `pitch-opbouw.md`, `webinar-deal-architectuur.md`, `webinar-evaluatie-protocol.md`, `aanbod-webinar-proof.md`, `opt-in-page.md` (→ pointer naar funnel-pages), `thank-you-page-survey.md`, `pre-webinar-mails.md`, `post-webinar-mails.md`, `e-mail-formules.md`, `iteratie-protocol.md` (→ benchmarks via analytics-feedback)
 
@@ -50,7 +52,11 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 
 **Fase 0 — Intake:** Check Client Brief → Aanbod check → ToV kalibratie (10 parameters, 3 testfragmenten, goedkeuring).
 
-**Fase 1 — Blueprint:** Lees `core-story-vragen.md` (incl. Blok 8: Hero Journey) + `pig-method.md`. Graaf naar PRIMAL drijfveer, VIJAND, MOMENT VAN CRISIS, HERO STORY. Werk uit: kern probleem → kern oplossing → kern aanbod. Categoriseer perceptie-shifts als vehicle/internal/external beliefs.
+**Fase 1 — Blueprint:** Lees `core-story-vragen.md` (incl. Blok 8: Hero Journey) + `pig-method.md` + `doelgroep-mind-mining.md`. Graaf naar PRIMAL drijfveer, VIJAND, MOMENT VAN CRISIS, HERO STORY. Werk uit: kern probleem → kern oplossing → kern aanbod. Categoriseer perceptie-shifts als vehicle/internal/external beliefs.
+
+**Belief Installation Mapping:** Gebruik `doelgroep-mind-mining.md` → Belief Mapping. Inventariseer: (1) foute overtuigingen die conversie blokkeren, (2) nodige overtuigingen, (3) installatievolgorde (probleem erkennen → oplossingsrichting → methode vertrouwen → urgentie → investering). Elke belief = minimaal 1 webinar-onderdeel.
+
+**7 Zondes Angle Check:** Welk stiekem verlangen drijft de aankoop? Gebruik als extra lens op de kern-drijfveer. Verwerk subtiel in het script — niet als expliciete sectie.
 
 **NA BLUEPRINT GOEDKEURING:** Informeer de gebruiker: "De Blueprint voedt nu funnel-pages, goated-ads en funnel-scripts. Doorgaan met Webinar Deal, of eerst andere modules?"
 
@@ -61,6 +67,10 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 - Multi-module aanbod + breed publiek → Transformatie Framework (zie `references/transformatie-framework.md`)
 
 **Fase 2a — Conversie Protocol (Core Story model):** 10-staps opbouw + 16-staps pitch. Woord-voor-woord, [SLIDE:], [INTERACTIE:]. Sla op als .docx.
+
+**Infotainment Ratio:** 60-70% vermaak/verhalen/persoonlijkheid, 30-40% inhoudelijke waarde. Een webinar is een SHOW met een host, geen les.
+
+**Status Dripping:** Verwerk subtiel in het script: klantresultaten, associaties, credentials, onbereikbaarheid. Camoufleer in verhalen — nooit expliciet opscheppen. Gebruik Kryptonite Marketing bij het benoemen van eigen "zwaktes" (hoge prijs, strenge selectie, lange wachttijd).
 
 **Fase 3 — Toegangslaag:** Opt-in + thank you + survey. Sla op als .docx.
 
@@ -98,6 +108,8 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 - Wacht ALTIJD op goedkeuring per fase
 - Webinar Deal moet staan VOOR het script (zie `webinar-deal-architectuur.md`)
 - Richt op ~60 min inhoud + ~15 min Q&A. Te kort = te weinig overtuigingskracht. Geef per onderdeel geschatte spreektijd en sluit af met totaaloverzicht (zie `webinar-script-opbouw.md` → Timing-Doctrine)
+- Belief Installation = geordend: elke foute overtuiging moet eerst geadresseerd zijn voordat de volgende laag werkt (zie `doelgroep-mind-mining.md` → Belief Mapping)
+- Status & autoriteit subtiel door het hele script weven — nooit een los blok, altijd gecamoufleerd in verhalen (zie `positionering-frameworks.md` → Status & Autoriteit)
 
 ## Quality Gate
 
