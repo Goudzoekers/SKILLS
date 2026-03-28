@@ -25,6 +25,8 @@ Copy + wireframe structuur voor funnel-pagina's. Primair B2C coaches/therapeuten
 | Branding Framework | `shared-kernel/references/branding-framework.md` | Bij brand-consistentie check, pagina-ontwerp dat merkbelofte bevestigt |
 | Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Headline (awareness/sophistication), Probleem-sectie (Rogue Gallery), Dromen-sectie (7 Zondes), Belief Installation Check |
 | Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Over Jou (status dripping), Uniek Mechanisme (Defy the Norms), Consequenties (Kryptonite Marketing) |
+| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Sales page: alle 7 technieken. Gradualization als paginastructuur, Intensification in dromen-sectie, Redefinition bij prijs/bezwaren, Mechanization bij uniek mechanisme, Identification bij propositie/transformatie |
+| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Sales pages: alle 7 technieken. Gradualization=paginastructuur, Intensification=dromen, Redefinition=prijs/bezwaren, Mechanization=HOE-sectie, Identification=transformatie, Concentration=propositie |
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke pagina |
 
 **Eigen references per paginatype:** `references/registration-page.md`, `references/upsell-page.md`, `references/thankyou-page.md`, `references/downsell-page.md`, `references/sales-page.md`, `references/funnel-flow-map.md`, `references/video-guidelines.md`
@@ -83,10 +85,21 @@ Vraag ALTIJD: headline, subtekst, of paginalengte? Schrijf twee versies waarbij 
 **Sectie-specifieke verrijkingen:**
 - Probleem-sectie: gebruik Rogue Gallery angles (angst, boosheid, frustratie, onzekerheid)
 - Over Jou: status dripping + Kryptonite Marketing (zwakte→kracht)
-- Uniek Mechanisme: Defy the Norms (positioneer tegen marktnorm)
-- Dromen-sectie: 7 Zondes als extra lens (welk stiekem verlangen drijft de aankoop?)
+- Uniek Mechanisme: Defy the Norms (positioneer tegen marktnorm) + Mechanization (reason-why, HOE tot in detail) + Concentration (5 wegen naar superioriteit)
+- Dromen-sectie: 7 Zondes als extra lens + Intensification (picture words, visuele taal) + Identification (rolverkoop: welke rol krijgt de klant?)
+- Praktische Zaken: Redefinition (versimpel, stapel voordelen, herkader prijs)
+- Volledige paginastructuur: Gradualization (begin bij geaccepteerde overtuiging, bouw stap voor stap naar koopbeslissing)
+- Algehele toon: Camouflage (lees als artikel/verhaal, niet als verkooppagina)
 
 **Belief Installation Check:** Loop NA het schrijven alle secties na: welke foute overtuigingen zijn geadresseerd? Welke ontbreken? Vul aan.
+
+**Breakthrough Advertising technieken in de Sales Page:**
+- De hele pagina = één Gradualization: van geaccepteerde overtuiging naar koop als onvermijdelijke conclusie
+- Probleem-sectie: Intensification (picture words, de lezer moet de pijn ZIEN)
+- Uniek Mechanisme: Mechanization (Reason-Why copy, Language of Logic, detail van het HOE)
+- Praktische Zaken: Redefinition (herframe prijs, versimpel, stapel voordelen)
+- Propositie + Transformatie: Identification (rolcasting — welke rol krijgt de klant?)
+- Geheel: Camouflage (de pagina moet lezen als een verhaal, niet als een advertentie)
 
 ## Quality Gate
 

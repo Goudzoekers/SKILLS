@@ -29,6 +29,7 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 | Hook library + swipe file | `references/hook-library.md` | Bij hook-schrijven, 70-20-10 toepassen, categorie-verdeling |
 | Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Bij hook-generatie: 7 Zondes als angle-bron, Rogue Gallery voor emotie-angles, sophistication voor claim-intensiteit |
 | Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Bij status-hooks, Kryptonite-angles, Defy the Norms stellingen |
+| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Intensification (picture words in hooks), Identification (rol-hooks), Concentration (superioriteits-claims) |
 
 **Hormozi Playbook Bronnen (verwerkt in bovenstaande references):**
 - $100M GOATed Ads Playbook → Ad Assembly Process, 5 Ad Meat Formats, CTA Framework, Kaleidoscoop, Schaalprincipes
@@ -45,7 +46,7 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 
 ## Structuur: Hook → Body → CTA
 
-**Hook (1-2 zinnen):** Scroll-stop. Eerste 5 woorden = triggerwoord. 4 patronen: call-out, stelling, triggerende vraag, P.I.G. Line. 8 hook-categorieën in `references/hook-library.md`.
+**Hook (1-2 zinnen):** Scroll-stop. Eerste 5 woorden = triggerwoord. 4 patronen: call-out, stelling, triggerende vraag, P.I.G. Line. 8 hook-categorieën in `references/hook-library.md`. Gebruik Intensification: elke hook moet een BEELD oproepen (picture words). Identification: spreek de ROL aan die de prospect wil hebben.
 
 **Angle-mining via 7 Zondes:** Gebruik trots/hebzucht/lust/jaloezie/vraatzucht/woede/gemakzucht als extra lens. Spreek het stiekeme verlangen aan dat de doelgroep nooit hardop zegt. Combineer met hook-categorieën uit de library.
 

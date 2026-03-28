@@ -33,6 +33,7 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/money-model-framework.md` | 4 Offer Types, 3 Stages, Attraction/Upsell/Downsell/Continuity patronen, aanbod-sequentie design | Bij funnel-architectuur, aanbod-strategie, pricing, upsell/downsell ontwerp |
 | `references/doelgroep-mind-mining.md` | 7 Zondes (verborgen verlangens), Rogue Gallery (7 emotiecategorieën), Blair Warren (5 overtuigingsframes), Market Awareness (5 niveaus), Market Sophistication (5 fasen), Belief Mapping | Bij intake, hook-generatie, angle-mining, headline-keuze, webinar blueprint, elke content-skill |
 | `references/positionering-frameworks.md` | Alter Ego (3 thema's), Kryptonite Marketing, Defy the Norms, Status & Autoriteit (10 tactieken), Thought Leadership, Filosofie-manifest, Infotainment Formula, 9 Stemtypes | Bij personal brand, ToV, webinar positionering, sales page "Over Jou", content-strategie |
+| `references/breakthrough-advertising.md` | 7 Schwartz persuasion-technieken: Intensification (beeldscherpte), Identification (rolverkoop), Gradualization (overtuigingstrap), Redefinition (bezwaar-herkadering), Mechanization (HOE onthullen), Concentration (competitieve superioriteit), Camouflage (vermomde verkoop) | Bij sales pages, webinar scripts, VSL, e-mail sequences, elke lange-vorm copy |
 
 ## Orchestratie Protocol
 
@@ -123,6 +124,7 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Campaign Plays (5 revenue plays) | shared-kernel/references/campaign-plays.md | Alle content-skills |
 | Doelgroep Mind Mining (7 Zondes, Rogue Gallery, Blair Warren, awareness/sophistication, beliefs) | shared-kernel/references/doelgroep-mind-mining.md | Alle content-skills |
 | Positionering Frameworks (Alter Ego, Kryptonite, Status, Infotainment, 9 Stemtypes) | shared-kernel/references/positionering-frameworks.md | Alle content-skills |
+| Breakthrough Advertising (7 Schwartz persuasion-technieken) | shared-kernel/references/breakthrough-advertising.md | Alle content-skills |
 
 ## De Vijf Wetten (universeel)
 
