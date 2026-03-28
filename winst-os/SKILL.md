@@ -23,6 +23,8 @@ Unicorn-level systemen voor Rick Bazuin. Twee rollen: technisch bouwen + cross-s
 | "Maak een pagina" | Check Blueprint → funnel-pages |
 | "Schrijf een VSL" | Check funnel → funnel-scripts |
 | "Bouw [feature]" | DEZE skill — technisch |
+| "Hernoem mijn ads" / "naamconventie" | ad-naamconventie |
+| "Stuur een update" / "onboarding bericht" / "weekly pulse" | partner-comms |
 
 Herken content-verzoeken en verwijs door. Bij twijfel: vraag of het TECHNISCH of CONTENT is.
 

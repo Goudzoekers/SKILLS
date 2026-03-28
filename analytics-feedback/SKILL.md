@@ -93,6 +93,7 @@ Metrics per stap: Ad→Click (CTR >1.5%) → Registratie (CR >25%) → Show-up (
 | Brand metrics dalen (Influence/Direction) | Brand-consistentie audit | shared-kernel/references/branding-framework.md → Boeket check |
 | Campagne-type performance evalueren | Meet per play-type (L&L→leads, Workshop→ticket+upsell, Top1%→high-ticket CR, VSL→view rate+CR, Promo→email CR) | shared-kernel/references/campaign-plays.md |
 | Doelgroep profiel verrijken | Stap 5 output → update awareness/sophistication/7 Zondes/Rogue Gallery | shared-kernel/references/doelgroep-mind-mining.md |
+| Ad-namen decoderen (format, hook, angle) | Lees naamconventie voor patroonherkenning in data | ad-naamconventie/references/conventie-compleet.md |
 
 ## Quality Gate
 

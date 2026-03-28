@@ -88,8 +88,9 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 | Ads = Attraction Offer promotie | shared-kernel/references/money-model-framework.md (welke offer promoot deze ad?) |
 | Elke ad = merk-associatie (boeket) | shared-kernel/references/branding-framework.md (is deze ad consistent met het gewenste merk?) |
 | Campagne-type bepaalt ad-strategie (Workshop ads, VSL promotie, L&L awareness) | shared-kernel/references/campaign-plays.md (awareness-mapping per play) |
+| Ad-namen standaardiseren NA creatie | ad-naamconventie/references/conventie-compleet.md |
 
-**Delegatie-grens:** goated-ads schrijft ads tot 100 woorden (hooks, body's, CTAs, talking head scripts). Langere video scripts → funnel-scripts. Pagina copy → funnel-pages. Webinar scripts → core-story-webinar.
+**Delegatie-grens:** goated-ads schrijft ads tot 100 woorden (hooks, body's, CTAs, talking head scripts). Langere video scripts → funnel-scripts. Pagina copy → funnel-pages. Webinar scripts → core-story-webinar. Ad-namen standaardiseren NA schrijven, VOOR upload naar Meta → ad-naamconventie.
 
 ## Quality Gate
 

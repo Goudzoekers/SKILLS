@@ -71,6 +71,7 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Hook-angles / emotionele triggers | shared-kernel → `references/doelgroep-mind-mining.md` → 7 Zondes + Rogue Gallery |
 | Positionering / personal brand / alter ego | shared-kernel → `references/positionering-frameworks.md` + `references/branding-framework.md` |
 | Market awareness / sophistication bepalen | shared-kernel → `references/doelgroep-mind-mining.md` → awareness + sophistication matrix |
+| Klant update / onboarding / weekly pulse / milestone | partner-comms |
 
 ## Skill Connectie-Kaart
 
@@ -88,11 +89,17 @@ Elke skill heeft een duidelijke grens. Geen overlap.
           ▼         ▼         ▼          ▼
      funnel-pages  goated-ads  funnel-scripts
      (pagina copy) (ads <100w) (video scripts)
-          │         │          │
+          │         │    │     │
+          │         │    ▼     │
+          │         │  ad-naamconventie
+          │         │  (namen standaardiseren)
           └────┬────┘          │
                ▼               │
         analytics-feedback ◄───┘
         (data → diagnose → fix routing terug naar juiste skill)
+
+     partner-comms (parallel aan elke stap — onboarding, milestones, weekly pulse)
+     winst-os (technisch platform + orchestratie hub)
 ```
 
 ### Eigenaarschap per Content-Type
@@ -108,6 +115,8 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Kaleidoscoop op winners | goated-ads (maakt) + analytics-feedback (triggert) | — |
 | Benchmarks & metrics | analytics-feedback | shared-kernel |
 | Crossroads Close | shared-kernel (pig-method) | core-story-webinar |
+| Ad-naamgeving (format, hook, angle codes) | ad-naamconventie | goated-ads, analytics-feedback |
+| Klantcommunicatie (onboarding, updates, escalatie) | partner-comms | alle andere skills |
 
 ### SSOT Referenties (geen duplicatie)
 
@@ -125,6 +134,8 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Doelgroep Mind Mining (7 Zondes, Rogue Gallery, Blair Warren, awareness/sophistication, beliefs) | shared-kernel/references/doelgroep-mind-mining.md | Alle content-skills |
 | Positionering Frameworks (Alter Ego, Kryptonite, Status, Infotainment, 9 Stemtypes) | shared-kernel/references/positionering-frameworks.md | Alle content-skills |
 | Breakthrough Advertising (7 Schwartz persuasion-technieken) | shared-kernel/references/breakthrough-advertising.md | Alle content-skills |
+| Ad-naamconventie (format, hook, angle codes) | ad-naamconventie/references/conventie-compleet.md | goated-ads, analytics-feedback |
+| Partner Comms templates (5 berichttypen) | partner-comms/references/templates.md | — (geen andere skill verwijst, partner-comms is zelfstandig) |
 
 ## De Vijf Wetten (universeel)
 
