@@ -34,6 +34,7 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/doelgroep-mind-mining.md` | 7 Zondes (verborgen verlangens), Rogue Gallery (7 emotiecategorieën), Blair Warren (5 overtuigingsframes), Market Awareness (5 niveaus), Market Sophistication (5 fasen), Belief Mapping | Bij intake, hook-generatie, angle-mining, headline-keuze, webinar blueprint, elke content-skill |
 | `references/positionering-frameworks.md` | Alter Ego (3 thema's), Kryptonite Marketing, Defy the Norms, Status & Autoriteit (10 tactieken), Thought Leadership, Filosofie-manifest, Infotainment Formula, 9 Stemtypes | Bij personal brand, ToV, webinar positionering, sales page "Over Jou", content-strategie |
 | `references/breakthrough-advertising.md` | 7 Schwartz persuasion-technieken: Intensification (beeldscherpte), Identification (rolverkoop), Gradualization (overtuigingstrap), Redefinition (bezwaar-herkadering), Mechanization (HOE onthullen), Concentration (competitieve superioriteit), Camouflage (vermomde verkoop) | Bij sales pages, webinar scripts, VSL, e-mail sequences, elke lange-vorm copy |
+| `references/closer-sales-call.md` | CLOSER Framework: Clarify→Label→Overview→Sell vacation→Explain concerns→Reinforce decision. Setting/closing script voor 1-op-1 sales calls, setter/closer rolsplitsing | Bij funnel met call-stap, sales call scripts, setter/closer briefing |
 
 ## Orchestratie Protocol
 
@@ -72,6 +73,7 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Positionering / personal brand / alter ego | shared-kernel → `references/positionering-frameworks.md` + `references/branding-framework.md` |
 | Market awareness / sophistication bepalen | shared-kernel → `references/doelgroep-mind-mining.md` → awareness + sophistication matrix |
 | Klant update / onboarding / weekly pulse / milestone | partner-comms |
+| Sales call script / setting / closing | shared-kernel → `references/closer-sales-call.md` + funnel-scripts (prep video) |
 
 ## Skill Connectie-Kaart
 
@@ -117,6 +119,7 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Crossroads Close | shared-kernel (pig-method) | core-story-webinar |
 | Ad-naamgeving (format, hook, angle codes) | ad-naamconventie | goated-ads, analytics-feedback |
 | Klantcommunicatie (onboarding, updates, escalatie) | partner-comms | alle andere skills |
+| Sales call scripts (setting/closing) | shared-kernel (closer-sales-call) | funnel-scripts |
 
 ### SSOT Referenties (geen duplicatie)
 
@@ -136,6 +139,7 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Breakthrough Advertising (7 Schwartz persuasion-technieken) | shared-kernel/references/breakthrough-advertising.md | Alle content-skills |
 | Ad-naamconventie (format, hook, angle codes) | ad-naamconventie/references/conventie-compleet.md | goated-ads, analytics-feedback |
 | Partner Comms templates (5 berichttypen) | partner-comms/references/templates.md | — (geen andere skill verwijst, partner-comms is zelfstandig) |
+| CLOSER Sales Call Framework (setting/closing script) | shared-kernel/references/closer-sales-call.md | funnel-scripts (prep video), core-story-webinar (post-webinar call flow) |
 
 ## De Vijf Wetten (universeel)
 
