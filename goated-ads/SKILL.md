@@ -5,7 +5,7 @@ description: >
   CTA's, talking head scripts (max 100 woorden), b-roll voorstellen, story-stijl foto ads.
   Trigger bij: maak ads, schrijf hooks, ad variaties, nieuwe creatives, ad batch, GOATed ads,
   Facebook/META/Instagram ads, creative flywheel, kaleidoscoop, ad performance analyseren.
-  NIET triggeren bij: pagina copy (funnel-pages), video scripts >100 woorden (funnel-scripts),
+  NIET triggeren bij: pagina copy (funnel-pages), video scripts meer dan 100 woorden (funnel-scripts),
   webinar content (core-story-webinar), e-mail sequences.
 ---
 
