@@ -1,169 +1,83 @@
 ---
 name: meta-ads
 description: >
-  Volledig META Ads campagnemanagement voor B2C coaches, therapeuten en kennisondernemers.
-  EXCLUSIEF voor: campagne-architectuur, targeting, budgetverdeling, Advantage+ setup,
-  lead form ads, retargeting structuur, pixel/CAPI setup, scaling protocol, en campagne-
-  optimalisatie. Integreert Hormozi Awareness-model, Moonlighters M3 Method, en platform-
-  specifieke best practices 2025-2026. Trigger bij: campagne opzetten, Meta Ads Manager,
-  targeting strategie, budget verdelen, Advantage+, campagne structuur, scaling ads, CPL
-  verlagen, ROAS verhogen, retargeting, lookalike audiences, lead form ads, campagne setup,
-  ad account structuur, funnel ads, webinar ads campagne, pixel installeren, CAPI setup,
-  cold traffic, warm traffic, hot remarketing. NIET triggeren bij: ad COPY schrijven
-  (goated-ads), ad performance ANALYSE (analytics-feedback), funnel pagina's bouwen
-  (funnel-pages), video scripts (funnel-scripts), webinar CONTENT (core-story-webinar),
-  lead nurture SEQUENCES (shared-kernel → lead-nurture-protocol.md), revenue play kiezen
-  (shared-kernel → campaign-plays.md).
+  META Ads campagnemanagement voor B2C coaches, therapeuten, kennisondernemers.
+  EXCLUSIEF: campagne-architectuur, targeting, budget, Advantage+, lead form ads,
+  retargeting, pixel/CAPI, scaling. Trigger bij: campagne opzetten, Meta Ads Manager,
+  targeting, budget verdelen, Advantage+, scaling ads, CPL/ROAS, retargeting, lookalike,
+  lead form ads, ad account structuur, pixel, CAPI, cold/warm/hot traffic.
+  NIET: ad copy (goated-ads), analyse (analytics-feedback), pagina's (funnel-pages),
+  scripts (funnel-scripts), webinar content (core-story-webinar), nurture sequences
+  (shared-kernel), revenue plays (shared-kernel).
 ---
 
 # META Ads Campagne Engine
 
-Technische campagne-architectuur voor Winstarchitect-partners. Van pixel tot scaling.
+## Afbakening
 
-## Positie in het Ecosysteem
-
-```
-                shared-kernel
-               (fundament + lead-nurture-protocol + campaign-plays)
-                     │
-                     ▼
-           core-story-webinar
-          (strategie: Blueprint)
-                │         │
-      ┌─────────┤         ├──────────┐
-      ▼         ▼         ▼          ▼
- funnel-pages  goated-ads  funnel-scripts
- (pagina copy) (ad copy)   (video scripts)
-      │         │          │
-      │         ▼          │
-      │    ► meta-ads ◄────┘     ← DEZE SKILL
-      │    (campagne setup,       (ontvangt copy van goated-ads,
-      │     targeting, budget,     scripts van funnel-scripts,
-      │     retargeting, scaling)  pagina's van funnel-pages)
-      │         │    │
-      │         ▼    ▼
-      │    ad-naamconventie
-      └────┬────┘
-           ▼
-    analytics-feedback
-    (data → diagnose → fix routing)
-```
-
-## Scherpe Afbakening
-
-| Vraag | Skill | NIET meta-ads |
-|---|---|---|
-| "Zet een campagne op" | **meta-ads** | — |
-| "Schrijf ad copy/hooks" | goated-ads | Geen copy schrijven |
-| "Analyseer mijn ads" | analytics-feedback | Geen data-analyse |
-| "Hoe verbeter ik show rate?" | shared-kernel → lead-nurture-protocol | Geen nurture sequences |
-| "Welke revenue play gebruiken?" | shared-kernel → campaign-plays | Geen play-selectie |
-| "Bouw een registratiepagina" | funnel-pages | Geen pagina's bouwen |
-| "Hernoem mijn ads" | ad-naamconventie | Geen naamgeving |
+| Vraag | Route |
+|---|---|
+| Campagne opzetten | **meta-ads** |
+| Ad copy/hooks | goated-ads |
+| Ad analyse | analytics-feedback |
+| Show rate/nurture | shared-kernel → lead-nurture-protocol |
+| Revenue play | shared-kernel → campaign-plays |
+| Pagina's | funnel-pages |
+| Ad namen | ad-naamconventie |
 
 ## Context Loading
 
-| Nodig | Bron | Wanneer |
-|---|---|---|
-| META-specifieke setup + targeting + budget | `references/campaign-architectuur.md` | ALTIJD |
-| Top 10 YouTube experts + bronnen | `references/top-10-bronnen.md` | Bij research, inspiratie, partner educatie |
-| Meta platform updates 2025-2026 | `references/meta-platform-updates.md` | Bij Advantage+, nieuwe features, compliance |
-| Lead Nurture (4 Pijlers, ALAN) | `shared-kernel/references/lead-nurture-protocol.md` | Bij show rate optimalisatie (**SSOT = shared-kernel**) |
-| Campaign Plays (5 revenue types) | `shared-kernel/references/campaign-plays.md` | Bij campagne-type selectie (**SSOT = shared-kernel**) |
-| Awareness + Sophistication | `shared-kernel/references/doelgroep-mind-mining.md` | Bij targeting-strategie |
-| Niche-aanpassingen | `shared-kernel/references/niche-adaptaties.md` | Eerste campagne per partner |
-| Client Brief | `shared-kernel/references/universal-client-brief.md` | Start nieuw project |
-| Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke campagne-opzet |
-| Benchmarks | `analytics-feedback/references/benchmarks.md` | Bij KPI-bepaling |
+| Bron | Wanneer |
+|---|---|
+| `references/campaign-architectuur.md` | ALTIJD |
+| `references/top-10-bronnen.md` | Research, partner educatie |
+| `references/meta-platform-updates.md` | Advantage+, compliance |
+| `shared-kernel/references/lead-nurture-protocol.md` | Show rate (SSOT) |
+| `shared-kernel/references/campaign-plays.md` | Play-selectie (SSOT) |
+| `shared-kernel/references/doelgroep-mind-mining.md` | Targeting-strategie |
+| `shared-kernel/references/niche-adaptaties.md` | Eerste campagne/partner |
+| `shared-kernel/references/quality-gate.md` | NA opzet |
 
-## Campagne Architectuur — 3 Lagen
+## 3-Laags Architectuur
 
-```
-Laag 1: COLD PROSPECTING (60-70% budget)
-  └→ Doelgroep: Problem Aware + Solution Aware
-  └→ Objectief: Leads / Conversies
-  └→ Creative: via goated-ads skill
-  └→ Targeting: Broad + Advantage+ Audience
+| Laag | Budget | Doelgroep | Targeting | Creative |
+|---|---|---|---|---|
+| COLD | 60-70% | Problem/Solution Aware | Broad + Advantage+ | via goated-ads |
+| WARM | 20-30% | Video viewers, page visitors | Custom 1-30d | Proof, testimonials |
+| HOT | 5-10% | Abandoners, no-shows | Custom 1-7d | Urgentie, countdown |
 
-Laag 2: WARM RETARGETING (20-30% budget)
-  └→ Doelgroep: Engaged (video viewers, page visitors, form starters)
-  └→ Objectief: Conversies
-  └→ Creative: Proof-driven, testimonials, parade of proof
-  └→ Targeting: Custom Audiences 1-30 dagen
+## Delivery bij "ZET CAMPAGNE OP"
 
-Laag 3: HOT REMARKETING (5-10% budget)
-  └→ Doelgroep: Abandoners, registranten die niet kwamen
-  └→ Objectief: Conversies
-  └→ Creative: Urgentie, countdown, personal message
-  └→ Targeting: Custom Audiences 1-7 dagen
-```
+1. Technische Setup: Pixel, CAPI, events, payment, verification
+2. 3-Laags Architectuur: per laag objectief, targeting, budget %, plaatsing
+3. Targeting Plan: Advantage+, interests, customs, lookalikes, exclusies
+4. Budget Calculator: dagbudget/laag, break-even CPL, scaling triggers
+5. Retargeting Cascade: proof → objection-bust → urgentie + timing
+6. Creative Brief → route goated-ads: 50 hooks, 5 body's, 3 CTAs
+7. Lead Nurture → route shared-kernel: lead-nurture-protocol
 
-## "ZET CAMPAGNE OP" Delivery
+## Scaling
 
-Bij een campagneverzoek, lever:
-
-1. **Technische Setup Checklist:** Pixel, CAPI, conversie-events, payment, verification
-2. **3-Laags Campagne Architectuur:** Per laag: objectief, targeting, budget %, plaatsing
-3. **Targeting Plan:** Advantage+ config, interests, custom audiences, lookalikes, exclusies
-4. **Budget Calculator:** Dagbudget per laag, break-even CPL, scaling triggers
-5. **Retargeting Cascade:** 3-staps (proof → objection-bust → urgentie), timing, frequency caps
-6. **Creative Brief → Route naar goated-ads:** Aantal hooks (50), body's (5), CTAs (3), awareness-niveaus, formats
-7. **Lead Nurture Activatie → Route naar shared-kernel:** Verwijs partner naar lead-nurture-protocol
-
-## Scaling Protocol
-
-### Wanneer schalen?
-- CPA < break-even 3 dagen achtereen
-- Frequency < 2.5
-- CTR (link) > 1%
-- Hook rate (3-sec views / impressies) > 25%
-
-### Hoe schalen?
-1. **Horizontaal:** Dupliceer winnende ad set → nieuw publiek
-2. **Verticaal:** Verhoog budget 20% per 3 dagen (niet >20% ineens)
-3. **Kaleidoscoop:** Nieuwe hooks op winnende meat+CTA (trigger goated-ads)
-4. **Platform-split:** Reels, Stories, Feed apart testen
-
-### Kill Criteria
-- CPA > 2x break-even na 1.000 impressies → pauzeer
-- CTR < 0.5% na 48 uur → ververs creative
-- Frequency > 3.5 zonder conversies → nieuw publiek
+**Schaal wanneer:** CPA < break-even 3d | Frequency < 2.5 | CTR > 1% | Hook rate > 25%
+**Hoe:** Horizontaal (nieuw publiek) → Verticaal (+20%/3d) → Kaleidoscoop (goated-ads) → Platform-split
+**Kill:** CPA > 2× na 1000 impr | CTR < 0.5% na 48u | Freq > 3.5 zonder conversies
 
 ## Compliance (Coaches & Therapeuten)
 
-- Geen medische claims (therapeuten!)
-- Geen before/after die fysieke/mentale verandering impliceert
-- Geen persoonlijke targeting op gezondheid ("Heb jij last van angst?")
-- Altijd disclaimer bij resultaatclaims
-- Privacy policy verplicht bij lead forms
-- Special Ad Categories checken (housing, social, health)
+Geen medische claims. Geen before/after. Geen targeting op gezondheid. Disclaimer bij resultaatclaims. Privacy policy bij lead forms. Special Ad Categories checken.
 
 ## Quality Gate
 
-Na campagne-opzet, controleer:
-1. ☐ Pixel + CAPI geïnstalleerd en geverifieerd?
-2. ☐ Custom conversie-events correct?
-3. ☐ 3-laags structuur compleet (cold/warm/hot)?
-4. ☐ Budget binnen break-even marge?
-5. ☐ Lead nurture actief? (→ check shared-kernel/lead-nurture-protocol)
-6. ☐ Exclusies correct (geen budget verspilling)?
-7. ☐ Compliance check (restricted content)?
-8. ☐ Creative brief naar goated-ads gerouteerd?
-9. ☐ Naamconventie via ad-naamconventie skill?
-10. ☐ Analytics dashboard ingericht? (→ analytics-feedback kan meten)
-11. ☐ Scaling triggers gedefinieerd?
+☐ Pixel+CAPI geverifieerd ☐ Events correct ☐ 3 lagen compleet ☐ Budget < break-even ☐ Nurture actief (shared-kernel) ☐ Exclusies correct ☐ Compliance OK ☐ Creative brief → goated-ads ☐ Naamconventie → ad-naamconventie ☐ Analytics dashboard → analytics-feedback ☐ Scaling triggers gedefinieerd
 
 ## Eigenaarschap
 
-| Content-Type | Eigenaar | meta-ads rol |
-|---|---|---|
-| Campagne-structuur, targeting, budget | **meta-ads** | Eigenaar |
-| Pixel/CAPI technische setup | **meta-ads** | Eigenaar |
-| Lead form ads configuratie | **meta-ads** | Eigenaar |
-| Retargeting architectuur | **meta-ads** | Eigenaar |
-| Scaling beslissingen | **meta-ads** + analytics-feedback | Eigenaar (structuur) + data (trigger) |
-| Ad copy (hooks, body, CTA) | goated-ads | Ontvangt brief van meta-ads |
-| Ad namen | ad-naamconventie | meta-ads routeert |
-| Lead nurture sequences | shared-kernel | meta-ads verwijst |
-| Campaign play selectie | shared-kernel | meta-ads implementeert |
-| Performance analyse | analytics-feedback | meta-ads levert data-structuur |
+| Eigendom meta-ads | Routeert naar |
+|---|---|
+| Campagne-structuur, targeting, budget | — |
+| Pixel/CAPI, lead forms, retargeting | — |
+| Scaling structuur | analytics-feedback (trigger) |
+| Ad copy | goated-ads (ontvangt brief) |
+| Ad namen | ad-naamconventie |
+| Lead nurture | shared-kernel (SSOT) |
+| Performance analyse | analytics-feedback |
