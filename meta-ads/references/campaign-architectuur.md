@@ -13,14 +13,13 @@
 4. Events: `Lead` (form), `Schedule` (afspraak), `Purchase` (verkoop)
 5. Payment + Business verification
 
-**Naming:** `[Laag] - [Doelgroep] - [Objectief] - [Datum]`
-Ad naming: via ad-naamconventie skill → `[Format] - [Hook] - [Angle] - [Variant]`
+**Naming:** V3 naamconventie → zie `naming-convention-v3.md`
 
 ## 3. Targeting
 
 ### Cold
-**Advantage+ (aanbevolen):** Breed, laat AI optimaliseren. Geef suggesties, geen restricties.
-**Interest stacking (backup):** Max 3-5 per ad set. Coaches: persoonlijke ontwikkeling, coaching, Tony Robbins. Therapeuten: psychologie, zelfhulp, burnout. Opvoedcoaches: ouderschap, opvoeding.
+**Advantage+ (aanbevolen):** Breed, laat AI optimaliseren. Suggesties, geen restricties.
+**Interest stacking (backup):** Max 3-5/ad set. Coaches: persoonlijke ontwikkeling, coaching. Therapeuten: psychologie, zelfhulp, burnout. Opvoedcoaches: ouderschap, opvoeding.
 **Lookalikes:** Bron=klantenlijst. Start 1%, schaal 2%→5%. Min 100 broncontacten.
 
 ### Warm (Custom Audiences)
@@ -45,12 +44,11 @@ Vb: (€2000 × 20% × 60%) / 3 = €80/lead
 
 ## 5. Lead Form Ads
 
-Higher Intent form. Velden: voornaam, email, telefoon + 1 kwalificatievraag ("Wat is je grootste uitdaging?"). Privacy policy verplicht. Thank you: volgende stap helder.
-CRM: Zapier/Make → CRM < 5 min. Auto welkomst-SMS. Lead scoring op kwalificatievraag.
+Higher Intent form. Velden: voornaam, email, telefoon + 1 kwalificatievraag. Privacy policy verplicht. CRM: Zapier/Make → CRM < 5 min. Auto welkomst-SMS. Lead scoring op kwalificatievraag.
 
 ## 6. Funnel Integratie
 
-**Webinar:** Ad → Registratie (funnel-pages) → TY+Scheduler (nurture) → Webinar (core-story) → Call → Close
+**Webinar:** Ad → Registratie → TY+Scheduler → Webinar → Call → Close
 **Lead Magnet:** Ad → Opt-in → TY+Nurture → Call → Close
 **Direct Application:** Ad → Lead Form → Qualify → Call → Close
 
@@ -67,4 +65,4 @@ Nooit zelfde ad als cold. Frequency cap max 3×/week.
 ## 8. Advantage+ (2025-2026)
 
 Lever 3-5 creatives, Meta test ze. Breed publiek. Optimaliseer voor downstream events.
-**Niet gebruiken bij:** <€30/dag | <50K doelgroep | compliance-gevoelig (therapeuten)
+**Niet bij:** <€30/dag | <50K doelgroep | compliance-gevoelig (therapeuten)
