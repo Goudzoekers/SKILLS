@@ -1,6 +1,6 @@
 # Winstarchitect Skills Repository
 
-Het complete skill-ecosysteem voor Winstarchitect. 10 skills, 55 reference files, 1 geïntegreerd acquisitiesysteem.
+Het complete skill-ecosysteem voor Winstarchitect. 10 skills, 57 reference files, 1 geïntegreerd acquisitiesysteem.
 
 ## Architectuur
 
@@ -54,8 +54,8 @@ Video scripts. VSL, upsell, onboarding. Infotainment ratio, status dripping.
 ### analytics-feedback/ (3 references)
 Data-laag. Diagnose, schaaladvies, Doelgroep Enrichment feedbackloop.
 
-### meta-ads/ (3 references)
-META Ads campagnemanagement. Targeting, budget, Advantage+, pixel/CAPI, retargeting, scaling. Top 10 YouTube bronnen leadgen coaches/therapeuten.
+### meta-ads/ (6 references)
+META Ads campagnemanagement. Targeting, budget, Advantage+, pixel/CAPI, retargeting, scaling. V3 naamconventie, Flywheel OS/Manus Bridge integratie, SSOT resoluties, top 10 YouTube bronnen leadgen coaches/therapeuten.
 
 ### ad-naamconventie/ (1 reference)
 Ad-naamstandaardisatie voor Flywheel OS pattern recognition.
