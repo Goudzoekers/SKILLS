@@ -1,6 +1,6 @@
 # Winstarchitect Skills Repository
 
-Het complete skill-ecosysteem voor Winstarchitect. 9 skills, 52 reference files, 1 geïntegreerd acquisitiesysteem.
+Het complete skill-ecosysteem voor Winstarchitect. 10 skills, 55 reference files, 1 geïntegreerd acquisitiesysteem.
 
 ## Architectuur
 
@@ -13,6 +13,7 @@ shared-kernel (fundament)
     │       ├── funnel-scripts (video scripts)
     │       └── goated-ads (hooks uit Blueprint)
     │               └── ad-naamconventie (standaardiseer namen NA creatie)
+    ├── meta-ads (campagne-architectuur, targeting, budget, scaling)
     ├── analytics-feedback (data → optimalisatie → feedbackloop)
     ├── partner-comms (klantcommunicatie, parallel aan elke stap)
     └── winst-os (technisch platform + orchestratie hub)
@@ -25,6 +26,7 @@ Stap 0: Universal Client Brief → partner-comms: Slack Onboarding
 Stap 1: ToV Kalibratie (incl. 9 stemtypes + alter ego)
 Stap 2: core-story-webinar → Perceptie Blueprint → partner-comms: Milestone
 Stap 3: funnel-pages + goated-ads + funnel-scripts → ad-naamconventie
+Stap 3b: meta-ads → campagne-architectuur + targeting + budget + retargeting
 Stap 4: Quality Gate → partner-comms: Milestone "Live-ready"
 Stap 5: Launch → Analytics → Iteratie → partner-comms: Weekly Pulse
   └→ FEEDBACKLOOP: analytics-feedback → verrijk Mind Mining → hervalideer Blueprint
@@ -52,6 +54,9 @@ Video scripts. VSL, upsell, onboarding. Infotainment ratio, status dripping.
 ### analytics-feedback/ (3 references)
 Data-laag. Diagnose, schaaladvies, Doelgroep Enrichment feedbackloop.
 
+### meta-ads/ (3 references)
+META Ads campagnemanagement. Targeting, budget, Advantage+, pixel/CAPI, retargeting, scaling. Top 10 YouTube bronnen leadgen coaches/therapeuten.
+
 ### ad-naamconventie/ (1 reference)
 Ad-naamstandaardisatie voor Flywheel OS pattern recognition.
 
@@ -68,6 +73,8 @@ Technisch platform + orchestratie hub. Supabase, React, edge functions.
 - Eugene Schwartz — Breakthrough Advertising (7 persuasion-technieken)
 - Robin Timmers — Copywriting Master / Sales Copy Secrets
 - Alex Hormozi — $100M GOATed Ads, Hooks, Lead Nurture Playbooks
+- The Moonlighters — M3 Method, Paid Ads Assets Library
+- Ben Heath — Facebook Ads Mastery, Heath Media
 - Blair Warren — One Sentence Persuasion
 - Justin Blackman & Abbey Woodcock — 9 Tone of Voice Types
 - Dan Kennedy — Defy the Norms

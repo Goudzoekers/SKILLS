@@ -61,6 +61,7 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Pagina maken | Check Blueprint → funnel-pages |
 | Script schrijven | Check funnel → funnel-scripts |
 | Ad performance | analytics-feedback |
+| Campagne opzetten / targeting / budget / Advantage+ / pixel | meta-ads |
 | Ad namen / naamconventie / hernoemen | ad-naamconventie |
 | Feature bouwen | winst-os |
 | Show rate / lead nurture / no-shows | shared-kernel → `references/lead-nurture-protocol.md` + analytics-feedback |
@@ -81,7 +82,7 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 
 ```
                     shared-kernel
-                   (fundament: P.I.G., ToV, schrijfregels, QA)
+                   (fundament: P.I.G., ToV, schrijfregels, QA, lead-nurture, campaign-plays)
                          │
                          ▼
                core-story-webinar
@@ -91,13 +92,18 @@ Elke skill heeft een duidelijke grens. Geen overlap.
           ▼         ▼         ▼          ▼
      funnel-pages  goated-ads  funnel-scripts
      (pagina copy) (ads <100w) (video scripts)
-          │         │    │     │
-          │         │    ▼     │
-          │         │  ad-naamconventie
-          │         │  (namen standaardiseren)
-          └────┬────┘          │
-               ▼               │
-        analytics-feedback ◄───┘
+          │         │          │
+          │         ▼          │
+          │    ► meta-ads ◄────┘
+          │    (campagne setup, targeting, budget,
+          │     retargeting, scaling, Advantage+)
+          │         │    │
+          │         ▼    ▼
+          │    ad-naamconventie
+          │    (namen standaardiseren)
+          └────┬────┘
+               ▼
+        analytics-feedback ◄── meta-ads levert data-structuur
         (data → diagnose → fix routing terug naar juiste skill)
 
      partner-comms (parallel aan elke stap — onboarding, milestones, weekly pulse)
@@ -114,6 +120,8 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Webinar presentatie-script | core-story-webinar | funnel-scripts |
 | E-mail sequences | core-story-webinar | funnel-pages |
 | Performance analyse | analytics-feedback | goated-ads |
+| Campagne-architectuur, targeting, budget, pixel/CAPI | meta-ads | goated-ads, analytics-feedback |
+| Lead form ads configuratie + retargeting structuur | meta-ads | funnel-pages |
 | Kaleidoscoop op winners | goated-ads (maakt) + analytics-feedback (triggert) | — |
 | Benchmarks & metrics | analytics-feedback | shared-kernel |
 | Crossroads Close | shared-kernel (pig-method) | core-story-webinar |
@@ -137,7 +145,10 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Doelgroep Mind Mining (7 Zondes, Rogue Gallery, Blair Warren, awareness/sophistication, beliefs) | shared-kernel/references/doelgroep-mind-mining.md | Alle content-skills |
 | Positionering Frameworks (Alter Ego, Kryptonite, Status, Infotainment, 9 Stemtypes) | shared-kernel/references/positionering-frameworks.md | Alle content-skills |
 | Breakthrough Advertising (7 Schwartz persuasion-technieken) | shared-kernel/references/breakthrough-advertising.md | Alle content-skills |
-| Ad-naamconventie (format, hook, angle codes) | ad-naamconventie/references/conventie-compleet.md | goated-ads, analytics-feedback |
+| Ad-naamconventie (format, hook, angle codes) | ad-naamconventie/references/conventie-compleet.md | goated-ads, analytics-feedback, meta-ads |
+| META Ads campagne-architectuur (targeting, budget, Advantage+, pixel/CAPI) | meta-ads/references/campaign-architectuur.md | — (meta-ads specifiek, geen andere skill dupliceert) |
+| Meta platform updates (2025-2026 best practices) | meta-ads/references/meta-platform-updates.md | — |
+| Top 10 YouTube bronnen (leadgen coaches/therapeuten) | meta-ads/references/top-10-bronnen.md | — |
 | Partner Comms templates (5 berichttypen) | partner-comms/references/templates.md | — (geen andere skill verwijst, partner-comms is zelfstandig) |
 | CLOSER Sales Call Framework (setting/closing script) | shared-kernel/references/closer-sales-call.md | funnel-scripts (prep video), core-story-webinar (post-webinar call flow) |
 
