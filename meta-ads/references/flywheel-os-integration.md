@@ -5,6 +5,7 @@
 ```
 Meta Ads → Manus AI (extractie) → Manus Bridge API (Edge Function)
   ├── sync_ad_performance → ad_performance → auto-aggregate → metrics_weeks
+  ├── sync_ticket_sales → ticket_sales (SimpleTicket/Mollie UTM-data)
   ├── sync_demographics → demographic_breakdowns
   ├── signal_alert → signals (+ Slack bij critical)
   └── inject_intelligence → hook_dna + market_intel
@@ -32,19 +33,23 @@ Payload: signal_type (fatigue/anomaly/winner), severity (low/medium/high/critica
 
 **READ (10):** list_campaigns, get_campaign, get_metrics, get_execution_items, get_hook_dna, get_voice_dna, get_market_intel, get_signals, get_organic_posts, get_ad_performance
 
-**WRITE (8+1):** sync_ad_performance, sync_demographics, inject_intelligence, trigger_graduation, refine_voice_dna, signal_alert, eindsprint_package, run_ai_engine, recalibrate_hook_weights
+**WRITE (8+1+2):** sync_ad_performance, sync_demographics, sync_ticket_sales, inject_intelligence, trigger_graduation, refine_voice_dna, signal_alert, eindsprint_package, run_ai_engine, recalibrate_hook_weights, archive_learnings
 
 ## Dashboard Mapping
 
 | Tabel | Pagina |
 |---|---|
 | ad_performance | Ad Performance (4 mini-tabellen: Fase/Format/Concept/Pack) |
+| ticket_sales | Werkelijke Omzet + Attribution Gap (Meta vs SimpleTicket) |
 | metrics_weeks | Dashboard + Command Center (wekelijkse trend) |
+| daily_pacing (view) | Eindsprint Pacing + Budget Alerts |
 | demographic_breakdowns | Demografie & Timing (leeftijd/geslacht/dag) |
 | signals | Signal Center (anomalieën + acties) |
 | hook_dna | Hook Genome (database + gewichten) |
 | voice_dna | Voice DNA (ToV profiel) |
 | market_intel | Market Intel (concurrenten) |
+| campaign_learnings | Cross-Campaign Learnings (archief) |
+| campaign_snapshots | Week-over-Week Vergelijking |
 
 ## Auto-Aggregatie
 

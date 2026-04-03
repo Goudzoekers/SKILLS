@@ -49,6 +49,7 @@ analytics-feedback (data → diagnose)
 | `references/campaign-architectuur.md` | ALTIJD |
 | `references/naming-convention-v3.md` | Ads hernoemen, sync, Manus Bridge |
 | `references/flywheel-os-integration.md` | Data sync, dashboard, signals |
+| `references/ssot-resoluties.md` | SSOT-gaps, ticket_sales, winner-definitie, fatigue, pacing |
 | `references/top-10-bronnen.md` | Research, partner educatie |
 | `references/meta-platform-updates.md` | Advantage+, compliance |
 | `shared-kernel/references/lead-nurture-protocol.md` | Show rate (SSOT) |
