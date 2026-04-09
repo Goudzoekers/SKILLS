@@ -1,6 +1,6 @@
 # Winstarchitect Skills Repository
 
-Het complete skill-ecosysteem voor Winstarchitect. 10 skills, 57 reference files, 1 geïntegreerd acquisitiesysteem.
+Het complete skill-ecosysteem voor Winstarchitect. 10 skills, 60 reference files, 1 geïntegreerd acquisitiesysteem.
 
 ## Architectuur
 
@@ -39,13 +39,13 @@ Stap 5: Launch → Analytics → Iteratie → partner-comms: Weekly Pulse
 ### shared-kernel/ (19 references)
 Fundament. Gedeelde frameworks, orchestratie, routing.
 
-### goated-ads/ (3 references)
+### goated-ads/ (4 references)
 META/social ads. Hooks, body's, CTAs. 7 Zondes angle-mining, sophistication alignment.
 
 ### core-story-webinar/ (13 references)
 Strategie-engine. Blueprint, webinar script, pitch, e-mail sequences. Belief Installation, Schwartz mapping.
 
-### funnel-pages/ (7 references)
+### funnel-pages/ (9 references)
 Copy + wireframe. Sales pages, registratie, upsell, downsell. Awareness/sophistication alignment.
 
 ### funnel-scripts/ (2 references)

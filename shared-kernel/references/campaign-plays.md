@@ -173,3 +173,46 @@ Wat wil je bereiken?
 ├── High-end omzet → Top 1% Promotie
 └── Langetermijn funnel-asset → Back-end Profit VSL
 ```
+
+## Schaalpatroon: Multi-Angle Funnel Ecosystem
+
+Na het bewijzen van één funnel-angle (opt-in >10%, call booking >5%), schaal met meerdere angle-specifieke versies van dezelfde funnel.
+
+**Architectuur:**
+```
+[ANGLE 1: Breed/resultaat] → Landing Page V1 + VSL → CTA (call/aanbod)
+[ANGLE 2: Frustratie]       → Landing Page V2 + VSL → CTA (zelfde)
+[ANGLE 3: Woede/investering] → Landing Page V3 + VSL → CTA (zelfde)
+[ANGLE 4: Specifiek bezwaar] → Landing Page V4 + VSL → CTA (zelfde)
+                                        ↓ alle angles
+                              [RETARGETING POOL — angle-onafhankelijk]
+                                        ↓
+                              [Social proof ads / case study ads]
+```
+
+**Regels:**
+- Elke angle krijgt een eigen landing page met angle-specifieke headline, bullets, en "voor wie" sectie
+- Structuur blijft identiek (zelfde template), alleen de messaging verschilt
+- Alle angles delen dezelfde retargeting-pool en CTA (call/aanbod)
+- Retargeting-ads zijn angle-onafhankelijk (social proof / cases)
+- De VSL kan dezelfde zijn — alleen de landing page verschilt
+
+**Angle-bronnen:**
+- `doelgroep-mind-mining.md` → 7 Zondes als angle-bron (jaloezie, woede, gemakzucht zijn top-3 voor B2C coaches)
+- `doelgroep-mind-mining.md` → Rogue Gallery per emotiecategorie
+- `positionering-frameworks.md` → Kryptonite-angles, Defy the Norms stellingen
+
+**Wanneer toepassen:**
+- Na min. 2 weken data op V1
+- V1 moet bewezen zijn (opt-in >10%, call booking >5%)
+- Niet eerder — bewijs eerst dat de kern werkt
+
+**Implementatie-volgorde:**
+1. V1 live zetten en 2 weken data verzamelen
+2. Data analyseren via analytics-feedback
+3. Als V1 bewezen: Angle 2 bouwen als eerste variant
+4. A/B test: V1 vs Angle 2 op dezelfde ads
+5. Winnende angles schalen, verliezers pauzeren
+6. Itereren tot 3-4 angles draaien
+
+**Routing:** Dit is een uitbreiding van Play 4 (Back-end Profit VSL). Na evergreening van V1, schaal met meerdere angles. Gebruik `funnel-pages/references/conversie-patronen.md` voor de page-structuur per angle.

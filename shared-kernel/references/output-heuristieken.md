@@ -47,6 +47,12 @@ Doorlopen NA eerste concept, VOOR Quality Gate. Elk "nee" = herschrijf dat eleme
 29. **De Rol-Test (Identification)** — Weet de lezer na het lezen welke ROL ze krijgen door dit product? (Niet wat ze KRIJGEN, maar wie ze WORDEN) Nee → voeg rolverkoop toe
 30. **De Camouflage-Test** — Voelt dit als een verkoopstuk of als een verhaal/artikel/les? Als het voelt als verkoop → vermom het beter
 
+## Test 31-33: Conversie-Patronen
+
+31. **De 2-Step Test** — Heeft de funnel een visuele stap-indicator? Weet de bezoeker waar ze zijn in het proces? Nee → voeg 2-Step Indicator toe (zie `funnel-pages/references/conversie-patronen.md`)
+32. **De Anti-List Test** — Zijn de top bezwaren preemptief geneutraliseerd IN de headline-zone (niet alleen in bullets)? Nee → voeg Anti-List toe
+33. **De Old/New Test** — Is er een visuele vergelijking tussen de foute en juiste aanpak? Nee → overweeg Old Way vs New Way sectie (vooral bij sales pages en thank you pages)
+
 ## Snelle Workflow
 
 ```
@@ -61,6 +67,8 @@ Doorloop tests 16-20 (structuur)
 Doorloop tests 21-23 (strategie)
     ↓ fix
 Doorloop tests 24-30 (frameworks: Schwartz, Mind Mining, Positionering)
+    ↓ fix
+Doorloop tests 31-33 (conversie-patronen: 2-Step, Anti-List, Old/New)
     ↓ fix
 → Quality Gate (3 lagen)
     ↓ pass

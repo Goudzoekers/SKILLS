@@ -30,6 +30,7 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 | Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Bij hook-generatie: 7 Zondes als angle-bron, Rogue Gallery voor emotie-angles, sophistication voor claim-intensiteit |
 | Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Bij status-hooks, Kryptonite-angles, Defy the Norms stellingen |
 | Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Intensification (picture words in hooks), Identification (rol-hooks), Concentration (superioriteits-claims) |
+| DM Outreach Frameworks | `references/dm-outreach-frameworks.md` | Bij organische acquisitie, IG/LinkedIn DM-strategie, ManyChat-flows |
 
 **Hormozi Playbook Bronnen (verwerkt in bovenstaande references):**
 - $100M GOATed Ads Playbook → Ad Assembly Process, 5 Ad Meat Formats, CTA Framework, Kaleidoscoop, Schaalprincipes

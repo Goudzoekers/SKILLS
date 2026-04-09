@@ -75,6 +75,9 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Market awareness / sophistication bepalen | shared-kernel → `references/doelgroep-mind-mining.md` → awareness + sophistication matrix |
 | Klant update / onboarding / weekly pulse / milestone | partner-comms |
 | Sales call script / setting / closing | shared-kernel → `references/closer-sales-call.md` + funnel-scripts (prep video) |
+| Multi-angle funnel schalen | shared-kernel → `references/campaign-plays.md` (Multi-Angle Ecosystem) + funnel-pages → `references/conversie-patronen.md` |
+| DM outreach / organische acquisitie | goated-ads → `references/dm-outreach-frameworks.md` |
+| Headline A/B testing / formules | funnel-pages → `references/headline-frameworks.md` |
 
 ## Skill Connectie-Kaart
 
@@ -151,6 +154,9 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Top 10 YouTube bronnen (leadgen coaches/therapeuten) | meta-ads/references/top-10-bronnen.md | — |
 | Partner Comms templates (5 berichttypen) | partner-comms/references/templates.md | — (geen andere skill verwijst, partner-comms is zelfstandig) |
 | CLOSER Sales Call Framework (setting/closing script) | shared-kernel/references/closer-sales-call.md | funnel-scripts (prep video), core-story-webinar (post-webinar call flow) |
+| Conversie-patronen (Config F, 2-Step, Anti-List, Old/New, Video Testimonials, Multi-Angle) | funnel-pages/references/conversie-patronen.md | Alle content-skills |
+| Headline Frameworks (10 formules) | funnel-pages/references/headline-frameworks.md | goated-ads (headline-inspiratie), core-story-webinar (registratiepagina) |
+| DM Outreach Frameworks (4 patronen) | goated-ads/references/dm-outreach-frameworks.md | meta-ads (organisch + paid integratie) |
 
 ## De Vijf Wetten (universeel)
 

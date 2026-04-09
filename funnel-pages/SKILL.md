@@ -27,8 +27,10 @@ Copy + wireframe structuur voor funnel-pagina's. Primair B2C coaches/therapeuten
 | Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Over Jou (status dripping), Uniek Mechanisme (Defy the Norms), Consequenties (Kryptonite Marketing) |
 | Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Sales pages: alle 7 technieken. Gradualization=paginastructuur, Intensification=dromen, Redefinition=prijs/bezwaren, Mechanization=HOE-sectie, Identification=transformatie, Concentration=propositie, Camouflage=toon |
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke pagina |
+| Conversie-patronen | `references/conversie-patronen.md` | Config F, 2-Step Indicator, Anti-List, Old Way vs New Way, Video Testimonials, Multi-Angle |
+| Headline Frameworks | `references/headline-frameworks.md` | Headline A/B testing, awareness-aligned formules |
 
-**Eigen references per paginatype:** `references/registration-page.md`, `references/upsell-page.md`, `references/thankyou-page.md`, `references/downsell-page.md`, `references/sales-page.md`, `references/funnel-flow-map.md`, `references/video-guidelines.md`
+**Eigen references per paginatype:** `references/registration-page.md`, `references/upsell-page.md`, `references/thankyou-page.md`, `references/downsell-page.md`, `references/sales-page.md`, `references/funnel-flow-map.md`, `references/video-guidelines.md`, `references/conversie-patronen.md`, `references/headline-frameworks.md`
 
 **Video scripts:** delegeer naar funnel-scripts. video-guidelines.md = briefing-spec.
 
@@ -41,8 +43,9 @@ Copy + wireframe structuur voor funnel-pagina's. Primair B2C coaches/therapeuten
 - **C:** Lead Magnet (registratie → upsell → thank you/downsell)
 - **D:** High-Ticket (registratie → sales page → premium thank you)
 - **E:** Simpel (registratie → thank you)
+- **F:** VSL-First (landing page + ungated video + CTA naar call)
 
-B2C coaches: Config A of C. Therapeuten: Config E of D.
+B2C coaches: Config A of C. Therapeuten: Config E of D. High-ticket met sceptische doelgroep: Config F.
 
 ## Per Sectie Opleveren
 
