@@ -35,6 +35,7 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/positionering-frameworks.md` | Alter Ego (3 thema's), Kryptonite Marketing, Defy the Norms, Status & Autoriteit (10 tactieken), Thought Leadership, Filosofie-manifest, Infotainment Formula, 9 Stemtypes | Bij personal brand, ToV, webinar positionering, sales page "Over Jou", content-strategie |
 | `references/breakthrough-advertising.md` | 7 Schwartz persuasion-technieken: Intensification (beeldscherpte), Identification (rolverkoop), Gradualization (overtuigingstrap), Redefinition (bezwaar-herkadering), Mechanization (HOE onthullen), Concentration (competitieve superioriteit), Camouflage (vermomde verkoop) | Bij sales pages, webinar scripts, VSL, e-mail sequences, elke lange-vorm copy |
 | `references/closer-sales-call.md` | CLOSER Framework: Clarify→Label→Overview→Sell vacation→Explain concerns→Reinforce decision. Setting/closing script voor 1-op-1 sales calls, setter/closer rolsplitsing | Bij funnel met call-stap, sales call scripts, setter/closer briefing |
+| `references/icp-filter-framework.md` | 5-pijler ICP selectiestructuur: Belofte, Mechanisme, Identiteit (Type A/B), Prijs van Falen, Gedragsvereiste. Graaf-vragen, 6/10 vs 10/10, samenvat-format, context-afhankelijke toepassing per skill | NA client brief bij nieuwe klant. Bij positioneringsvraag. Bij funnel die niet converteert. NIET bij puur technische taken of analytics-only. |
 
 ## Orchestratie Protocol
 
@@ -42,6 +43,9 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 ```
 Stap 0: Universal Client Brief (1x per klant)
   └→ Incl. Doelgroep Mind Mining: 7 Zondes, Rogue Gallery, awareness/sophistication, belief mapping
+Stap 0b: ICP Filter (1x per klant, NA client brief)
+  └→ 5 pijlers: Belofte, Mechanisme, Identiteit (Type A/B), Prijs van Falen, Gedragsvereiste
+  └→ Voedt ALLE volgende stappen. Zonder ICP filter = 6/10 output.
 Stap 1: ToV Kalibratie (1x per klant)
   └→ Incl. 9 stemtypes + alter ego profiel + positionering
 Stap 2: core-story-webinar → Perceptie Blueprint
@@ -78,6 +82,9 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Multi-angle funnel schalen | shared-kernel → `references/campaign-plays.md` (Multi-Angle Ecosystem) + funnel-pages → `references/conversie-patronen.md` |
 | DM outreach / organische acquisitie | goated-ads → `references/dm-outreach-frameworks.md` |
 | Headline A/B testing / formules | funnel-pages → `references/headline-frameworks.md` |
+| ICP definitie / ideale klant / filter / selectie / Type A/B | shared-kernel → `references/icp-filter-framework.md` |
+| Prijs van falen / kosten van niets doen / urgentie | shared-kernel → `references/icp-filter-framework.md` (pijler 4) + funnel-pages → `references/conversie-patronen.md` (copy-sectie) |
+| "Niet voor jou" / afstoting / gedragsvereiste | shared-kernel → `references/icp-filter-framework.md` (pijler 5) + funnel-pages → `references/conversie-patronen.md` (patroon) |
 
 ## Skill Connectie-Kaart
 
@@ -157,6 +164,7 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Conversie-patronen (Config F, 2-Step, Anti-List, Old/New, Video Testimonials, Multi-Angle) | funnel-pages/references/conversie-patronen.md | Alle content-skills |
 | Headline Frameworks (10 formules) | funnel-pages/references/headline-frameworks.md | goated-ads (headline-inspiratie), core-story-webinar (registratiepagina) |
 | DM Outreach Frameworks (4 patronen) | goated-ads/references/dm-outreach-frameworks.md | meta-ads (organisch + paid integratie) |
+| ICP Filter Framework (5-pijler selectiestructuur) | shared-kernel/references/icp-filter-framework.md | Verplicht bij nieuwe klant (Stap 0b). Bevat context-afhankelijke decision tree: welke pijlers per deliverable, diepte-niveaus (Light/Standard/Deep), wanneer NIET laden. |
 
 ## De Vijf Wetten (universeel)
 

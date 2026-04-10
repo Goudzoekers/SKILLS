@@ -7,6 +7,16 @@ De emotionele motor achter ALLE copy. Geen features. Geen rationele argumenten. 
 ### P — Primal Drijfveer
 De diepste, vaak onuitgesproken motivatie. Niet wat ze ZEGGEN, maar wat ze VOELEN.
 
+**3-Niveau Diepte-Model:**
+
+| Niveau | Wat het is | Voorbeeld (business coach) |
+|---|---|---|
+| Oppervlakte | Wat ze ZEGGEN dat ze willen | "Meer omzet en klanten" |
+| Diep | Waar ze BANG voor zijn | "Ik ben bang dat ik niet goed genoeg ben om hiervan te leven" |
+| Diepst | Wat ze NIET durven toegeven | "Ik weet wat ik moet doen maar ik doe het niet. Ik saboteer mezelf. En ik schaam me daar kapot voor." |
+
+**Regel:** Copy op niveau "Oppervlakte" converteert 6/10. Niveau "Diep" converteert 8/10. Niveau "Diepst" converteert 10/10 — maar alleen als de doelgroep het herkent. Gebruik niveau "Diepst" wanneer de doelgroep al eerder heeft geïnvesteerd en gefaald (mensen met littekens).
+
 **Graaf-vragen:**
 - Wat is het ergste dat kan gebeuren als dit probleem blijft?
 - Waar ben je bang voor als je eerlijk bent?
@@ -41,6 +51,23 @@ NIEUW: [gewenste identiteit + bijbehorend gedrag]
 - NU: "Ik ben iemand die altijd moe is" → NIEUW: "Ik heb energie en voel me weer jong"
 
 **In copy:** Beschrijf de HUIDIGE identiteit zo herkenbaar dat ze denken "dit gaat over MIJ." Beschrijf de NIEUWE identiteit zo aantrekkelijk dat ze denken "dat WIL ik zijn."
+
+**Sophistication-Aware Identity Shift:**
+
+De Identity Shift verschuift mee met de marktfase:
+
+| Sophistication | NU-frame | SHIFT-frame | NIEUW-frame |
+|---|---|---|---|
+| Fase 1-2 | Probleem beschrijven | "Er is een oplossing" | Resultaat (wat je KRIJGT) |
+| Fase 3-4 | Foute aanpak beschrijven | "Het ligt aan de methode, niet aan jou" | Resultaat + methode (wat je KRIJGT en HOE) |
+| **Fase 5** | **Gedrag/identiteit beschrijven** | **"Het ligt aan wie je BENT, niet aan wat je WEET"** | **Identiteit (wie je WORDT)** |
+
+**Fase 5 voorbeeld:**
+- NU: "Ik weet wat nodig is maar ik kies steeds voor comfort boven groei"
+- SHIFT: "Je hebt geen kennis nodig. Je hebt confrontatie nodig met je eigen patroon."
+- NIEUW: "Ik ben een ondernemer die doet wat nodig is. Die handelde terwijl het eng was."
+
+**Regel:** In verzadigde markten (B2C coaches 2025-2026 = fase 4-5) is identiteitsverkoop krachtiger dan resultaatverkoop. Iedereen belooft €20K/m. Niemand belooft: "je wordt iemand die zichzelf niet meer saboteert."
 
 ### G — Growth Mechanism
 Het concrete middel waarmee de shift plaatsvindt. Dit is waar je product/dienst binnenkomt — maar pas NADAT P en I zijn neergezet.

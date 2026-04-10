@@ -95,3 +95,18 @@ Na de Brief, bepaal de route:
 | ToV | Min. 1 voorbeeld meegeleverd | "Gewoon professioneel" |
 
 **Regel:** Bij onvoldoende items → vraag door. Begin NIET met bouwen op een halve Brief.
+
+## Na de Brief: ICP Filter
+
+Zodra de Universal Client Brief compleet is, vul het ICP Filter Framework in (`shared-kernel/references/icp-filter-framework.md`).
+
+De Brief geeft je WAT je weet over de klant. Het ICP Filter bepaalt WIE de klant aantrekt en afstoot. Zonder ICP Filter is alle output 6/10.
+
+**5 pijlers invullen:**
+1. Belofte (meetbaar, zwart-wit)
+2. Mechanisme (benoemd, niet kopieerbaar)
+3. Identiteit (Type A/B matrix — gedrag, niet demografie)
+4. Prijs van Falen (concreet: uren, euro's, emoties)
+5. Gedragsvereiste (het echte filter — hier haakt 70% af)
+
+**Bron:** De antwoorden komen uit de Brief (blok 1-5) + Doelgroep Mind Mining + directe input van de klant over hun beste en slechtste klanten.

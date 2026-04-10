@@ -1,6 +1,6 @@
 # Winstarchitect Skills Repository
 
-Het complete skill-ecosysteem voor Winstarchitect. 10 skills, 60 reference files, 1 geïntegreerd acquisitiesysteem.
+Het complete skill-ecosysteem voor Winstarchitect. 10 skills, 61 reference files, 1 geïntegreerd acquisitiesysteem.
 
 ## Architectuur
 
@@ -36,7 +36,7 @@ Stap 5: Launch → Analytics → Iteratie → partner-comms: Weekly Pulse
 
 ## Skills
 
-### shared-kernel/ (19 references)
+### shared-kernel/ (20 references)
 Fundament. Gedeelde frameworks, orchestratie, routing.
 
 ### goated-ads/ (4 references)

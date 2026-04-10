@@ -29,6 +29,7 @@ Copy + wireframe structuur voor funnel-pagina's. Primair B2C coaches/therapeuten
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke pagina |
 | Conversie-patronen | `references/conversie-patronen.md` | Config F, 2-Step Indicator, Anti-List, Old Way vs New Way, Video Testimonials, Multi-Angle |
 | Headline Frameworks | `references/headline-frameworks.md` | Headline A/B testing, awareness-aligned formules |
+| ICP Filter Framework | `shared-kernel/references/icp-filter-framework.md` | Bij "Niet-voor-jou" sectie (sales pages, opt-in). Bij Prijs van Falen copy-sectie (sales pages, VSL-pagina's). NIET bij simpele thank you pages of checkout. Check decision tree in het framework voor welke pijlers per paginatype. |
 
 **Eigen references per paginatype:** `references/registration-page.md`, `references/upsell-page.md`, `references/thankyou-page.md`, `references/downsell-page.md`, `references/sales-page.md`, `references/funnel-flow-map.md`, `references/video-guidelines.md`, `references/conversie-patronen.md`, `references/headline-frameworks.md`
 

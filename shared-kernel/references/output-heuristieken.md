@@ -53,6 +53,12 @@ Doorlopen NA eerste concept, VOOR Quality Gate. Elk "nee" = herschrijf dat eleme
 32. **De Anti-List Test** — Zijn de top bezwaren preemptief geneutraliseerd IN de headline-zone (niet alleen in bullets)? Nee → voeg Anti-List toe
 33. **De Old/New Test** — Is er een visuele vergelijking tussen de foute en juiste aanpak? Nee → overweeg Old Way vs New Way sectie (vooral bij sales pages en thank you pages)
 
+## Test 34-36: ICP Filter (Identiteit & Selectie)
+
+34. **De ICP Filter Test** — Zijn alle 5 pijlers ingevuld (Belofte, Mechanisme, Identiteit, Prijs van Falen, Gedragsvereiste)? Is er een Type A/B matrix? Nee → vul in via `shared-kernel/references/icp-filter-framework.md`
+35. **De Prijs van Falen Test** — Is de prijs van niet-handelen concreet en meetbaar benoemd? (uren, euro's, emoties — niet "je mist kansen") Nee → maak het specifiek
+36. **De Gedragsvereiste Test** — Staat er een expliciete "niet voor jou als..." lijst? Filtert de copy actief op gedrag (niet alleen op intentie)? Nee → voeg toe. Als 0% afhaakt, is het filter te zwak.
+
 ## Snelle Workflow
 
 ```
@@ -69,6 +75,8 @@ Doorloop tests 21-23 (strategie)
 Doorloop tests 24-30 (frameworks: Schwartz, Mind Mining, Positionering)
     ↓ fix
 Doorloop tests 31-33 (conversie-patronen: 2-Step, Anti-List, Old/New)
+    ↓ fix
+Doorloop tests 34-36 (ICP filter: 5-pijler, prijs van falen, gedragsvereiste)
     ↓ fix
 → Quality Gate (3 lagen)
     ↓ pass
