@@ -36,6 +36,7 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/breakthrough-advertising.md` | 7 Schwartz persuasion-technieken: Intensification (beeldscherpte), Identification (rolverkoop), Gradualization (overtuigingstrap), Redefinition (bezwaar-herkadering), Mechanization (HOE onthullen), Concentration (competitieve superioriteit), Camouflage (vermomde verkoop) | Bij sales pages, webinar scripts, VSL, e-mail sequences, elke lange-vorm copy |
 | `references/closer-sales-call.md` | CLOSER Framework: Clarify→Label→Overview→Sell vacation→Explain concerns→Reinforce decision. Setting/closing script voor 1-op-1 sales calls, setter/closer rolsplitsing | Bij funnel met call-stap, sales call scripts, setter/closer briefing |
 | `references/icp-filter-framework.md` | 5-pijler ICP selectiestructuur: Belofte, Mechanisme, Identiteit (Type A/B), Prijs van Falen, Gedragsvereiste. Graaf-vragen, 6/10 vs 10/10, samenvat-format, context-afhankelijke toepassing per skill | NA client brief bij nieuwe klant. Bij positioneringsvraag. Bij funnel die niet converteert. NIET bij puur technische taken of analytics-only. |
+| `references/sophistication-playbook.md` | Copy-strategie per sophistication-fase (1-5) per touchpoint. Diagnose-checklist, per-fase tabellen voor Meta Ads (cold+retargeting), opt-in, sales page, VSL, e-mail sequences. Fase-interactie met awareness. Fase-reset mechanismen. | Bij intake (diagnose). Bij elke copy-productie (check de juiste tabel). Bij ads-strategie. NIET bij technische taken. |
 
 ## Orchestratie Protocol
 
@@ -80,14 +81,14 @@ Niet "laad alles." Laad het MINIMUM dat 10/10 output produceert.
 
 | Deliverable | PRIMARY | SECONDARY (als nodig) | SKIP |
 |---|---|---|---|
-| **Opt-in pagina** | schrijfregels, registration-page.md, conversie-patronen.md, ICP filter (pijler 1+3) | headline-frameworks, breakthrough-advertising (Gradualization) | campaign-plays, money-model, closer-sales-call, branding-framework |
-| **Sales page** | schrijfregels, sales-page.md, ICP filter (alle 5), pig-method, breakthrough-advertising | doelgroep-mind-mining, positionering-frameworks | campaign-plays, lead-nurture, dm-outreach |
+| **Opt-in pagina** | schrijfregels, registration-page.md, conversie-patronen.md, ICP filter (pijler 1+3) | headline-frameworks, sophistication-playbook (opt-in tabel), breakthrough-advertising (Gradualization) | campaign-plays, money-model, closer-sales-call, branding-framework |
+| **Sales page** | schrijfregels, sales-page.md, ICP filter (alle 5), pig-method, breakthrough-advertising | sophistication-playbook (sales page tabel), doelgroep-mind-mining, positionering-frameworks | campaign-plays, lead-nurture, dm-outreach |
 | **Thank you page** | schrijfregels, thankyou-page.md, conversie-patronen.md (Old/New, Video Testimonials) | ICP filter (pijler 1 belofte) | pig-method (al verwerkt op opt-in), campaign-plays, money-model |
-| **Ad batch** | schrijfregels, creative-flywheel-methode, hook-library, golden-examples-ads | doelgroep-mind-mining (7 Zondes, Rogue Gallery), ICP filter (pijler 3+4 als angle-bron) | sales-page.md, registration-page.md, campaign-plays, lead-nurture |
-| **VSL script** | schrijfregels, video-guidelines.md, pig-method, ICP filter (alle 5) | breakthrough-advertising, doelgroep-mind-mining | registration-page.md, hook-library, campaign-plays |
-| **Webinar Blueprint** | doelgroep-mind-mining, pig-method, ICP filter (alle 5), copywriting-principes | positionering-frameworks, breakthrough-advertising, money-model | registration-page.md, hook-library, dm-outreach |
-| **Webinar script** | Blueprint (al gemaakt), schrijfregels | breakthrough-advertising (Intensification, Camouflage) | pig-method (zit in Blueprint), ICP filter (zit in Blueprint) |
-| **E-mail sequence** | schrijfregels, campaign-plays (welke play?), lead-nurture-protocol | doelgroep-mind-mining (awareness per mail) | sales-page.md, video-guidelines, branding-framework |
+| **Ad batch** | schrijfregels, creative-flywheel-methode, hook-library, golden-examples-ads | sophistication-playbook (Meta Ads tabel — PRIMARY bij eerste batch), doelgroep-mind-mining (7 Zondes, Rogue Gallery), ICP filter (pijler 3+4 als angle-bron) | sales-page.md, registration-page.md, campaign-plays, lead-nurture |
+| **VSL script** | schrijfregels, video-guidelines.md, pig-method, ICP filter (alle 5) | sophistication-playbook (VSL tabel), breakthrough-advertising, doelgroep-mind-mining | registration-page.md, hook-library, campaign-plays |
+| **Webinar Blueprint** | doelgroep-mind-mining, pig-method, ICP filter (alle 5), copywriting-principes | sophistication-playbook (diagnose + sales page tabel), positionering-frameworks, breakthrough-advertising, money-model | registration-page.md, hook-library, dm-outreach |
+| **Webinar script** | Blueprint (al gemaakt), schrijfregels | breakthrough-advertising (Intensification, Camouflage) | pig-method (zit in Blueprint), ICP filter (zit in Blueprint), sophistication-playbook (zit in Blueprint) |
+| **E-mail sequence** | schrijfregels, campaign-plays (welke play?), lead-nurture-protocol | sophistication-playbook (e-mail tabel — PRIMARY bij eerste sequence), doelgroep-mind-mining (awareness per mail) | sales-page.md, video-guidelines, branding-framework |
 | **Campagne setup** | campaign-architectuur.md, meta-platform-updates.md, ad-naamconventie | benchmarks.md | Alle shared-kernel content-frameworks |
 | **Performance analyse** | benchmarks.md, analytics-feedback SKILL.md | Geen | Alle content-skills, alle shared-kernel frameworks |
 | **Kickstart Call script** | closer-sales-call.md, ICP filter (pijler 3+5) | Geen | Alle content-skills |
@@ -118,7 +119,8 @@ Stap 0: Universal Client Brief (1x per klant)
   └→ Incl. Doelgroep Mind Mining: 7 Zondes, Rogue Gallery, awareness/sophistication, belief mapping
 Stap 0b: ICP Filter (1x per klant, NA client brief)
   └→ 5 pijlers: Belofte, Mechanisme, Identiteit (Type A/B), Prijs van Falen, Gedragsvereiste
-  └→ Voedt ALLE volgende stappen. Zonder ICP filter = 6/10 output.
+  └→ Inclusief Sophistication Diagnose (5-stappen, zie sophistication-playbook.md)
+  └→ Voedt ALLE volgende stappen. Zonder ICP filter + sophistication = 6/10 output.
 Stap 1: ToV Kalibratie (1x per klant)
   └→ Incl. 9 stemtypes + alter ego profiel + positionering
 Stap 2: core-story-webinar → Perceptie Blueprint
@@ -159,6 +161,8 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | ICP definitie / ideale klant / filter / selectie / Type A/B | shared-kernel → `references/icp-filter-framework.md` |
 | Prijs van falen / kosten van niets doen / urgentie | shared-kernel → `references/icp-filter-framework.md` (pijler 4) + funnel-pages → `references/conversie-patronen.md` (copy-sectie) |
 | "Niet voor jou" / afstoting / gedragsvereiste | shared-kernel → `references/icp-filter-framework.md` (pijler 5) + funnel-pages → `references/conversie-patronen.md` (patroon) |
+| Sophistication bepalen / fase-diagnose / welke toon | shared-kernel → `references/sophistication-playbook.md` (diagnose + per-fase strategie) |
+| Copy past niet bij de markt / "klinkt als iedereen" | shared-kernel → `references/sophistication-playbook.md` (fase-check + fase-reset) |
 
 ## Skill Connectie-Kaart
 
@@ -239,6 +243,7 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | Headline Frameworks (10 formules) | funnel-pages/references/headline-frameworks.md | funnel-pages (headline A/B), goated-ads (headline-inspiratie). NIET bij scripts, webinar, e-mails. |
 | DM Outreach Frameworks (4 patronen) | goated-ads/references/dm-outreach-frameworks.md | goated-ads (organisch), meta-ads (integratie met paid). |
 | ICP Filter Framework (5-pijler selectiestructuur) | shared-kernel/references/icp-filter-framework.md | Stap 0b bij nieuwe klant. Bevat eigen decision tree: welke pijlers per deliverable. NIET bij technische taken, analytics-only, partner-comms (tenzij call-kwalificatie). |
+| Sophistication Playbook (copy-strategie per fase per touchpoint) | shared-kernel/references/sophistication-playbook.md | Bij elke copy-productie: check de fase, gebruik de juiste tabel. goated-ads (hook-strategie), funnel-pages (headline-formule), funnel-scripts (VSL-structuur), core-story-webinar (e-mail sequence tone). NIET bij technische taken, analytics-only. |
 
 ## De Zes Wetten (universeel)
 

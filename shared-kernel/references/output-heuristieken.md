@@ -59,6 +59,10 @@ Doorlopen NA eerste concept, VOOR Quality Gate. Elk "nee" = herschrijf dat eleme
 35. **De Prijs van Falen Test** — Is de prijs van niet-handelen concreet en meetbaar benoemd? (uren, euro's, emoties — niet "je mist kansen") Nee → maak het specifiek
 36. **De Gedragsvereiste Test** — Staat er een expliciete "niet voor jou als..." lijst? Filtert de copy actief op gedrag (niet alleen op intentie)? Nee → voeg toe. Als 0% afhaakt, is het filter te zwak.
 
+## Test 37: Sophistication Match
+
+37. **De Sophistication Test** — Is de sophistication-fase gediagnosticeerd? Past de copy-strategie bij die fase? Check: fase 5 markt met fase 2 claims = onzichtbaar. Fase 2 markt met fase 5 identiteitsverkoop = verwarring. Gebruik `shared-kernel/references/sophistication-playbook.md` voor diagnose + juiste touchpoint-tabel.
+
 ## Snelle Workflow
 
 ```
@@ -77,6 +81,8 @@ Doorloop tests 24-30 (frameworks: Schwartz, Mind Mining, Positionering)
 Doorloop tests 31-33 (conversie-patronen: 2-Step, Anti-List, Old/New)
     ↓ fix
 Doorloop tests 34-36 (ICP filter: 5-pijler, prijs van falen, gedragsvereiste)
+    ↓ fix
+Doorloop test 37 (sophistication match: past de toon bij de marktfase?)
     ↓ fix
 → Quality Gate (3 lagen)
     ↓ pass

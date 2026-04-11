@@ -74,7 +74,9 @@ Bepaalt HOE je het zegt. In welke woorden, claims en beloftes.
 | 4 | Claims geloofwaardig, mechanismen bekend | Mechanisme versterken: + "zonder [bezwaar]" |
 | 5 | Niemand gelooft claims meer | Identiteit verkopen: wie word je / wie ben je niet meer |
 
-**B2C coaches/therapeuten 2025:** Meestal fase 3-4. Doe de check per klant.
+**B2C coaches/therapeuten 2025-2026:** Meestal fase 3-4. Business coaching voor coaches = fase 4-5. Doe de diagnose per klant.
+
+**→ Voor de complete copy-strategie per fase per touchpoint (ads, e-mails, pagina's, VSL), zie `shared-kernel/references/sophistication-playbook.md`.** Dat playbook bevat: diagnose-checklist (5 stappen), per-fase-strategie, per-touchpoint tabellen (Meta Ads cold/retargeting, opt-in, sales page, VSL, e-mail sequences), fase-interactie met awareness, en fase-reset mechanismen.
 
 ## Belief Mapping (Overtuigingen-Inventaris)
 

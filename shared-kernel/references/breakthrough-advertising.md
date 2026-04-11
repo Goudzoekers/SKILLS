@@ -6,6 +6,7 @@ Strategische overtuigingstechnieken voor sales copy, webinars en lange-vorm cont
 - Copywriting Principes = 30 tactische regels (HOE schrijf je). Breakthrough Advertising = 7 strategische technieken (HOE overtuig je).
 - Doelgroep Mind Mining = wie is de klant, wat voelt/gelooft die. Breakthrough Advertising = hoe bewerk je die gevoelens en overtuigingen in copy.
 - Positionering Frameworks = hoe positioneer je de PERSOON. Breakthrough Advertising = hoe positioneer je het AANBOD in copy.
+- Sophistication Playbook = WANNEER gebruik je welke techniek. Elke sophistication-fase heeft een dominante Schwartz-techniek (fase 1-2: Intensification, fase 3: Mechanization, fase 4: Redefinition, fase 5: Identification).
 
 ## 1. Intensification (Beeldscherpte)
 
