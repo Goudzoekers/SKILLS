@@ -18,6 +18,8 @@ Sluit de cirkel: ads draaien → data → diagnose → kaleidoscoop → betere a
 
 ## Context Loading
 
+> **Wet 6: Laad het minimum, niet het maximum.** Check `shared-kernel/SKILL.md` → Context Evaluation Protocol voor de decision tree. Laad alleen wat dit deliverable nodig heeft.
+
 | Nodig | Bron | Wanneer |
 |---|---|---|
 | Kaleidoscoop-technieken | `goated-ads/references/creative-flywheel-methode.md` | Bij variaties op winners |

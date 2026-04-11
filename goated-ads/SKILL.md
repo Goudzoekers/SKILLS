@@ -15,22 +15,25 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 
 ## Context Loading
 
+> **Wet 6: Laad het minimum, niet het maximum.** Check `shared-kernel/SKILL.md` → Context Evaluation Protocol voor de decision tree. Onderstaande tabel is de PRIMARY/SECONDARY mapping specifiek voor ads.
+
 | Nodig | Bron | Wanneer |
 |---|---|---|
-| P.I.G. Lines, emotionele hooks | `shared-kernel/references/pig-method.md` | Bij hook patroon 4 |
-| Conversie-principes | `shared-kernel/references/copywriting-principes.md` | Elke batch |
-| Schrijfregels NL | `shared-kernel/references/schrijfregels-nl.md` | Elke batch |
+| Schrijfregels NL | `shared-kernel/references/schrijfregels-nl.md` | ALTIJD bij NL copy (niet-onderhandelbaar) |
+| Awareness, kaleidoscoop, swipe | `references/creative-flywheel-methode.md` | ALTIJD (eigen primary reference) |
+| 6/10 vs 10/10 ads | `references/golden-examples-ads.md` | VOOR elke batch (eigen primary reference) |
+| Hook library + swipe file | `references/hook-library.md` | Bij hook-schrijven, 70-20-10 toepassen |
+| Conversie-principes | `shared-kernel/references/copywriting-principes.md` | Bij body-copy. SKIP bij pure hook-batches. |
+| P.I.G. Lines, emotionele hooks | `shared-kernel/references/pig-method.md` | Bij hook patroon 4. SKIP bij retargeting/social proof ads. |
+| Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Bij hook-generatie: 7 Zondes + Rogue Gallery als angle-bron. SKIP bij kaleidoscoop op bestaande winners. |
+| ICP Filter (pijler 3+4) | `shared-kernel/references/icp-filter-framework.md` | Als angle-bron: Identiteit + Prijs van Falen zijn de sterkste ad-angles in fase 4-5 markten. SKIP bij fase 1-3 markten. |
 | Niche-aanpassingen | `shared-kernel/references/niche-adaptaties.md` | Eerste batch per klant |
-| Branding Framework | `shared-kernel/references/branding-framework.md` | Ads ZIJN branding. Check boeket-consistentie. Elke hook is een merk-associatie. |
-| Money Model Framework | `shared-kernel/references/money-model-framework.md` | Ads promoten primair de Attraction Offer. Retargeting = upsell-promotie. |
+| DM Outreach Frameworks | `references/dm-outreach-frameworks.md` | Bij organische acquisitie, IG/LinkedIn DM-strategie. SKIP bij paid-only. |
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke batch |
-| Awareness, kaleidoscoop, swipe | `references/creative-flywheel-methode.md` | ALTIJD |
-| 6/10 vs 10/10 ads | `references/golden-examples-ads.md` | VOOR elke batch |
-| Hook library + swipe file | `references/hook-library.md` | Bij hook-schrijven, 70-20-10 toepassen, categorie-verdeling |
-| Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Bij hook-generatie: 7 Zondes als angle-bron, Rogue Gallery voor emotie-angles, sophistication voor claim-intensiteit |
-| Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Bij status-hooks, Kryptonite-angles, Defy the Norms stellingen |
-| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Intensification (picture words in hooks), Identification (rol-hooks), Concentration (superioriteits-claims) |
-| DM Outreach Frameworks | `references/dm-outreach-frameworks.md` | Bij organische acquisitie, IG/LinkedIn DM-strategie, ManyChat-flows |
+| Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | SECONDARY: bij status-hooks, Kryptonite-angles. SKIP bij standaard batches. |
+| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | SKIP voor ads <100 woorden. Alleen bij lange ad-body's of VSL-achtige ads. |
+| Branding Framework | `shared-kernel/references/branding-framework.md` | SKIP tenzij brand-consistentie check gevraagd wordt. |
+| Money Model Framework | `shared-kernel/references/money-model-framework.md` | SKIP. Dit is voor funnel-architectuur, niet voor losse ads. |
 
 **Hormozi Playbook Bronnen (verwerkt in bovenstaande references):**
 - $100M GOATed Ads Playbook → Ad Assembly Process, 5 Ad Meat Formats, CTA Framework, Kaleidoscoop, Schaalprincipes

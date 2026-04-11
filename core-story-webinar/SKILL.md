@@ -17,6 +17,8 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 
 ## Context Loading
 
+> **Wet 6: Laad het minimum, niet het maximum.** Check `shared-kernel/SKILL.md` → Context Evaluation Protocol voor de decision tree. Laad alleen wat dit deliverable nodig heeft.
+
 | Nodig | Bron | Wanneer |
 |---|---|---|
 | P.I.G. Method | `shared-kernel/references/pig-method.md` | Fase 1 + 2 |

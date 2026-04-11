@@ -15,21 +15,23 @@ Copy + wireframe structuur voor funnel-pagina's. Primair B2C coaches/therapeuten
 
 ## Context Loading
 
+> **Wet 6: Laad het minimum, niet het maximum.** Check `shared-kernel/SKILL.md` → Context Evaluation Protocol → Reference Loading per Deliverable voor de exacte PRIMARY/SECONDARY/SKIP per paginatype.
+
 | Nodig | Bron | Wanneer |
 |---|---|---|
-| Schrijfregels NL | `shared-kernel/references/schrijfregels-nl.md` | LEES EERST bij elke pagina |
-| Conversie-principes | `shared-kernel/references/copywriting-principes.md` | Elke pagina |
-| Niche-aanpassingen | `shared-kernel/references/niche-adaptaties.md` | Elke pagina |
-| P.I.G. storytelling | `shared-kernel/references/pig-method.md` | Sales pages, origin stories |
-| Money Model Framework | `shared-kernel/references/money-model-framework.md` | Bij funnel-architectuur, offer-sequentie, upsell/downsell pagina's |
-| Branding Framework | `shared-kernel/references/branding-framework.md` | Bij brand-consistentie check, pagina-ontwerp dat merkbelofte bevestigt |
-| Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Headline (awareness/sophistication), Probleem-sectie (Rogue Gallery), Dromen-sectie (7 Zondes), Belief Installation Check |
-| Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Over Jou (status dripping), Uniek Mechanisme (Defy the Norms), Consequenties (Kryptonite Marketing) |
-| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Sales pages: alle 7 technieken. Gradualization=paginastructuur, Intensification=dromen, Redefinition=prijs/bezwaren, Mechanization=HOE-sectie, Identification=transformatie, Concentration=propositie, Camouflage=toon |
+| Schrijfregels NL | `shared-kernel/references/schrijfregels-nl.md` | ALTIJD bij NL copy (niet-onderhandelbaar) |
+| Conversie-principes | `shared-kernel/references/copywriting-principes.md` | Opt-in, sales page, registratie. SKIP bij thank you page (prospect is al geconverteerd). |
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke pagina |
-| Conversie-patronen | `references/conversie-patronen.md` | Config F, 2-Step Indicator, Anti-List, Old Way vs New Way, Video Testimonials, Multi-Angle |
-| Headline Frameworks | `references/headline-frameworks.md` | Headline A/B testing, awareness-aligned formules |
-| ICP Filter Framework | `shared-kernel/references/icp-filter-framework.md` | Bij "Niet-voor-jou" sectie (sales pages, opt-in). Bij Prijs van Falen copy-sectie (sales pages, VSL-pagina's). NIET bij simpele thank you pages of checkout. Check decision tree in het framework voor welke pijlers per paginatype. |
+| Conversie-patronen | `references/conversie-patronen.md` | PRIMARY bij opt-in (2-Step, Anti-List), thank you (Old/New), sales page (Niet-voor-jou, Prijs van Falen). Per paginatype: check welke patronen relevant zijn. |
+| Headline Frameworks | `references/headline-frameworks.md` | Bij opt-in en registratiepagina headlines. SKIP bij thank you, checkout. |
+| ICP Filter Framework | `shared-kernel/references/icp-filter-framework.md` | Sales pages: alle 5 pijlers. Opt-in: pijler 1+3. Thank you: pijler 1 (licht). Checkout: SKIP. Check decision tree in het framework. |
+| P.I.G. storytelling | `shared-kernel/references/pig-method.md` | Sales pages, opt-in (hero). SKIP bij thank you (al verwerkt), upsell (ander doel), checkout. |
+| Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Opt-in headline (awareness), sales page probleem-sectie (Rogue Gallery). SKIP bij thank you, checkout. |
+| Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Sales pages: alle 7 technieken. SKIP bij opt-in (te zwaar), thank you, checkout, upsell (kort). |
+| Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Sales page "Over Jou" sectie. SKIP bij opt-in (geen ruimte), thank you, checkout. |
+| Money Model Framework | `shared-kernel/references/money-model-framework.md` | Bij funnel-architectuur, upsell/downsell ontwerp. SKIP bij losse pagina's. |
+| Branding Framework | `shared-kernel/references/branding-framework.md` | SKIP tenzij brand-consistentie check gevraagd. |
+| Niche-aanpassingen | `shared-kernel/references/niche-adaptaties.md` | Eerste pagina per klant. Daarna: alleen als niche-specifieke termen nodig zijn. |
 
 **Eigen references per paginatype:** `references/registration-page.md`, `references/upsell-page.md`, `references/thankyou-page.md`, `references/downsell-page.md`, `references/sales-page.md`, `references/funnel-flow-map.md`, `references/video-guidelines.md`, `references/conversie-patronen.md`, `references/headline-frameworks.md`
 
