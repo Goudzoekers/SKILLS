@@ -58,14 +58,16 @@ analytics-feedback (data → diagnose)
 | `shared-kernel/references/lead-nurture-protocol.md` | Show rate (SSOT) |
 | `shared-kernel/references/campaign-plays.md` | Play-selectie (SSOT) |
 | `shared-kernel/references/doelgroep-mind-mining.md` | Targeting |
+| `shared-kernel/references/sophistication-playbook.md` | Campagne-messaging: check Meta Ads cold + retargeting tabellen per fase. Fase bepaalt hook-strategie (fase 5 = identiteit, fase 3 = mechanisme). Fase × Awareness matrix bepaalt welke targeting → welke messaging. |
+| `shared-kernel/references/icp-filter-framework.md` | Cold traffic: Identiteit (pijler 3) + Prijs van Falen (pijler 4) zijn de sterkste angles in fase 4-5. Retargeting: Gedragsvereiste (pijler 5) als confrontatie-CTA. |
 
 ## 3-Laags Architectuur
 
-| Laag | Budget | Doelgroep | V3 Naam |
-|---|---|---|---|
-| COLD | 60-70% | Problem/Solution Aware | `[Klant] \| Prospecting_CBO` |
-| WARM | 20-30% | Video viewers, engagers | `[Klant] \| Retargeting_CBO` |
-| HOT | 5-10% | Abandoners, no-shows | `[Klant] \| Retention_CBO` |
+| Laag | Budget | Doelgroep | V3 Naam | Sophistication-Strategie |
+|---|---|---|---|---|
+| COLD | 60-70% | Problem/Solution Aware | `[Klant] \| Prospecting_CBO` | Messaging volgt sophistication-fase: fase 3 = mechanisme-hook, fase 5 = identiteits-hook. Check `sophistication-playbook.md` → Meta Ads cold tabel. |
+| WARM | 20-30% | Video viewers, engagers | `[Klant] \| Retargeting_CBO` | Retargeting = altijd awareness 4-5. Focus op bewijs, identiteit, urgentie. Check retargeting-tabel. |
+| HOT | 5-10% | Abandoners, no-shows | `[Klant] \| Retention_CBO` | Confrontatie: Crossroads Close, Prijs van Falen. "Je hebt de video gezien. Wat ga je doen?" |
 
 ## V3 Naamconventie (SSOT)
 

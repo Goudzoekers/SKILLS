@@ -31,6 +31,8 @@ Scripts die converteren, natuurlijk klinken bij inspreken, en volledig in de ToV
 | Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | VSL/sales video: 7 Zondes voor emotionele resonantie, Rogue Gallery voor pijnpunt-opening |
 | Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | VSL/sales video: status dripping in verhaalvorm, Kryptonite Marketing bij bezwaarentkrachting |
 | Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | VSL: Intensification (visueel taalgebruik), Identification (rolverkoop), Mechanization (HOE uitleggen), Camouflage (video voelt als les/verhaal). Upsell: Redefinition (prijs herkaderen). |
+| Sophistication Playbook | `shared-kernel/references/sophistication-playbook.md` | VSL/sales video: check de VSL-tabel per fase. Fase 5 = openen met identiteitsherkenning + sluiten met gedragsvereiste. Fase 3 = openen met probleem + sluiten met mechanisme. De fase bepaalt de STRUCTUUR van het script. Thank you/onboarding: SKIP. |
+| ICP Filter (pijler 3-5) | `shared-kernel/references/icp-filter-framework.md` | VSL/sales video: Identiteit (pijler 3) = opening ("als je dit herkent..."). Prijs van Falen (pijler 4) = na probleem-herkenning. Gedragsvereiste (pijler 5) = close ("dit werkt alleen als je bereid bent..."). Thank you/onboarding: SKIP. |
 
 **Check eerst:** Client Brief + Blueprint aanwezig? Ja → gebruik als basis. Nee → verzamel briefing.
 
@@ -51,6 +53,7 @@ Aanbevolen: ToV referentie, unique mechanism, resultaten/bewijs, bezwaren, funne
 6. Eén glasheldere CTA
 7. Infotainment ratio: 60-70% vermaak/verhaal/persoonlijkheid, 30-40% inhoud — ook in video scripts
 8. Status dripping in VSL/sales video: credentials, resultaten, associaties subtiel in verhaalvorm — nooit een los "over mij"-blok
+9. **Sophistication-match:** De scriptstructuur volgt de marktfase. Check `sophistication-playbook.md` → VSL-tabel. Fase 5 scripts openen met identiteitsherkenning en sluiten met Crossroads Close + gedragsvereiste. Fase 3 scripts openen met het probleem en sluiten met het mechanisme. Een fase 2 script in een fase 5 markt = onzichtbaar.
 
 ## Lengte-richtlijnen
 

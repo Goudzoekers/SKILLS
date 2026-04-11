@@ -29,6 +29,8 @@ Sluit de cirkel: ads draaien → data → diagnose → kaleidoscoop → betere a
 | Money Model Framework | `shared-kernel/references/money-model-framework.md` | Bij funnel-diagnose: meet per Money Model stage (Stage I=CPL+CR, II=upsell take rate, III=LTV+churn) |
 | Branding Framework | `shared-kernel/references/branding-framework.md` | Meet Reach (impressies), Influence (CTR, CR), Direction (sentiment, herhaalaankopen) |
 | Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Bij Stap 5: verrijk klantprofiel op basis van wat converteert |
+| Sophistication Playbook | `shared-kernel/references/sophistication-playbook.md` | Bij diagnose: als ads niet converteren, check of de messaging in de juiste fase zit. Fase 2 copy in een fase 5 markt = onzichtbaar. Eerste diagnostische vraag bij slechte performance. |
+| ICP Filter (pijler 3+4) | `shared-kernel/references/icp-filter-framework.md` | Bij diagnose: trekt deze ad Type A of Type B aan? Als leads niet converteren op calls, check of de funnel genoeg filtert. Identiteits-ads trekken betere leads maar minder volume. |
 
 ## "ANALYSEER MIJN ADS"
 
@@ -43,6 +45,8 @@ Sluit de cirkel: ads draaien → data → diagnose → kaleidoscoop → betere a
 | CTR hoog + CPL hoog | Landing page faalt | Review → funnel-pages |
 | CTR hoog + CPL laag | WINNER | Schalen + kaleidoscoop |
 | Frequency > 3 | Audience uitgeput | Verbreed of nieuwe creative |
+| CTR hoog + CPL laag + close rate laag | Leads zijn Type B | ICP filter check: voeg "niet-voor-jou" + gedragsvereiste toe aan funnel → funnel-pages |
+| Alle ads presteren gelijk slecht | Sophistication-mismatch | Check fase: markt in fase 5 met fase 2 claims? → sophistication-playbook.md diagnose |
 
 **Stap 3 — Classificeer:** 🏆 Winners (top 20% → schalen), 📊 Potentials (fix 1 element), ❌ Kill (bottom 20% → uitzetten).
 

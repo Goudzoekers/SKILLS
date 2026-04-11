@@ -32,6 +32,8 @@ Partner Comms produceert GEEN content. Het informeert de klant over het proces.
 
 ## Context Loading
 
+> **Wet 6: Laad het minimum, niet het maximum.** Partner-comms is operationeel — geen content-frameworks nodig. Alleen templates + schrijfregels + ToV.
+
 | Nodig | Bron | Wanneer |
 |---|---|---|
 | Templates per berichttype | `references/templates.md` | ALTIJD |

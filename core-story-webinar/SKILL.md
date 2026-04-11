@@ -34,6 +34,8 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 | Doelgroep Mind Mining | `shared-kernel/references/doelgroep-mind-mining.md` | Fase 1: 7 Zondes als angle-bron voor kern-drijfveer, Rogue Gallery voor emotionele content, Blair Warren voor overtuigingsstructuur, Belief Mapping voor perceptie-shifts |
 | Positionering Frameworks | `shared-kernel/references/positionering-frameworks.md` | Fase 2a: Infotainment ratio, Status dripping, Kryptonite Marketing bij bezwaren |
 | Breakthrough Advertising | `shared-kernel/references/breakthrough-advertising.md` | Gradualization = 10-staps opbouw (overtuigingstrap), Intensification bij dromen/toekomst (picture words), Identification bij pitch (rolverkoop), Mechanization bij HOE-reveal (reason-why), Redefinition bij bezwaarentkrachting, Camouflage (webinar voelt als les, niet als pitch) |
+| Sophistication Playbook | `shared-kernel/references/sophistication-playbook.md` | Blueprint: de diagnose bepaalt de hele kernboodschap-strategie. E-mail sequences: check de e-mail tabel per fase (tone, volgorde, wat per mail). Sales page/registratie: check de juiste tabel. Fase 5 = identiteitsverkoop door de hele funnel. Fase 3 = mechanisme-focus. Dit is de strategische laag BOVEN de Blueprint. |
+| ICP Filter (alle 5 pijlers) | `shared-kernel/references/icp-filter-framework.md` | Blueprint: alle 5 pijlers voeden de kernboodschap. Belofte = wat je belooft. Mechanisme = het HOE. Identiteit = voor wie. Prijs van Falen = urgentie-motor in probleem-fase. Gedragsvereiste = kwalificatie in de pitch. Zonder ICP filter = Blueprint op 6/10. |
 
 **Eigen references:** `core-story-vragen.md`, `webinar-script-opbouw.md`, `pitch-opbouw.md`, `webinar-deal-architectuur.md`, `webinar-evaluatie-protocol.md`, `aanbod-webinar-proof.md`, `opt-in-page.md` (→ pointer naar funnel-pages), `thank-you-page-survey.md`, `pre-webinar-mails.md`, `post-webinar-mails.md`, `e-mail-formules.md`, `iteratie-protocol.md` (→ benchmarks via analytics-feedback)
 
@@ -45,7 +47,7 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 
 ## De 5 Modules
 
-1. **Perceptie Blueprint** — architectuurtekening van de perspectief-shift
+1. **Perceptie Blueprint** — architectuurtekening van de perspectief-shift. Start met Sophistication Diagnose (fase 1-5) + ICP Filter (5 pijlers). De fase bepaalt de toon van de hele funnel: fase 5 = identiteitsverkoop, fase 3 = mechanisme-focus. Zonder diagnose = Blueprint op 6/10.
 2. **Conversie Protocol** — woord-voor-woord webinar script
 3. **Toegangslaag + Signaalverzameling** — opt-in + survey
 4. **Opwarmsequentie** — 11 pre-webinar mails
@@ -55,7 +57,7 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 
 **Fase 0 — Intake:** Check Client Brief → Aanbod check → ToV kalibratie (10 parameters, 3 testfragmenten, goedkeuring).
 
-**Fase 1 — Blueprint:** Lees `core-story-vragen.md` (incl. Blok 8: Hero Journey) + `pig-method.md` + `doelgroep-mind-mining.md`. Graaf naar PRIMAL drijfveer, VIJAND, MOMENT VAN CRISIS, HERO STORY. Werk uit: kern probleem → kern oplossing → kern aanbod. Categoriseer perceptie-shifts als vehicle/internal/external beliefs.
+**Fase 1 — Blueprint:** Lees `core-story-vragen.md` (incl. Blok 8: Hero Journey) + `pig-method.md` + `doelgroep-mind-mining.md` + `icp-filter-framework.md` + `sophistication-playbook.md` (diagnose). Graaf naar PRIMAL drijfveer, VIJAND, MOMENT VAN CRISIS, HERO STORY. Werk uit: kern probleem → kern oplossing → kern aanbod. Categoriseer perceptie-shifts als vehicle/internal/external beliefs. **Start met Sophistication Diagnose (5 stappen) — de fase bepaalt de toon van ALLES wat volgt.**
 
 **Belief Installation Mapping:** Gebruik `doelgroep-mind-mining.md` → Belief Mapping. Inventariseer: (1) foute overtuigingen die conversie blokkeren, (2) nodige overtuigingen, (3) installatievolgorde (probleem erkennen → oplossingsrichting → methode vertrouwen → urgentie → investering). Elke belief = minimaal 1 webinar-onderdeel.
 
@@ -79,9 +81,9 @@ Compleet systeem dat een prospect door perceptie-shifts voert tot de aankoop de 
 
 **Fase 3 — Toegangslaag:** Opt-in + thank you + survey. Sla op als .docx.
 
-**Fase 4 — Opwarmsequentie:** 11 mails, primair show-up. Sla op als .docx.
+**Fase 4 — Opwarmsequentie:** 11 mails, primair show-up. Check `sophistication-playbook.md` → e-mail tabel: de tone en volgorde verschuiven per fase. Fase 5 = identiteits-bevestiging → confrontatie → prijs van falen → identity shift → CTA. Fase 3 = educatie → mechanisme → bewijs → CTA. Sla op als .docx.
 
-**Fase 5 — Sluitsequentie:** 2 paden. Sla op als .docx.
+**Fase 5 — Sluitsequentie:** 2 paden. Gebruik dezelfde sophistication-toon als de opwarmsequentie. Sla op als .docx.
 
 **Fase 6 — Evaluatie (na Dry/Live Webinar):** Gebruik `webinar-evaluatie-protocol.md` voor gestructureerde analyse op 20 criteria. Snelle scan (10 checkboxes) of volledige analyse met transcript.
 
