@@ -48,7 +48,16 @@ NIEUW: [gewenste identiteit + bijbehorend gedrag]
 **Voorbeelden:**
 - NU: "Ik ben een drukke moeder die constant schreeuwt" → NIEUW: "Ik ben een kalme moeder die verbinding maakt"
 - NU: "Ik ben een coach die klanten moet najagen" → NIEUW: "Ik ben een expert waar klanten naartoe komen"
-- NU: "Ik ben iemand die altijd moe is" → NIEUW: "Ik heb energie en voel me weer jong"
+- NU: "Ik ben een VAKMAN die alles zelf doet — 80 uur per week, calls, content, strategiesessies, maandag t/m zondag" → NIEUW: "Ik ben een LEIDER die keuzes maakt, een team aanstuurt, ochtenden rustig opstart, en meer omzet draait met minder uren"
+
+**2 Niveaus van Identity Shift:**
+
+| Niveau | Van | Naar | Segment |
+|---|---|---|---|
+| **Niveau 1: Coach → Ondernemer** | Post braaf, hopt van strategie naar strategie, geen klanten | Consistent omzet, weet wat werkt, klanten komen naar jou | Startende coaches (0-20K/m) — NC Fundament |
+| **Niveau 2: Vakman → Leider** | Doet alles zelf, 80 uur/week, onmisbaar in het bedrijf | Maakt keuzes, leidt een team, bedrijf draait zonder jou | Groeiende coaches (100-500K/jr) — NC Team & Structuur |
+
+**Regel:** Niveau 1 gaat over KRIJGEN (klanten, omzet, structuur). Niveau 2 gaat over LOSLATEN (taken, controle, ego). Niveau 2 is een diepere shift en vereist fase 5 copy (identiteitsverkoop).
 
 **In copy:** Beschrijf de HUIDIGE identiteit zo herkenbaar dat ze denken "dit gaat over MIJ." Beschrijf de NIEUWE identiteit zo aantrekkelijk dat ze denken "dat WIL ik zijn."
 
@@ -62,12 +71,17 @@ De Identity Shift verschuift mee met de marktfase:
 | Fase 3-4 | Foute aanpak beschrijven | "Het ligt aan de methode, niet aan jou" | Resultaat + methode (wat je KRIJGT en HOE) |
 | **Fase 5** | **Gedrag/identiteit beschrijven** | **"Het ligt aan wie je BENT, niet aan wat je WEET"** | **Identiteit (wie je WORDT)** |
 
-**Fase 5 voorbeeld:**
+**Fase 5 voorbeeld (Niveau 1 — Coach → Ondernemer):**
 - NU: "Ik weet wat nodig is maar ik kies steeds voor comfort boven groei"
 - SHIFT: "Je hebt geen kennis nodig. Je hebt confrontatie nodig met je eigen patroon."
 - NIEUW: "Ik ben een ondernemer die doet wat nodig is. Die handelde terwijl het eng was."
 
-**Regel:** In verzadigde markten (B2C coaches 2025-2026 = fase 4-5) is identiteitsverkoop krachtiger dan resultaatverkoop. Iedereen belooft €20K/m. Niemand belooft: "je wordt iemand die zichzelf niet meer saboteert."
+**Fase 5 voorbeeld (Niveau 2 — Vakman → Leider):**
+- NU: "Ik werk 80 uur per week. Calls, content, strategiesessies — alles zelf. Als ik 2 weken wegval, valt alles stil."
+- SHIFT: "Je bent geen ondernemer. Je bent een dure werknemer van je eigen bedrijf. EDA: Elimineren, Automatiseren, Delegeren."
+- NIEUW: "Ik ben een leider die keuzes maakt, verantwoordelijkheid neemt, en een bedrijf runt dat zonder mij draait. Ochtenden rustig. Avonden vrij. Meer omzet."
+
+**Regel:** In verzadigde markten (B2C coaches 2025-2026 = fase 4-5) is identiteitsverkoop krachtiger dan resultaatverkoop. Iedereen belooft €20K/m. Niemand belooft: "je wordt iemand die zichzelf niet meer saboteert." En voor het hogere segment: niemand belooft "je bedrijf draait zonder jou."
 
 ### G — Growth Mechanism
 Het concrete middel waarmee de shift plaatsvindt. Dit is waar je product/dienst binnenkomt — maar pas NADAT P en I zijn neergezet.

@@ -36,6 +36,24 @@ Maak per klant een lijst met minimaal 3 items per categorie:
 6. **Emotionele pijnpunten** — Gevoelsmatige problemen
 7. **Eenzaamheid** — Waar voelen ze zich alleen in?
 
+**Echt klantmateriaal is 10x krachtiger dan verzonnen triggers.** Verzamel letterlijke uitspraken van bestaande klanten en gebruik die als copy-bron. Voorbeeld:
+
+| Categorie | Letterlijke klantwoorden (echt materiaal) | Copy-toepassing |
+|---|---|---|
+| Frustratie | "Waar ben ik nou allemaal mee bezig?" | Hook: herkenning |
+| Frustratie | "80 uurige werkweek, maandag tm zondagmiddag. Alleen maar hard aan het werken." | Prijs van Falen: concreet |
+| Frustratie | "Wat er onder aan de streep overbleef was niet in verhouding" | Body: de pijn meetbaar maken |
+| Angst | "Wat gebeurt er als jij 2 weken wegvalt?" | Diagnostische vraag: confronteert |
+| Verlangen | "Ochtenden rustiger, avonden vrij, agenda leger, meer omzet" | Identity Shift: het NIEUWE |
+| Verlangen | "Effectiever, betere leider, minder stress" | Bullet: resultaat + identiteit |
+| Shift | "Van VAKMAN naar LEIDER in je bedrijf" | Kernframe: de Identity Shift |
+| Shift | "Het totale spel anders zien en spelen" | Thank you page / close |
+| Gedrag | "Verantwoordelijkheid neemt, snel wil gaan, niet aanmodderen, all in gaan" | Gedragsvereiste: Type A profiel |
+| Delivery | "Radicaal eerlijk, direct, vanuit supportive win" | ToV-validatie: zo klinkt het merk |
+| Delivery | "Dieper gevoel van urgentie waardoor ik op standje aan ging" | Waarom de methode werkt |
+
+**Graaf-methode:** Vraag bestaande klanten: "Hoe zou je je situatie VOOR ons beschrijven in 1 zin?" en "Wat is het grootste verschil nu?" Gebruik hun woorden, niet je eigen interpretatie.
+
 ## One Sentence Persuasion (Blair Warren)
 
 5 overtuigingsframes. Gebruik als content-thema's en body-structuren.

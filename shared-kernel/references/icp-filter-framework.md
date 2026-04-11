@@ -44,9 +44,11 @@ Het systeem waarmee de belofte wordt waargemaakt. Benoemd. Onderscheidend. Niet 
 - Wat doet jouw methode dat GEEN concurrent doet?
 - Als je het in 1 zin moet uitleggen aan iemand in een lift, wat zeg je?
 - Welk onderdeel van je methode is het moeilijkst te kopiëren?
+- Welke TOOLS zitten in de methode? (bijv. EDA = Elimineren, Automatiseren, Delegeren, Alles zelf doen. Of: een berekening die de klant dwingt om keuzes te maken.)
+- Welke diagnostische vraag stelt de klant ZELF nooit? (bijv. "Wat gebeurt er als jij 2 weken wegvalt?")
 
 **Voorbeeld 6/10:** "4-op-1 begeleiding met sales en marketing"
-**Voorbeeld 10/10:** "Wij vervangen strategie-hopping door één systeem: het Gameplan. Aanbod, sales, structuur en gedrag. Gestuurd door confrontatie, niet door motivatie."
+**Voorbeeld 10/10:** "Wij vervangen strategie-hopping door één systeem: het Gameplan. Aanbod, sales, structuur en gedrag. Inclusief EDA: elke taak wordt getoetst aan je uurtarief (€100K/m ÷ 40u = €625/uur). Alles onder dat tarief = elimineren, automatiseren of delegeren. Gestuurd door confrontatie, niet door motivatie."
 
 ### Pijler 3: IDENTITEIT (Wie ze zijn)
 
@@ -63,6 +65,8 @@ Niet demografie. Niet "25-45 jaar, M/V, ondernemer." Maar: gedrag, geschiedenis,
 - Welke klanten waren het MOEILIJKST? Wat hadden die gemeen?
 - Wat moet iemand BEREID zijn te doen om met jou te werken?
 - Welke ervaring heeft de ideale klant al achter de rug?
+- Welke ROL-SHIFT maakt de klant? (niet "meer omzet" maar een identiteits-verschuiving. Bijv. VAKMAN → LEIDER: van "ik doe alles zelf" naar "ik maak keuzes en leid een team.")
+- Wat is het verschil tussen hoe de klant NU werkt vs hoe die NA het traject werkt? (bijv. "80 uur per week, maandag tm zondag" → "ochtenden rustig, avonden vrij, agenda leger, meer omzet")
 
 **Type A/B Matrix — invullen per klant:**
 
@@ -89,9 +93,10 @@ Wat kost het de prospect om NIET te handelen? Concreet. Meetbaar. Pijnlijk.
 - Wat kost elke maand uitstel in gemiste omzet?
 - Wat is de emotionele prijs? (schaamte, jaloezie, onzekerheid, eenzaamheid)
 - Wat is het worst-case scenario over 12 maanden als er niets verandert?
+- **De dodelijke vraag: "Wat gebeurt er als jij 2 weken wegvalt?"** Als het antwoord is "dan valt alles stil" — dat IS de prijs van falen. De prospect is het bedrijf. Het bedrijf is de prospect. Geen systeem, geen team, geen overdraagbaarheid.
 
 **Voorbeeld 6/10:** "Je mist omzet en klanten"
-**Voorbeeld 10/10:** "Je post 4x per week maar niemand koopt — 16+ uur per maand verspild. Je moeder vraagt hoe het gaat. Je liegt dat het goed gaat. Je overweegt loondienst."
+**Voorbeeld 10/10:** "Je werkt 80 uur per week, maandag t/m zondagmiddag. Calls, strategiesessies, content — alles zelf. Wat er onder aan de streep overblijft staat niet in verhouding. En als je 2 weken wegvalt, valt alles stil. Dat is geen bedrijf. Dat is een gevangenis die je zelf hebt gebouwd."
 
 ### Pijler 5: GEDRAGSVEREISTE (dit is je echte filter)
 
