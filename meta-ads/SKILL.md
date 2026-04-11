@@ -40,6 +40,7 @@ analytics-feedback (data → diagnose)
 | Show rate/nurture | shared-kernel → lead-nurture-protocol |
 | Revenue play | shared-kernel → campaign-plays |
 | Ads hernoemen | V3 naamconventie hieronder |
+| GTM / consent / CAPI / sGTM / tracking audit | tracking-architectuur |
 | Data sync dashboard | meta-ads → Manus Bridge |
 
 ## Context Loading

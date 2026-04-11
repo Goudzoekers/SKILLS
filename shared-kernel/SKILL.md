@@ -139,6 +139,7 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Script schrijven | Check funnel → funnel-scripts |
 | Ad performance | analytics-feedback |
 | Campagne opzetten / targeting / budget / Advantage+ / pixel | meta-ads |
+| Tracking / GTM / consent / cookiebanner / CAPI / sGTM / attributie / fbclid | tracking-architectuur |
 | Ad namen / naamconventie / hernoemen | ad-naamconventie |
 | Feature bouwen | winst-os |
 | Show rate / lead nurture / no-shows | shared-kernel → `references/lead-nurture-protocol.md` + analytics-feedback |

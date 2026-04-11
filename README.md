@@ -1,6 +1,6 @@
 # Winstarchitect Skills Repository
 
-Het complete skill-ecosysteem voor Winstarchitect. 10 skills, 61 reference files, 1 geïntegreerd acquisitiesysteem.
+Het complete skill-ecosysteem voor Winstarchitect. 11 skills, 64 reference files, 1 geïntegreerd acquisitiesysteem.
 
 ## Architectuur
 
@@ -14,6 +14,9 @@ shared-kernel (fundament)
     │       └── goated-ads (hooks uit Blueprint)
     │               └── ad-naamconventie (standaardiseer namen NA creatie)
     ├── meta-ads (campagne-architectuur, targeting, budget, scaling)
+    │       ↓
+    │       tracking-architectuur (GTM, consent, attributie, CAPI, sGTM)
+    │       ↓
     ├── analytics-feedback (data → optimalisatie → feedbackloop)
     ├── partner-comms (klantcommunicatie, parallel aan elke stap)
     └── winst-os (technisch platform + orchestratie hub)
@@ -27,6 +30,7 @@ Stap 1: ToV Kalibratie (incl. 9 stemtypes + alter ego)
 Stap 2: core-story-webinar → Perceptie Blueprint → partner-comms: Milestone
 Stap 3: funnel-pages + goated-ads + funnel-scripts → ad-naamconventie
 Stap 3b: meta-ads → campagne-architectuur + targeting + budget + retargeting
+Stap 3c: tracking-architectuur → GTM + consent + attributie + CAPI + sGTM
 Stap 4: Quality Gate → partner-comms: Milestone "Live-ready"
 Stap 5: Launch → Analytics → Iteratie → partner-comms: Weekly Pulse
   └→ FEEDBACKLOOP: analytics-feedback → verrijk Mind Mining → hervalideer Blueprint
@@ -62,6 +66,9 @@ Ad-naamstandaardisatie voor Flywheel OS pattern recognition.
 
 ### partner-comms/ (1 reference)
 Klantcommunicatie. Onboarding, Weekly Pulse, Milestones, Performance, Escalatie.
+
+### tracking-architectuur/ (3 references)
+Privacy-first tracking & attributie. GTM, Consent Mode v2, cookiebanner (AP-conform), fbclid-capture, Calendly-attributie, Zapier→Airtable, Meta CAPI, sGTM via TAGGRS, deduplicatie. 3-fasen uitrol.
 
 ### winst-os/ (2 references)
 Technisch platform + orchestratie hub. Supabase, React, edge functions.
