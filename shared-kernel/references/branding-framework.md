@@ -94,3 +94,49 @@ Als het merk moet groeien of verschuiven, zijn er 5 richtingen:
 - Lange termijn: consistent waarmaken bouwt onbreekbaar merk
 
 **Bij fouten:** niet terugtrekken. Overcompenseer met meer van wat je publiek waardeert. De slechte bloem verdwijnt in een overvloed van goede bloemen.
+
+## Visuele Identiteit — Winstarchitect
+
+### Font
+
+**Lato** is het merkfont. Gebruik Lato voor alle deliverables: .docx, .pptx, website, presentaties, calculators, artifacts.
+
+- Body: Lato Regular (400)
+- Bold: Lato Bold (700)
+- Headings: Lato Bold of ExtraBold (800)
+- Mono (code, getallen, metrics): JetBrains Mono
+
+**Niet:** Arial, Helvetica, Times New Roman, Calibri, of system-ui als primair font.
+
+### Kleurenpalet
+
+| Token | Hex | Gebruik |
+|---|---|---|
+| Accent (lime) | #C8FF00 | CTA's, metric-nummers, highlights, sectie-headers |
+| Background (dark) | #050505 / #0A0A0A | Pagina-achtergrond, donkere secties |
+| Card | #0A0A0A / #111111 | Cards, tabel-headers, accent-blokken |
+| Text (primary) | #FFFFFF | Headings, belangrijke copy |
+| Text (body) | #E0E0E0 / #BBBBBB | Lopende tekst |
+| Text (dim) | #888888 / #666666 | Subtekst, notities, labels |
+| Red (alert) | #EF4444 | Prijs van Falen, negatieve metrics, chaos-kosten |
+| Blue (delegate) | #60A5FA | Delegeren, teamkosten, Fase 2 elementen |
+| Yellow (auto) | #F59E0B | Automatiseren, waarschuwingen |
+| Border | #141414 / #1A1A1A | Card borders, scheidingslijnen |
+
+### Design Principes
+
+- Dark-first: donkere achtergrond is het startpunt, niet het alternatief
+- Minimale decoratie: geen gradiënten, geen schaduwen, geen rounded corners > 12px
+- Mono voor getallen: JetBrains Mono voor alle financiële cijfers en metrics
+- Witruimte > decoratie: laat de content ademen
+- Mobile-first: test op iPhone SE (kleinste scherm)
+
+### Toepassing per Output
+
+| Output | Font | Kleuren |
+|---|---|---|
+| .docx deliverables | Lato (alle tekst) | Dark theme met accent |
+| Website (React/HTML) | Lato + JetBrains Mono | CSS vars: --accent, --bg, --text |
+| Calculators / artifacts | Lato + JetBrains Mono | Volledig dark palette |
+| Presentaties | Lato | Dark of light afhankelijk van context |
+| E-mail / Slack | System font (fallback) | Geen branding vereist |

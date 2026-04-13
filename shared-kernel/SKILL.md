@@ -29,7 +29,7 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/lead-nurture-protocol.md` | 4 Pijlers (Availability, Speed, Personalization, Volume), ALAN data, follow-up cadans, BAMFAM | Bij lead nurture, show-up optimalisatie, follow-up sequences |
 | `references/hormozi-source-map.md` | Concept → bron traceerbaarheid (GOATed Ads, Hooks, Lead Nurture, Branding, Money Models) | Bij audit, verdieping, bronverificatie |
 | `references/campaign-plays.md` | 5 Revenue Play architecturen (L&L, Workshop, Top 1%, VSL, Promoreeks), Teach&Tease, evergreening, routing | Bij campagne kiezen, revenue play plannen, lijst monetiseren, quick-profit |
-| `references/branding-framework.md` | Branding = pairing, 3 metrics (Reach/Influence/Direction), Branding Cycle, Boeket, 5 marktrichtingen | Bij positionering, brand-consistentie check, content-strategie |
+| `references/branding-framework.md` | Branding = pairing, 3 metrics (Reach/Influence/Direction), Branding Cycle, Boeket, 5 marktrichtingen. Visuele Identiteit: font (Lato), kleurenpalet (#C8FF00 lime, dark-first), design principes. | Bij positionering, brand-consistentie check, content-strategie, .docx/.pptx deliverables (check font + kleuren) |
 | `references/money-model-framework.md` | 4 Offer Types, 3 Stages, Attraction/Upsell/Downsell/Continuity patronen, aanbod-sequentie design | Bij funnel-architectuur, aanbod-strategie, pricing, upsell/downsell ontwerp |
 | `references/doelgroep-mind-mining.md` | 7 Zondes (verborgen verlangens), Rogue Gallery (7 emotiecategorieën), Blair Warren (5 overtuigingsframes), Market Awareness (5 niveaus), Market Sophistication (5 fasen), Belief Mapping | Bij intake, hook-generatie, angle-mining, headline-keuze, webinar blueprint, elke content-skill |
 | `references/positionering-frameworks.md` | Alter Ego (3 thema's), Kryptonite Marketing, Defy the Norms, Status & Autoriteit (10 tactieken), Thought Leadership, Filosofie-manifest, Infotainment Formula, 9 Stemtypes | Bij personal brand, ToV, webinar positionering, sales page "Over Jou", content-strategie |
@@ -153,6 +153,7 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Show rate / lead nurture / no-shows | shared-kernel → `references/lead-nurture-protocol.md` + analytics-feedback |
 | Meerdere klanten | Lees batch-processing-protocol.md |
 | Positionering / branding / merkstrategie | shared-kernel → `references/branding-framework.md` + relevante content-skill |
+| Font / kleuren / visuele identiteit / design tokens | shared-kernel → `references/branding-framework.md` (sectie Visuele Identiteit) |
 | Aanbod-structuur / upsell / downsell / pricing | shared-kernel → `references/money-model-framework.md` + funnel-pages + core-story-webinar |
 | Funnel-architectuur / offer-sequentie | shared-kernel → `references/money-model-framework.md` + `funnel-pages/references/funnel-flow-map.md` |
 | Campagne / revenue play / lijst monetiseren | shared-kernel → `references/campaign-plays.md` → routing naar juiste skills |
