@@ -142,6 +142,8 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Ad performance | analytics-feedback |
 | Campagne opzetten / targeting / budget / Advantage+ / pixel | meta-ads |
 | Tracking / GTM / consent / cookiebanner / CAPI / sGTM / attributie / fbclid | tracking-architectuur |
+| Beexy Pixel / ROAS meten / dataverlies / server-side tracking / BigQuery / Voxxy | tracking-architectuur → `references/beexy-pixel-voxxy-bigquery.md` |
+| NC tracking status / wat draait er nu / open vragen tracking | tracking-architectuur → `references/nc-implementatie-status.md` |
 | Ad namen / naamconventie / hernoemen | ad-naamconventie |
 | Feature bouwen | winst-os |
 | Show rate / lead nurture / no-shows | shared-kernel → `references/lead-nurture-protocol.md` + analytics-feedback |

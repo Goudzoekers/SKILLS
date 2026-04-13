@@ -1,6 +1,6 @@
 # Winstarchitect Skills Repository
 
-Het complete skill-ecosysteem voor Winstarchitect. 11 skills, 66 reference files, 1 geïntegreerd acquisitiesysteem.
+Het complete skill-ecosysteem voor Winstarchitect. 11 skills, 68 reference files, 1 geïntegreerd acquisitiesysteem.
 
 ## Architectuur
 
@@ -67,7 +67,7 @@ Ad-naamstandaardisatie voor Flywheel OS pattern recognition.
 ### partner-comms/ (1 reference)
 Klantcommunicatie. Onboarding, Weekly Pulse, Milestones, Performance, Escalatie.
 
-### tracking-architectuur/ (3 references)
+### tracking-architectuur/ (5 references)
 Privacy-first tracking & attributie. GTM, Consent Mode v2, cookiebanner (AP-conform), fbclid-capture, Calendly-attributie, Zapier→Airtable, Meta CAPI, sGTM via TAGGRS, deduplicatie. 3-fasen uitrol.
 
 ### winst-os/ (2 references)

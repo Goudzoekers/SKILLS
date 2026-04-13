@@ -54,7 +54,21 @@ analytics-feedback (data → diagnose → optimalisatie)
 | `references/3-fasen-architectuur.md` | ALTIJD bij tracking-gerelateerde vraag |
 | `references/compliance-checklist.md` | Bij audit, diagnose, nieuw klantproject, AP/AVG vragen |
 | `references/open-vragen-template.md` | Bij intake nieuw tracking-project |
+| `references/beexy-pixel-voxxy-bigquery.md` | Bij klantgesprek over tracking-waarde, upsell naar Fase 3, ROAS-vragen, dataverlies-discussie, Beexy/sGTM/BigQuery |
+| `references/nc-implementatie-status.md` | NC-specifiek: live status, bekende issues, open vragen, technische IDs |
 | `shared-kernel/references/universal-client-brief.md` | Start nieuw klantproject |
+
+## Voxxy Creative Lab Partnership
+
+Voxxy (Jerry Bierenbroodspot, CTO) is de technische partner voor alle tracking-implementaties. Winstarchitect doet commercie + klantrelatie. Bij tracking-gesprekken gaan we SAMEN het gesprek in.
+
+| Wie | Rol |
+|---|---|
+| Winstarchitect (Rick) | Klantgesprek, uitleg WAAROM, waardepropositie, upsell Fase 2/3 |
+| Voxxy (Jerry) | GTM, consent, scripts, sGTM, CAPI, Beexy Pixel, BigQuery |
+| Samen | Architectuurvoorstel, toezegging scope, toekomstpad |
+
+**Verkoopstrategie:** Bouw laag voor laag op. Niveau 1 (Lead-optimalisatie) → Niveau 2 (Boeking-optimalisatie) → Niveau 3 (Volledige attributie met Beexy Pixel + BigQuery). Elk niveau is zelfstandig waardevol. Zie `references/beexy-pixel-voxxy-bigquery.md` voor de volledige 3-niveau pitch.
 
 ## De 5 Pijlers
 
@@ -84,11 +98,13 @@ Lees `references/3-fasen-architectuur.md` voor volledige specs, scripts en confi
 - Zapier workflow: Airtable → Meta CAPI for CRM (action_source: system_generated)
 - Meta Offline Conversions API is stopgezet (mei 2025) — gebruik "Facebook Conversions (for Business Admins)"
 
-### Fase 3 — Server-side: sGTM via TAGGRS + deduplicatie
+### Fase 3 — Server-side: sGTM via TAGGRS + Beexy Pixel + BigQuery
 - TAGGRS sGTM-container op t.{domein}.com (DNS CNAME vereist)
 - transport_url + first_party_collection: true
+- **Beexy Pixel** (Voxxy proprietary): Data Transmitter (browser) + Data Receiver (server) + GTM Webloader (server). Lost Safari ITP, ad blockers, en Zapier-kwetsbaarheid op. Zie `references/beexy-pixel-voxxy-bigquery.md`.
 - Meta CAPI-tag in sGTM met event_id deduplicatie
 - CF2.0 native CAPI definitief vervangen (Access Token verwijderen)
+- **BigQuery** als centraal datahub: Lead → MQL → SQL → Klant met werkelijke omzetwaarde. High-ticket attributievenster 365+ dagen.
 
 ## Diagnose Protocol
 
@@ -127,4 +143,8 @@ Bij ELKE klant met een funneltool (CF2.0, Systeme, etc.) die een Facebook Access
 
 ## Quality Gate
 
-☐ Consent Mode v2 default denied ☐ Cookiebanner AP-conform ☐ Pixel alleen na consent ☐ Native CAPI/Access Token verwijderd ☐ fbclid capture actief ☐ Calendly URL rewriter actief ☐ Zapier flows correct ☐ Airtable kolommen compleet ☐ CAPI deduplicatie event_id ☐ sGTM CNAME actief ☐ Open vragen beantwoord per fase ☐ Klant screenshots ontvangen
+**Fase 1:** ☐ Consent Mode v2 default denied ☐ Cookiebanner AP-conform ☐ Pixel alleen na consent ☐ Native CAPI/Access Token verwijderd ☐ fbclid capture actief ☐ Klant screenshots ontvangen
+
+**Fase 2:** ☐ Calendly URL rewriter actief ☐ Zapier flows correct ☐ Airtable kolommen compleet ☐ CAPI boeking-events testen ☐ Open vragen Fase 2 beantwoord
+
+**Fase 3:** ☐ sGTM CNAME actief ☐ Beexy Pixel Data Transmitter live ☐ Beexy Data Receiver ontvangt events ☐ GTM Webloader via eigen domein ☐ CAPI deduplicatie event_id ☐ BigQuery ontvangt data ☐ Volledige verkoopcyclus meetbaar (Lead → MQL → SQL → Klant)
