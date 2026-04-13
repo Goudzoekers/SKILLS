@@ -33,16 +33,34 @@ Next Chapter Business tracking-implementatie door Voxxy Creative Lab. Dit docume
 
 **Klant kan NU campagnes draaien op Lead-optimalisatie.**
 
-### Fase 2 — KLAARSTAAT, NIET ACTIEF ⏳
+### Fase 2 — ICLOSED INTEGRATIE (vervangt Calendly) ⏳
+
+**Strategische shift:** Calendly + Zapier + Airtable keten → iClosed 2-Step Scheduler. Bezit het bookingmoment. Lead capture VÓÓR kalender.
 
 | Component | Status |
 |---|---|
-| Calendly URL Rewriter | ✅ Getest, werkt, nog niet geactiveerd |
-| UTM-encoding | utm_content=vsl-5.fbclid_{waarde} |
-| Zapier workflow (Calendly → Airtable) | ⏳ Wacht op toegang (Calendly, Zapier, Airtable accounts) |
-| Zapier workflow (Airtable → Meta CAPI) | ⏳ Wacht op Zapier + Meta CAPI token |
+| Calendly URL Rewriter (GTM tag) | ✅ Getest — wordt VERWIJDERD bij iClosed migratie |
+| iClosed Business account ($120/seat/m) | ⏳ Account aanmaken met NC |
+| iClosed event type "Kennismaking" | ⏳ Te configureren |
+| 7 kwalificatievragen (ICP Filter) | ⏳ Ontworpen in leadfunnel-v3 doc |
+| Type B disqualificatie | ⏳ Vraag 7 = filter, geen kalender |
+| Conditional routing (Segment 1/2) | ⏳ Op basis van omzet-vraag |
+| iClosed embed in CF2.0 thank you page | ⏳ Vervangt Calendly link |
+| Native Meta Pixel in iClosed | ⏳ Pixel ID: 1157920582618005 |
+| SMS + email workflows (5 triggers) | ⏳ Bevestiging + 2x herinnering + no-show + non-booker nurture |
+| Non-booker email sequence (3 mails) | ⏳ Herkenning → identiteit → confrontatie |
+| Bevestigingspagina (CF2.0) | ⏳ Vervangt perspectivefunnel.co 404 |
+| Zapier: Calendly → Airtable | ❌ VERVALT — iClosed native CRM sync |
+| Zapier: Airtable → Meta CAPI | ⏳ BEHOUDEN voor offline conversies (closed revenue) |
 
-**Blocker:** Winstarchitect + Voxxy moeten samen met NC om tafel. Voxxy heeft toegang nodig tot Calendly, Zapier en Airtable.
+**Wat iClosed oplost:**
+- 70% booking drop-off wordt zichtbaar (lead capture vóór kalender)
+- Calendly URL Rewriter + Zapier Formatter + utm_content hack = OVERBODIG
+- Non-booker retargeting (was onmogelijk met Calendly)
+- 404 na boeking (eigen redirect)
+- Sales analytics (show rate, close rate, revenue per rep)
+
+**Blocker:** NC moet iClosed Business account aanmaken. Winstarchitect + Voxxy configureren samen.
 
 ### Fase 3 — TOEKOMST 🔮
 
@@ -56,25 +74,25 @@ Next Chapter Business tracking-implementatie door Voxxy Creative Lab. Dit docume
 
 ### 1. Calendly post-booking redirect → 404
 
-Na een Calendly-boeking wordt de bezoeker doorgestuurd naar perspectivefunnel.co. Die pagina geeft een 404-fout. Dit heeft GEEN invloed op tracking maar is slecht voor UX. 
+Na een Calendly-boeking wordt de bezoeker doorgestuurd naar perspectivefunnel.co. Die pagina geeft een 404-fout.
 
-**Fix door NC:** Omleidingspagina aanmaken in CF2.0, óf redirect-URL in Calendly aanpassen naar bestaande pagina.
+**Status:** Wordt opgelost door iClosed migratie — eigen bevestigingspagina in CF2.0 (weggever.nextchxpter.com/bevestiging).
 
 ### 2. UTM-encoding complexiteit
 
-NC gebruikt meerdere funnel-varianten (VSL5, A, B, etc.) met eigen UTMs. De fbclid wordt gecodeerd in utm_content samen met de variant:
+NC gebruikt meerdere funnel-varianten (VSL5, A, B, etc.) met eigen UTMs. De fbclid wordt gecodeerd in utm_content samen met de variant.
 
-```
-utm_content=vsl-5.fbclid_test_abc_123
-```
-
-Zapier Formatter moet het punt (.) als scheidingsteken gebruiken:
-- Links van de punt = funnel-variant
-- Rechts van `fbclid_` = de waarde
+**Status:** Wordt opgelost door iClosed migratie — iClosed heeft native Meta Pixel integratie. Geen UTM-encoding hack meer nodig.
 
 ### 3. GA4 staat nog niet ingesteld
 
-NC maakt momenteel geen gebruik van GA4. Wordt meegenomen in Fase 2/3.
+NC maakt momenteel geen gebruik van GA4. Wordt meegenomen in Fase 3.
+
+### 4. Calendly is een gesloten systeem (NIEUW — aanleiding voor iClosed)
+
+Calendly biedt geen eigen tracking, geen doorgave van PII, en beperkte integratiemogelijkheden. De workaround (URL Rewriter + Zapier Formatter + utm_content encoding) is fragiel: als één stap faalt, valt de hele keten weg. Safari (25% NL) beperkt cookies tot 24 uur bij advertentieverkeer. Ad blockers (20% NL) blokkeren fbclid-capture.
+
+**Status:** iClosed vervangt Calendly als booking tool. Native Meta Pixel, lead capture vóór kalender, CRM sync zonder Zapier.
 
 ## ClickFunnels Events
 
@@ -91,13 +109,15 @@ NC maakt momenteel geen gebruik van GA4. Wordt meegenomen in Fase 2/3.
 - OQ-6: Access Token → Verwijderd ✅
 - OQ-10: Cookiebanner → WinstArchitect banner live ✅
 
-### Fase 2 — Open ⏳
-- OQ-1: Calendly abonnement (Standard+ vereist voor Zapier)
-- OQ-2: Airtable kolomstructuur (screenshot nodig)
-- OQ-3: Zapier account + abonnement (Starter+ voor multi-stap)
+### Fase 2 — iClosed Migratie ⏳
+- OQ-1: ~~Calendly abonnement~~ → VERVALT (iClosed vervangt Calendly)
+- OQ-2: Airtable kolomstructuur (screenshot nodig — voor offline conversie CAPI)
+- OQ-3: ~~Zapier multi-stap~~ → GROTENDEELS VERVALT (alleen nog Airtable → Meta CAPI)
 - OQ-5: Meta CAPI access token (Events Manager → Pixel → Settings)
-- OQ-9: Calendly embed type (widget in pagina of redirect)
-- OQ-11: Zapier multi-stap beschikbaar?
+- OQ-9: ~~Calendly embed type~~ → VERVALT (iClosed inline embed)
+- OQ-12: (NIEUW) NC akkoord iClosed Business plan ($120/seat/maand)
+- OQ-13: (NIEUW) Setter/closer verdeling — wie ontvangt welk segment?
+- OQ-14: (NIEUW) NC SMS-nummer voor iClosed workflows (NL mobiel)
 
 ### Fase 3 — Open 🔮
 - OQ-7: DNS registrar voor nextchxpter.com (CNAME nodig)

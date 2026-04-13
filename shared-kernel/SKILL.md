@@ -144,6 +144,7 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Campagne opzetten / targeting / budget / Advantage+ / pixel | meta-ads |
 | Tracking / GTM / consent / cookiebanner / CAPI / sGTM / attributie / fbclid | tracking-architectuur |
 | Beexy Pixel / ROAS meten / dataverlies / server-side tracking / BigQuery / Voxxy | tracking-architectuur → `references/beexy-pixel-voxxy-bigquery.md` |
+| iClosed / booking tool / scheduler / Calendly vervanging / disqualificatie | tracking-architectuur (Fase 2 Route A) + `references/nc-implementatie-status.md` |
 | NC tracking status / wat draait er nu / open vragen tracking | tracking-architectuur → `references/nc-implementatie-status.md` |
 | Pricing / offerte / aanbod / Revenue Control System / performance fee / retainer | shared-kernel → `references/revenue-control-system.md` |
 | Hoe verkoop ik tracking / upsell / baseline / ROAS pitch | shared-kernel → `references/revenue-control-system.md` (perfect offer structuur) |

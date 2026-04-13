@@ -50,6 +50,14 @@ Copy + wireframe structuur voor funnel-pagina's. Primair B2C coaches/therapeuten
 
 B2C coaches: Config A of C. Therapeuten: Config E of D. High-ticket met sceptische doelgroep: Config F.
 
+## Booking Component (Thank You / CTA pagina's)
+
+Bij high-ticket funnels (Config C, D, F) met call-booking als conversie:
+- **Aanbevolen:** iClosed 2-Step Scheduler (inline embed). Lead capture VÓÓR kalender, disqualificatie-vragen als ICP Filter, native Meta Pixel. Zie tracking-architectuur Fase 2 Route A.
+- **Legacy:** Calendly embed of link. Beperkingen: geen lead capture bij drop-off, geen disqualificatie, fragiele Zapier-keten voor attributie.
+- CTA-copy boven embed moet verlangen opbouwen + Kryptonite: "Niet iedereen komt door de vragen heen. Dat is de bedoeling."
+- Bevestigingspagina altijd op eigen domein (geen redirect naar extern platform).
+
 ## Per Sectie Opleveren
 
 1. **[WIREFRAME]** — Layout, kleuren, media, responsief

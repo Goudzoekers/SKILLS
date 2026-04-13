@@ -77,7 +77,7 @@ Elke tracking-architectuur rust op 5 niet-onderhandelbare pijlers:
 
 1. **Consent-first** — Geen data naar derden zonder toestemming. Consent Mode v2 default denied. Cookiebanner conform AP-eisen (Nederlands, gelijke knoppen, vóór niet-functionele cookies).
 2. **GTM als single orchestrator** — Alle tags, triggers en variabelen via GTM. Geen native pixel-instellingen in CF2.0 of andere funneltools. GTM = SSOT voor alle tracking.
-3. **fbclid-persistentie** — fbclid opvangen bij landing, opslaan in first-party cookie (_fbclid, 7d, SameSite=Lax, Secure), doorgeven aan Calendly via UTM-rewriting. Zonder dit: geen attributie.
+3. **fbclid-persistentie** — fbclid opvangen bij landing, opslaan in first-party cookie (_fbclid, 7d, SameSite=Lax, Secure). Doorgave via iClosed native Meta Pixel (aanbevolen) of Calendly UTM-rewriting (legacy). Zonder dit: geen attributie.
 4. **Deduplicatie via event_id** — Elk event krijgt een UUID. Zelfde ID gaat mee in browser-Pixel én sGTM CAPI. Meta dedupliceert op event_name + event_id (48u venster).
 5. **3-fasen uitrol** — Fundament → Attributie → Server-side. Elke fase is zelfstandig waardevol. Geen fase skippen.
 
@@ -93,11 +93,28 @@ Lees `references/3-fasen-architectuur.md` voor volledige specs, scripts en confi
 - Meta Pixel via GTM (alleen na ad_storage: granted)
 - Events: PageView, Lead, video milestones, calendly_cta_click, Schedule
 
-### Fase 2 — Attributie: Calendly → Zapier → Airtable → Meta CAPI
-- Calendly URL Rewriter (GTM Custom HTML, videopagina) — leest _fbclid cookie, herschrijft Calendly-link
-- Zapier workflow: Calendly → Formatter (fbclid extractie) → Airtable
-- Zapier workflow: Airtable → Meta CAPI for CRM (action_source: system_generated)
-- Meta Offline Conversions API is stopgezet (mei 2025) — gebruik "Facebook Conversions (for Business Admins)"
+### Fase 2 — Attributie: iClosed (aanbevolen) of Calendly (legacy)
+
+**Route A — iClosed 2-Step Scheduler (aanbevolen voor high-ticket funnels):**
+- Vervangt Calendly + Zapier Formatter + URL Rewriter in één tool
+- Lead capture VÓÓR kalender — 70% booking drop-off wordt zichtbaar + retargetable
+- Native Meta Pixel + GTM integratie (geen utm_content hack)
+- Disqualificatie-vragen als ICP Filter vóór boeking (Type B = geen kalender)
+- Conditional routing per segment (setter/closer toewijzing)
+- Native CRM sync (HubSpot, Pipedrive, Make) — vervangt Zapier als SPOF
+- SMS + email workflows (show rate verhoging)
+- Sales analytics: show rate, close rate, revenue per rep
+- Business plan vereist ($120/seat/maand)
+- iClosed.io — "Profit Maximizer for High Ticket Teams"
+
+**Route B — Calendly + Zapier + Airtable (legacy fallback):**
+- Calendly URL Rewriter (GTM Custom HTML) — leest _fbclid cookie, herschrijft link
+- Zapier: Calendly → Formatter (fbclid extractie) → Airtable
+- Beperkingen: geen lead capture bij drop-off, fragiele keten, geen disqualificatie
+
+**Beide routes — offline conversies:**
+- Airtable → Meta CAPI for CRM (action_source: system_generated)
+- Meta Offline Conversions API stopgezet (mei 2025) — gebruik "Facebook Conversions (for Business Admins)"
 
 ### Fase 3 — Server-side: sGTM via TAGGRS + Beexy Pixel + BigQuery
 - TAGGRS sGTM-container op t.{domein}.com (DNS CNAME vereist)
