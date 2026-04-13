@@ -56,6 +56,7 @@ analytics-feedback (data → diagnose → optimalisatie)
 | `references/open-vragen-template.md` | Bij intake nieuw tracking-project |
 | `references/beexy-pixel-voxxy-bigquery.md` | Bij klantgesprek over tracking-waarde, upsell naar Fase 3, ROAS-vragen, dataverlies-discussie, Beexy/sGTM/BigQuery |
 | `references/nc-implementatie-status.md` | NC-specifiek: live status, bekende issues, open vragen, technische IDs |
+| `shared-kernel/references/revenue-control-system.md` | Bij klantgesprek over tracking: pricing, pitch, offer structuur. De commerciële laag bovenop de techniek. |
 | `shared-kernel/references/universal-client-brief.md` | Start nieuw klantproject |
 
 ## Voxxy Creative Lab Partnership

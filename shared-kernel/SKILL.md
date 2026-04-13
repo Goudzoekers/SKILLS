@@ -37,6 +37,7 @@ Fundament onder alle content-skills. Elke gedeelde framework leeft hier — nerg
 | `references/closer-sales-call.md` | CLOSER Framework: Clarify→Label→Overview→Sell vacation→Explain concerns→Reinforce decision. Setting/closing script voor 1-op-1 sales calls, setter/closer rolsplitsing | Bij funnel met call-stap, sales call scripts, setter/closer briefing |
 | `references/icp-filter-framework.md` | 5-pijler ICP selectiestructuur: Belofte, Mechanisme, Identiteit (Type A/B), Prijs van Falen, Gedragsvereiste. Graaf-vragen, 6/10 vs 10/10, samenvat-format, context-afhankelijke toepassing per skill | NA client brief bij nieuwe klant. Bij positioneringsvraag. Bij funnel die niet converteert. NIET bij puur technische taken of analytics-only. |
 | `references/sophistication-playbook.md` | Copy-strategie per sophistication-fase (1-5) per touchpoint. Diagnose-checklist, per-fase tabellen voor Meta Ads (cold+retargeting), opt-in, sales page, VSL, e-mail sequences. Fase-interactie met awareness. Fase-reset mechanismen. | Bij intake (diagnose). Bij elke copy-productie (check de juiste tabel). Bij ads-strategie. NIET bij technische taken. |
+| `references/revenue-control-system.md` | Winstarchitect offer architectuur: INSTALL (€6-10K) + CONTROL (€1.5-3K/m) + GROWTH (3-15% performance fee). Pitch, pricing, 5-staps tracking-architectuur, perfect offer structuur, migratie-pad van huidige naar target pricing. | Bij klantgesprek over pricing. Bij offerte/voorstel. Bij upsell. NIET bij content-productie of technische implementatie. |
 
 ## Orchestratie Protocol
 
@@ -144,6 +145,8 @@ Stap 5: Launch → Analytics → Iteratie (doorlopend)
 | Tracking / GTM / consent / cookiebanner / CAPI / sGTM / attributie / fbclid | tracking-architectuur |
 | Beexy Pixel / ROAS meten / dataverlies / server-side tracking / BigQuery / Voxxy | tracking-architectuur → `references/beexy-pixel-voxxy-bigquery.md` |
 | NC tracking status / wat draait er nu / open vragen tracking | tracking-architectuur → `references/nc-implementatie-status.md` |
+| Pricing / offerte / aanbod / Revenue Control System / performance fee / retainer | shared-kernel → `references/revenue-control-system.md` |
+| Hoe verkoop ik tracking / upsell / baseline / ROAS pitch | shared-kernel → `references/revenue-control-system.md` (perfect offer structuur) |
 | Ad namen / naamconventie / hernoemen | ad-naamconventie |
 | Feature bouwen | winst-os |
 | Show rate / lead nurture / no-shows | shared-kernel → `references/lead-nurture-protocol.md` + analytics-feedback |
@@ -246,6 +249,7 @@ Elke skill heeft een duidelijke grens. Geen overlap.
 | DM Outreach Frameworks (4 patronen) | goated-ads/references/dm-outreach-frameworks.md | goated-ads (organisch), meta-ads (integratie met paid). |
 | ICP Filter Framework (5-pijler selectiestructuur) | shared-kernel/references/icp-filter-framework.md | Stap 0b bij nieuwe klant. Bevat eigen decision tree: welke pijlers per deliverable. NIET bij technische taken, analytics-only, partner-comms (tenzij call-kwalificatie). |
 | Sophistication Playbook (copy-strategie per fase per touchpoint) | shared-kernel/references/sophistication-playbook.md | Bij elke copy-productie: check de fase, gebruik de juiste tabel. goated-ads (hook-strategie), funnel-pages (headline-formule), funnel-scripts (VSL-structuur), core-story-webinar (e-mail sequence tone). NIET bij technische taken, analytics-only. |
+| Revenue Control System (offer architectuur + pricing + pitch) | shared-kernel/references/revenue-control-system.md | Bij klantgesprek, offerte, pricing, upsell. INSTALL + CONTROL + GROWTH structuur. Cross-refereert tracking-architectuur (technische delivery) en meta-ads (campagne als onderdeel). |
 
 ## De Zes Wetten (universeel)
 

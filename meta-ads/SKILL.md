@@ -60,6 +60,7 @@ analytics-feedback (data → diagnose)
 | `shared-kernel/references/doelgroep-mind-mining.md` | Targeting |
 | `shared-kernel/references/sophistication-playbook.md` | Campagne-messaging: check Meta Ads cold + retargeting tabellen per fase. Fase bepaalt hook-strategie (fase 5 = identiteit, fase 3 = mechanisme). Fase × Awareness matrix bepaalt welke targeting → welke messaging. |
 | `shared-kernel/references/icp-filter-framework.md` | Cold traffic: Identiteit (pijler 3) + Prijs van Falen (pijler 4) zijn de sterkste angles in fase 4-5. Retargeting: Gedragsvereiste (pijler 5) als confrontatie-CTA. |
+| `shared-kernel/references/revenue-control-system.md` | Meta Ads management is een ONDERDEEL van het Revenue Control System, niet het hoofdproduct. Bij pricing-/offerte-vragen: RCS structuur (INSTALL + CONTROL + GROWTH). Performance fee is gekoppeld aan Meta attributed revenue of closed revenue. |
 
 ## 3-Laags Architectuur
 
