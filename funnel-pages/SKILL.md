@@ -19,6 +19,7 @@ Copy + wireframe structuur voor funnel-pagina's. Primair B2C coaches/therapeuten
 
 | Nodig | Bron | Wanneer |
 |---|---|---|
+| **ToV-profiel + signature patronen + anti-taal** | **`shared-kernel/references/tov-kalibratie.md` + Client Brief** | **ALTIJD. Laden VÓÓR schrijven. Niet-onderhandelbaar.** |
 | Schrijfregels NL | `shared-kernel/references/schrijfregels-nl.md` | ALTIJD bij NL copy (niet-onderhandelbaar) |
 | Conversie-principes | `shared-kernel/references/copywriting-principes.md` | Opt-in, sales page, registratie. SKIP bij thank you page (prospect is al geconverteerd). |
 | Quality Gate | `shared-kernel/references/quality-gate.md` | NA elke pagina |
@@ -37,7 +38,7 @@ Copy + wireframe structuur voor funnel-pagina's. Primair B2C coaches/therapeuten
 
 **Video scripts:** delegeer naar funnel-scripts. video-guidelines.md = briefing-spec.
 
-**Check eerst:** Is er een Client Brief? Ja → gebruik het. Nee → verzamel input via `shared-kernel/references/universal-client-brief.md`.
+**Check eerst:** Is er een Client Brief + ToV-profiel? Ja → laad het ToV-profiel (10 parameters + signature patronen + anti-taal + alter ego routing). Nee → verzamel input via `shared-kernel/references/universal-client-brief.md` + kalibreer via `tov-kalibratie.md`.
 
 ## Configuraties
 

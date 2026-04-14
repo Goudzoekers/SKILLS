@@ -36,12 +36,12 @@ Partner Comms produceert GEEN content. Het informeert de klant over het proces.
 
 | Nodig | Bron | Wanneer |
 |---|---|---|
+| **ToV-profiel + signature patronen + anti-taal** | **`shared-kernel/references/tov-kalibratie.md` + Client Brief** | **ALTIJD. Ook operationele berichten zijn merkcommunicatie.** |
 | Templates per berichttype | `references/templates.md` | ALTIJD |
 | Schrijfregels NL | `shared-kernel/references/schrijfregels-nl.md` | Bij elk bericht |
-| ToV-profiel klant | Client Brief (als beschikbaar) | Personalisatie |
 
-**Check eerst:** Is er een Client Brief? Gebruik de klantnaam en relevante context.
-Geen brief? Vraag minimaal: naam, niche, startdatum, dashboardlink.
+**Check eerst:** Is er een Client Brief + ToV-profiel? Gebruik de klantnaam, relevante context, en stem.
+Geen brief? Vraag minimaal: naam, niche, startdatum, dashboardlink. Kalibreer ToV via `tov-kalibratie.md`.
 
 ## De Vijf Berichttypen
 

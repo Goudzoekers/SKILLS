@@ -23,12 +23,39 @@ Stel je voor dat de doelgroep dit leest ZONDER context. Zonder te weten van wie 
 | Zonder/zodat | Elk voordeel bevat emotionele context |
 | Verboden woorden | Geen items van de blacklist (zie schrijfregels-nl.md) |
 | AI-detectie | Geen zinnen die "AI-geschreven" verraden (zie tov-kalibratie.md) |
-| ToV-match | Past de toon bij het gekalibreerde profiel? |
+| **ToV Scorecard** | **Per-parameter check — zie hieronder** |
+| Anti-taal check | Nul hits op klant-specifieke anti-taal lijst (zoek-en-vervang) |
+| Signature patronen | Minimaal 2 signature patronen zichtbaar in de output |
+| Alter Ego match | Bij multi-person merk: past de toon bij de juiste persoon? |
 | Mobile-first | Ziet het er goed uit op een telefoonscherm? |
 | CTA-herhaling | Minimaal 3x per pagina/mail |
 | Headline-kracht | Headline werkt zelfstandig zonder body |
 | Eerste 5 woorden | Bevatten triggerwoord of call-out |
 | Ritme | Variatie in zinslengte (kort-lang-kort) |
+
+### ToV Scorecard (vervangt de oude binary "ToV-match" check)
+
+Score elke parameter op match met het gekalibreerde profiel. Schaal: ✅ (match), ⚠️ (±2 afwijking), ❌ (>2 afwijking).
+
+| # | Parameter | Profiel-score | Output-score | Match |
+|---|---|---|---|---|
+| 1 | Formaliteit | [uit profiel] | [schat in] | ✅/⚠️/❌ |
+| 2 | Directheid | | | |
+| 3 | Humor | | | |
+| 4 | Autoriteit | | | |
+| 5 | Emotie | | | |
+| 6 | Tempo | | | |
+| 7 | Inclusiviteit | | | |
+| 8 | Kwetsbaarheid | | | |
+| 9 | Jargon | | | |
+| 10 | Provocatie | | | |
+
+**Pass:** Max 2x ⚠️, 0x ❌.
+**Focus:** Check de top-3 extreme parameters EERST — dat zijn de parameters die het merk het meest herkenbaar maken. Als die 3 matchen, klopt de rest meestal ook.
+
+**Voorbeeld (NC profiel: directheid 9, provocatie 8, formaliteit 2):**
+- Ad bevat "Misschien wil je eens kijken naar..." → Directheid = 3/10 → ❌ FAIL
+- Ad bevat "Stop met jezelf voor de gek houden." → Directheid = 9/10 → ✅ PASS
 
 ## Laag 3: Strategische Check (Werkt het in de funnel?)
 
@@ -50,12 +77,14 @@ Stel je voor dat de doelgroep dit leest ZONDER context. Zonder te weten van wie 
 | 2/3 lagen pass | Bijna | Fix de failing laag, doorloop opnieuw |
 | 1/3 of 0/3 | Niet klaar | Herschrijf, niet repareer |
 
-## Snelle Self-Check (5 vragen)
+## Snelle Self-Check (7 vragen)
 
-Voor als je haast hebt — deze 5 vangen 80% van de fouten:
+Voor als je haast hebt — deze 7 vangen 90% van de fouten:
 
 1. Zou IK hierop klikken als ik de doelgroep was?
 2. Kan ik "dit is generiek" zeggen? → herschrijf
 3. Staat er een concreet getal of naam in?
 4. Weet de lezer EXACT wat de volgende stap is?
 5. Klinkt het als de klant/partner of als een AI?
+6. Herken ik minimaal 2 signature patronen van dit merk?
+7. Bevat het nul woorden van de anti-taal lijst?

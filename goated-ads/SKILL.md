@@ -19,6 +19,7 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 
 | Nodig | Bron | Wanneer |
 |---|---|---|
+| **ToV-profiel + signature patronen + anti-taal** | **`shared-kernel/references/tov-kalibratie.md` + Client Brief** | **ALTIJD. Laden VÓÓR schrijven. Niet-onderhandelbaar.** |
 | Schrijfregels NL | `shared-kernel/references/schrijfregels-nl.md` | ALTIJD bij NL copy (niet-onderhandelbaar) |
 | Awareness, kaleidoscoop, swipe | `references/creative-flywheel-methode.md` | ALTIJD (eigen primary reference) |
 | 6/10 vs 10/10 ads | `references/golden-examples-ads.md` | VOOR elke batch (eigen primary reference) |
@@ -39,7 +40,26 @@ Genereert hoogconverterende ads in de ToV van de klant/partner. Primair B2C coac
 - $100M GOATed Ads Playbook → Ad Assembly Process, 5 Ad Meat Formats, CTA Framework, Kaleidoscoop, Schaalprincipes
 - $100M Hooks Playbook → Hook Types (8 categorieën), 70-20-10 Innovatieregel, Hook Bronnen (5 niveaus), Expansion Hooks per Awareness-niveau
 
-**Check eerst:** Is er een Client Brief + ToV-profiel? Ja → gebruik het. Nee → doe intake.
+**Check eerst:** Is er een Client Brief + ToV-profiel? Ja → laad het ToV-profiel (10 parameters + signature patronen + anti-taal + alter ego routing). Nee → doe intake via `tov-kalibratie.md` kalibratie-proces.
+
+## ToV Filter (tussen generatie en output)
+
+**Elke ad passeert dit filter VÓÓR oplevering.** Dit is geen quality gate — dit is onderdeel van het schrijfproces.
+
+```
+Stap 1: LAAD    → ToV-profiel + signature patronen + anti-taal uit Client Brief
+Stap 2: SCHRIJF → Hook/Body/CTA met emotionele angle (7 Zondes, P.I.G., awareness)
+Stap 3: FILTER  → Run elke ad door het ToV-profiel:
+                   □ Klopt de formaliteit? (score ±1 van profiel)
+                   □ Klopt de directheid? (meest kritische parameter)
+                   □ Klopt het tempo? (zinslengte, witruimte)
+                   □ Bevat het ≥1 signature patroon?
+                   □ Bevat het 0 anti-taal woorden?
+                   □ Past het bij de juiste Alter Ego (bij multi-person merk)?
+Stap 4: FIX     → Herschrijf wat niet past. Niet cosmetisch aanpassen — herschrijf de zin.
+```
+
+**Top-3 parameters:** Identificeer de 3 parameters met de meest extreme scores (bijv. directheid 9/10, provocatie 8/10, jargon 2/10). Deze drie MOETEN in elke ad voelbaar zijn. Als een ad generiek klinkt, scoren deze drie te laag.
 
 ## Harde Schrijfregels
 

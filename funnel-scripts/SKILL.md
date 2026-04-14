@@ -19,6 +19,7 @@ Scripts die converteren, natuurlijk klinken bij inspreken, en volledig in de ToV
 
 | Nodig | Bron | Wanneer |
 |---|---|---|
+| **ToV-profiel + signature patronen + anti-taal** | **`shared-kernel/references/tov-kalibratie.md` + Client Brief** | **ALTIJD. Laden VÓÓR schrijven. Scripts = de stem van het merk. Niet-onderhandelbaar.** |
 | P.I.G. Method | `shared-kernel/references/pig-method.md` | VSL en sales video |
 | Conversie-principes | `shared-kernel/references/copywriting-principes.md` | Elk script |
 | Schrijfregels NL | `shared-kernel/references/schrijfregels-nl.md` | Elk NL script |
@@ -34,7 +35,7 @@ Scripts die converteren, natuurlijk klinken bij inspreken, en volledig in de ToV
 | Sophistication Playbook | `shared-kernel/references/sophistication-playbook.md` | VSL/sales video: check de VSL-tabel per fase. Fase 5 = openen met identiteitsherkenning + sluiten met gedragsvereiste. Fase 3 = openen met probleem + sluiten met mechanisme. De fase bepaalt de STRUCTUUR van het script. Thank you/onboarding: SKIP. |
 | ICP Filter (pijler 3-5) | `shared-kernel/references/icp-filter-framework.md` | VSL/sales video: Identiteit (pijler 3) = opening ("als je dit herkent..."). Prijs van Falen (pijler 4) = na probleem-herkenning. Gedragsvereiste (pijler 5) = close ("dit werkt alleen als je bereid bent..."). Thank you/onboarding: SKIP. |
 
-**Check eerst:** Client Brief + Blueprint aanwezig? Ja → gebruik als basis. Nee → verzamel briefing.
+**Check eerst:** Client Brief + ToV-profiel + Blueprint aanwezig? Ja → laad het ToV-profiel (10 parameters + signature patronen + anti-taal + alter ego routing). Nee → kalibreer via `tov-kalibratie.md`. Scripts ZIJN de stem van het merk — zonder ToV-profiel klinkt het als een ghostwriter.
 
 ## Briefing (als geen Client Brief)
 

@@ -2,6 +2,22 @@
 
 Laden bij onboarding van elke nieuwe klant/partner. Het ToV-profiel stuurt ALLE output.
 
+## ToV Enforcement Protocol
+
+**ToV is een CONSTRAINT, niet een review-stap.** Het wordt geladen VÓÓR het schrijven begint, niet gecheckt nadat de copy klaar is. Verschil:
+
+| Fout | Goed |
+|---|---|
+| Schrijf copy → check ToV achteraf → herschrijf | Laad ToV-profiel → schrijf binnen de constraints → verify |
+| "Past dit bij het merk?" (binary ja/nee) | "Score per parameter: klopt formaliteit, directheid, tempo?" |
+| Universele schrijfstijl → cosmetisch aanpassen | Signature patronen als structuur → inhoud invullen |
+
+**Enforcement per deliverable:**
+
+1. **VÓÓR schrijven:** Laad het 10-parameter profiel + signature patronen + anti-taal lijst + alter ego routing
+2. **TIJDENS schrijven:** Gebruik signature patronen als structurele basis. Check elke zin tegen de top-3 parameters (de parameters met de meest extreme scores, bijv. directheid 9/10)
+3. **NA schrijven:** Run de ToV Scorecard (zie quality-gate.md). Zoek-en-vervang op anti-taal. Check op minimaal 2 signature patronen in de output
+
 ## Het 10-Parameter Profiel
 
 Elk parameter wordt gescoord op een schaal. Samen vormen ze een unieke "stem."
@@ -63,6 +79,75 @@ Na het kiezen van het stemtype, definieer ook:
 | **Dominante emotie** | Welke emotie wil je primair overbrengen? | "Eerlijke confrontatie met een warm randje" |
 | **Geslacht-match** | Mannelijk of vrouwelijk schrijven? Match met doelgroep? | "Mannelijk, voor vrouwelijke doelgroep → beschermend" |
 
+## Signature Taalpatronen (per klant vastleggen)
+
+Elk merk heeft terugkerende structuren, woorden en ritmes die het herkenbaar maken. Dit is niet optioneel — het IS de stem. Zonder signature patterns klinkt copy als een anonieme ghostwriter.
+
+**Vastleggen per klant:**
+
+| Element | Wat je zoekt | Voorbeeld |
+|---|---|---|
+| **Herhalingsstructuur** | Patronen die 3+ keer terugkomen in hun content | "Geen [X]. Geen [Y]. Wél [Z]." |
+| **Herhaalwoorden** | Woorden die disproportioneel vaak voorkomen | "bullshit", "structuur", "confrontatie", "bouwen" |
+| **CTA-stijl** | Hoe ze consistent oproepen tot actie | "Plan je gratis Kickstart Call" — laagdrempelig, directe instructie |
+| **Openingspatroon** | Hoe ze content typisch beginnen | Direct in de pijn, geen inleiding, geen context |
+| **Slotpatroon** | Hoe ze content typisch afsluiten | Keuze-frame ("de keuze is aan jou") of directe CTA |
+| **Interpunctie-stijl** | Punten, witruimte, hoofdletters, streepjes | Korte zinnen. Veel witruimte. Em-dash voor nadruk. |
+
+**Regel:** Signature patterns zijn de EERSTE filter bij het schrijven van copy. Schrijf eerst in het patroon, vul daarna de inhoud.
+
+**Enforcement:** Bij elke batch copy: check of minimaal 2 signature patterns zichtbaar terugkomen in de output. Zo niet → herschrijf. Copy zonder signature patterns klinkt misschien goed, maar niet als DIT merk.
+
+## Anti-taal (per klant vastleggen)
+
+Woorden en zinnen die het merk NOOIT gebruikt. Dit is minstens zo belangrijk als wat ze wél zeggen — anti-taal definieert de grenzen van de stem.
+
+**2 categorieën:**
+
+### Universele anti-taal (altijd verboden)
+Zie de AI-Taal Blacklist hieronder. Geldt voor ALLE klanten.
+
+### Klant-specifieke anti-taal
+Woorden die passen bij het onderwerp maar NIET bij dit merk. Vastleggen bij kalibratie.
+
+| Invullen | Voorbeeld |
+|---|---|
+| Woorden die de klant expliciet afwijst | "transformatie", "ontgrendel", "reis", "synergie", "potentieel" |
+| Woorden die bij de concurrent horen | "masterclass", "community", "tribe", "family" |
+| Toon-woorden die niet passen | "lieve", "fijn", "gezellig" (bij een confronterend merk) |
+| Jargon dat de doelgroep niet gebruikt | "funnel", "lead magnet", "conversion" (bij lekentaal-merk) |
+| Zinnen die het merk ondermijnen | "Geen zweverige quotes, geen luister-naar-je-intuïtie-adviezen" |
+
+**Regel:** Anti-taal wordt geladen VÓÓR het schrijven, niet gecheckt achteraf. Het is een constraint, geen review-stap.
+
+**Enforcement:** Na elke batch: zoek-en-vervang op de anti-taal lijst. Eén hit = herschrijf die zin. Dit is niet-onderhandelbaar.
+
+## Alter Ego Routing (voor multi-person merken)
+
+Bij merken met meerdere gezichten (co-founders, team) verschilt de toon per persoon. Leg vast wie welke stem heeft en routeer per deliverable.
+
+**Per persoon vastleggen:**
+
+| Element | Persoon A | Persoon B |
+|---|---|---|
+| Naam + rol | — | — |
+| Dominante emotie | — | — |
+| Kernzin (hun signature) | — | — |
+| Perspectief | — | — |
+| Wanneer inzetten | — | — |
+
+**Routing per deliverable:**
+
+| Deliverable | Wie is het gezicht? | Waarom |
+|---|---|---|
+| Talking head ads | Per ad wisselen of vaste keuze | Afwisseling voorkomt ad fatigue |
+| VSL / webinar | Primair gezicht | Consistentie in lange content |
+| Sales call | Closer (vaak de directere persoon) | Sales vereist confrontatie |
+| Social media | Wisselen per platform of per type content | Bereik vergroten |
+| E-mail nurture | Eén stem per sequence | Vertrouwen opbouwen |
+
+**Regel:** Bepaal de Alter Ego routing VOOR het schrijven begint. Niet halverwege switchen. De prospect bouwt een relatie op met één stem per funnel-stap.
+
 ## Kalibratie-Proces
 
 ### Stap 1: Bronmateriaal verzamelen
@@ -75,17 +160,28 @@ Vraag de klant om 3-5 voorbeelden van content waar ze trots op zijn:
 ### Stap 2: Score toekennen
 Analyseer het bronmateriaal en scoor elk parameter op een schaal van 1-10.
 
-### Stap 3: Testfragmenten schrijven
+### Stap 3: Signature Taalpatronen extraheren
+Analyseer het bronmateriaal op herhalingsstructuren, herhaalwoorden, CTA-stijl, openings- en slotpatronen. Documenteer minimaal 3 patronen.
+
+### Stap 4: Anti-taal vastleggen
+Vraag de klant: "Welke woorden of zinnen passen NIET bij jullie?" Vul aan met analyse van wat de concurrent zegt (dat is per definitie anti-taal). Documenteer beide categorieën.
+
+### Stap 5: Alter Ego Routing (bij multi-person merken)
+Leg per persoon de stem vast. Bepaal wie het gezicht is per deliverable-type. Documenteer de routing-tabel.
+
+### Stap 6: Testfragmenten schrijven
 Schrijf 3 korte fragmenten (2-3 zinnen) in de gekalibreerde ToV:
 1. Een hook voor een ad
 2. Een opening van een e-mail
 3. Een stukje sales copy
 
-### Stap 4: Goedkeuring vragen
+**Check per fragment:** Bevat het minimaal 1 signature patroon? Bevat het nul anti-taal woorden? Past het bij de juiste Alter Ego?
+
+### Stap 7: Goedkeuring vragen
 Presenteer de 3 fragmenten met de vraag: "Klinkt dit als jij? Wat moet harder/zachter?"
 
-### Stap 5: Profiel vastleggen
-Sla het definitieve profiel op als referentie voor alle toekomstige output.
+### Stap 8: Profiel vastleggen
+Sla het definitieve profiel op als referentie voor alle toekomstige output. Inclusief: 10-parameter scores, stemtype, alter ego, signature patronen, anti-taal lijst, alter ego routing.
 
 ## Voorbeeld: Ingevuld Profiel
 
@@ -101,6 +197,54 @@ Inclusiviteit:   8/10 (veel "jij" en "je kind")
 Kwetsbaarheid:   7/10 (deelt eigen opvoedmomenten)
 Jargon:          2/10 (geen vakjargon, gewone taal)
 Provocatie:      5/10 (durft te zeggen "stop met straffen")
+
+Stemtype:        Bezorgde Ouder (primair) + Rebel (secundair, bij opvoedmythes)
+
+Signature patronen:
+- Herhalingsstructuur: "Niet [mythe]. Wel [waarheid]."
+- Herhaalwoorden: "verbinding", "rust", "begrenzen"
+- CTA-stijl: "Lees verder als je..." — uitnodigend, niet duwend
+- Opening: Herkenbaar scenario ("Het is 18:00, je kind schreeuwt, jij ook bijna")
+- Interpunctie: Middellange zinnen, af en toe een korte knal
+
+Anti-taal:
+- Merk-specifiek: "straf", "consequentie", "time-out", "gehoorzaam", "opstandig"
+- Concurrent-taal: "gentle parenting", "peaceful", "conscious"
+- Toon: "geweldig", "fantastisch", "super" (te enthousiast voor dit merk)
+
+Alter Ego: n.v.t. (solo-merk)
+```
+
+## Voorbeeld: Multi-Person Merk (2 founders)
+
+**Partner: [Naam A] & [Naam B] — Business coaching**
+```
+Gedeeld profiel (de merkstem):
+Formaliteit: 2/10 | Directheid: 9/10 | Humor: 3/10 | Autoriteit: 8/10
+Emotie: 5/10 | Tempo: 8/10 | Inclusiviteit: 8/10 | Kwetsbaarheid: 4/10
+Jargon: 2/10 | Provocatie: 8/10
+
+Stemtype: Rebel (primair) + Guru (secundair) + Vriend aan de Bar (tertiair)
+
+Signature patronen:
+- "Geen [X]. Geen [Y]. Wél [Z]."
+- Herhaalwoorden: "bullshit", "structuur", "resultaat", "confrontatie", "bouwen"
+- CTA-stijl: directe instructie, laagdrempelig, herhaald door de pagina
+- Opening: direct in de pijn, geen inleiding
+- Interpunctie: korte zinnen, veel witruimte, em-dash
+
+Anti-taal:
+- Nooit: "transformatie", "ontgrendel", "reis", "synergie", "potentieel"
+- Nooit: "zweverige quotes", "luister naar je intuïtie"
+- Concurrent-taal: "community", "tribe", "family", "modules"
+
+Alter Ego Routing:
+| Persoon A: Strateeg, structuurbouwer, kalme autoriteit
+| Persoon B: Salescoach, confronteerder, direct met warm randje
+| Ads: wisselen per batch (ad fatigue preventie)
+| VSL: Persoon B (confrontatie past bij video)
+| Kickstart Call: Persoon B (sales = confrontatie)
+| E-mail nurture: Persoon A (structuur, kaders, vertrouwen)
 ```
 
 ## AI-Taal Blacklist
